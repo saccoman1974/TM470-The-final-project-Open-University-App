@@ -17,7 +17,7 @@ handleLogOut = async event => {
       <nav className="navbar" role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
-            <img src="hexal-logo.png" width="112" height="28" alt="hexal logo" />
+            <img src="TM470logo.png" width="112" height="28" alt="hexal logo" />
           </a>
         </div>
 
@@ -26,11 +26,11 @@ handleLogOut = async event => {
             <a href="/" className="navbar-item">
               Home
             </a>
-            <a href="/products" className="navbar-item">
-              Products
+            <a href="/Stations" className="navbar-item">
+              Stations
             </a>
-            <a href="/admin" className="navbar-item">
-              Admin
+            <a href="/SelectedArrivals" className="navbar-item">
+              Selected arrivals
             </a>
           </div>
 
