@@ -11,18 +11,22 @@ exports.handler = async(event, context) => {
 
     const params = {
         TableName: "Stations",
-        Item: {
-            id: 'GLW',
-            productName: 'Glasgow'
-        }
+        Key: {
+          id:"EDI"
+        },
+        UpdateExpression: "set productName = :n",
+        ExpressionAttributeValues: {
+            ":n": "Aberdeen"
+        },
 
+        ReturnValues: "UPDATED_NEW"
     };
     try {
-        const data = await documentClient.put(params).promise();
+        const data = await documentClient.update(params).promise();
         responseBody = JSON.stringify(data);
-        statusCode = 201;
+        statusCode = 204;
     } catch (err) {
-        responseBody = 'unable to put station: ${err}';
+        responseBody = 'unable to update station: ${err}';
         statusCode = 403;
     }
 

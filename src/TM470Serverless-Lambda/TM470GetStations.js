@@ -10,19 +10,14 @@ exports.handler = async(event, context) => {
     let statusCode = 0;
 
     const params = {
-        TableName: "Stations",
-        Item: {
-            id: 'GLW',
-            productName: 'Glasgow'
-        }
-
+        TableName: "Stations"
     };
     try {
-        const data = await documentClient.put(params).promise();
-        responseBody = JSON.stringify(data);
-        statusCode = 201;
+        const data = await documentClient.scan(params).promise();
+        responseBody = JSON.stringify(data.Items);
+        statusCode = 200;
     } catch (err) {
-        responseBody = 'unable to put station: ${err}';
+        responseBody = 'unable to get stations: ${err}';
         statusCode = 403;
     }
 

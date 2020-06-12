@@ -11,18 +11,16 @@ exports.handler = async(event, context) => {
 
     const params = {
         TableName: "Stations",
-        Item: {
-            id: 'GLW',
-            productName: 'Glasgow'
+        Key: {
+            id: 'GLW'
         }
-
     };
     try {
-        const data = await documentClient.put(params).promise();
+        const data = await documentClient.delete(params).promise();
         responseBody = JSON.stringify(data);
-        statusCode = 201;
+        statusCode = 204;
     } catch (err) {
-        responseBody = 'unable to put station: ${err}';
+        responseBody = 'unable to delete station: ${err}';
         statusCode = 403;
     }
 
