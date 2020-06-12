@@ -12,7 +12,7 @@ exports.handler = async(event, context) => {
     const params = {
         TableName: "Stations",
         Key: {
-            id: 'GLW'
+            id: 'EDI'
         }
     };
     try {
