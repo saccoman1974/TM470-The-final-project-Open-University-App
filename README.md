@@ -25,8 +25,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
-Builds the app for Arrivalsion to the `build` folder.<br>
-It correctly bundles React in Arrivalsion mode and optimizes the build for the best performance.
+Builds the app for Stationsion to the `build` folder.<br>
+It correctly bundles React in Stationsion mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!

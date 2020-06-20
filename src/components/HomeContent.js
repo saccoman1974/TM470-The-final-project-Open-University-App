@@ -9,7 +9,7 @@ export default function HomeContent() {
                     <div className="card-content">
                         <div className="content">
                             <h4>Please begin by registering a username</h4>
-                            <p>Once you register and login you'll be able to view stations and select arrivals.</p>
+                            <p>Once you register and login you'll be able to view stations and select Stations.</p>
                         
                         </div>
                     </div>

@@ -29,8 +29,8 @@ handleLogOut = async event => {
             <a href="/Stations" className="navbar-item">
               Stations
             </a>
-            <a href="/SelectedArrivals" className="navbar-item">
-              Selected arrivals
+            <a href="/SelectedStations" className="navbar-item">
+              Selected Stations
             </a>
           </div>
 
