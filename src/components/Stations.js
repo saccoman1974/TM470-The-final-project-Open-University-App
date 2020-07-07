@@ -1,6 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import Station from './Station';
 import axios from "axios";
+import StationSearch from './StationSearch';
 const config = require('../config.json');
 
 export default class Stations extends Component {
@@ -9,6 +10,11 @@ export default class Stations extends Component {
     newStation: null,
     stationlist: []
   }
+
+  mySubmitHandler = (event) => {
+    this.setState({stationName: event.target.value});
+  }
+
 
   fetchStations = async () => {
     // add call to AWS API Gateway to fetch Stations here
@@ -25,31 +31,28 @@ export default class Stations extends Component {
 
   componentDidMount = () => {
     this.fetchStations();
+    
   }
 
   render() {
     return (
       <Fragment>
-        <section className="section">
-          <div className="container">
-            <h1>Station list</h1>
-            <p className="subtitle is-5"></p>
-            <br />
-            <div className="columns">
-              <div className="column">
-                <div className="tile is-ancestor">
-                  <div className="tile is-4 is-parent  is-vertical">
-                    {
+     
+            {!this.props.auth.isAuthenticated && ( 
+            <h1> No Station list visible. not logged in.</h1>)}
+            {this.props.auth.isAuthenticated && ( 
+            <StationSearch />)}
+
+            
+           
+            
+                <Fragment>
+            
+                    {this.props.auth.isAuthenticated && (
                       this.state.stationlist && this.state.stationlist.length > 0
                       ? this.state.stationlist.map(station => <Station name={station.StationName} id={station.id} key={station.id} />)
-                      :  <div className="tile notification is-warning">No stations available</div>
-                    }
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+                      :  <div className="tile notification is-warning">No stations available </div> )}
+            </Fragment>
       </Fragment>
     )
   }

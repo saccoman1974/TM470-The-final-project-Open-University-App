@@ -44,9 +44,6 @@ class Register extends Component {
       const signUpResponse = await Auth.signUp({
         username,
         password,
-        /*attributes: {
-           email: this.state.email
-        } */
       });
       console.log(signUpResponse);
       this.props.history.push("/welcome");
