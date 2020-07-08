@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
-import Stations from './components/Stations';
-import SelectedStations from './components/SelectedStations';
+import ArrivalsSearch from './components/ArrivalsSearch';
+import SelectedArrivals from './components/SelectedArrivals';
 import LogIn from './components/auth/LogIn';
 import Register from './components/auth/Register';
 import ForgotPassword from './components/auth/ForgotPassword';
@@ -16,6 +16,7 @@ import Footer from './components/Footer';
 import { Auth } from 'aws-amplify';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEdit } from '@fortawesome/free-solid-svg-icons';
+
 library.add(faEdit);
 
 class App extends Component {
@@ -62,8 +63,8 @@ class App extends Component {
             <Navbar auth={authProps}/>
             <Switch>
               <Route exact path="/" render={(props) => <Home {...props} auth={authProps} />} />
-              <Route exact path="/Stations" render={(props) => <Stations {...props} auth={authProps}  />} />
-              <Route exact path="/" render={(props) => <SelectedStations {...props} auth={authProps} />} />
+              <Route exact path="/ArrivalsSearch" render={(props) => <ArrivalsSearch {...props} auth={authProps}  />} />
+              <Route exact path="/SelectedArrivals" render={(props) => <SelectedArrivals {...props} auth={authProps} />} />
               <Route exact path="/login" render={(props) => <LogIn  {...props} auth={authProps} />} />
               <Route exact path="/register" render={(props) => <Register {...props} auth={authProps} />} />
               <Route exact path="/forgotpassword" render={(props) => <ForgotPassword  {...props} auth={authProps} />} />

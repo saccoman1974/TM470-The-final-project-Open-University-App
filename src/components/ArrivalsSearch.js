@@ -4,7 +4,7 @@ import axios from "axios";
 import StationSearch from './StationSearch';
 const config = require('../config.json');
 
-export default class Stations extends Component {
+export default class ArrivalsSearch extends Component {
 
   state = {
     newStation: null,
@@ -46,7 +46,7 @@ export default class Stations extends Component {
             
            
             
-                <Fragment>
+             <Fragment>
             
                     {this.props.auth.isAuthenticated && (
                       this.state.stationlist && this.state.stationlist.length > 0

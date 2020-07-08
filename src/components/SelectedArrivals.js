@@ -3,7 +3,7 @@ import Station from './Station';
 import axios from "axios";
 const config = require('../config.json');
 
-export default class SelectedStations extends Component {
+export default class SelectedArrivals extends Component {
 
   state = {
     newStation: { 
@@ -123,7 +123,7 @@ export default class SelectedStations extends Component {
                     { 
                       this.state.Stations.map((Station, index) => 
                         <Station
-                          isSelectedStations={true}
+                          isnewStation={true}
                           handleUpdateStation={this.handleUpdateStation}
                           handleDeleteStation={this.handleDeleteStation} 
                           name={Station.StationName} 

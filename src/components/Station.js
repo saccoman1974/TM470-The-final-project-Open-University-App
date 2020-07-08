@@ -1,7 +1,7 @@
 import React, { Component, Fragment }  from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-export default class SelectedStations extends Component {
+export default class SelectedArrivals extends Component {
 
   state = {
     isEditMode: false,
@@ -25,7 +25,7 @@ export default class SelectedStations extends Component {
     return (
       <div className="tile is-child box notification is-success">
         {
-          this.props.isSelectedStations && 
+          this.props.isSelectedArrivals && 
           <Fragment>
             <a href="/" onClick={this.handleStationsEdit} className="Stations-edit-icon">
               <FontAwesomeIcon icon="edit" />
