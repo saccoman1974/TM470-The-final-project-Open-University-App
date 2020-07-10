@@ -17,7 +17,7 @@ export default class StationSearch extends React.Component {
 
 
   myChangeHandler = (event) => {
-    
+    event.preventDefault();
     this.setState({stationname: event.target.value});
     
   }
