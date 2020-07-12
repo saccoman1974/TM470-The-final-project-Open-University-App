@@ -1,7 +1,7 @@
 import React, { Component, Fragment } from 'react';
 import Station from './Station';
 import axios from "axios";
-import StationSearch from './StationSearch';
+import ArrivalSearchTable from './ArrivalSearchTable';
 const config = require('../config.json');
 
 export default class ArrivalsSearch extends Component {
@@ -41,7 +41,7 @@ export default class ArrivalsSearch extends Component {
             {!this.props.auth.isAuthenticated && ( 
             <h1> No Station list visible. not logged in.</h1>)}
             {this.props.auth.isAuthenticated && ( 
-            <StationSearch />)}
+            <ArrivalSearchTable />)}
 
             
            

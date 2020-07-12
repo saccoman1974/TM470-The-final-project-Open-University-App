@@ -1,9 +1,11 @@
 import React, { Component, Fragment } from 'react';
+import ArrivalWindow from './ArrivalWindow';
+import ReactDOM, { render } from 'react-dom';
 
-import ReactDOM from 'react-dom';
 
 
-export default class StationSearch extends React.Component {
+export default class ArrivalSearchTable extends React.Component {
+  
   constructor(props) {
     super(props);
     this.state = { stationname: '' };
@@ -13,6 +15,7 @@ export default class StationSearch extends React.Component {
   mySubmitHandler = (event) => {
     event.preventDefault();
     alert("You are searching station " + this.state.stationname);
+    this.getArrivals();
   }
 
 
@@ -22,8 +25,8 @@ export default class StationSearch extends React.Component {
     
   }
 
-  componentDidMount(){
-    fetch(`https://transportapi.com/v3/uk/train/station/EDB/live.json?app_id=bddbd249&app_key=3c57b5917bd93bed4721da09773d2ca6&darwin=false&train_status=passenger&type=arrival`)
+  getArrivals(){
+    fetch(`https://transportapi.com/v3/uk/train/station/${this.state.stationname}/live.json?app_id=bddbd249&app_key=3c57b5917bd93bed4721da09773d2ca6&darwin=false&train_status=passenger&type=arrival`)
     .then(arrivals => arrivals.json())
      .then(data => this.setState({ arrivals : data.arrivals.all }));
      var string = JSON.stringify(this.state.arrivals);
@@ -36,13 +39,14 @@ export default class StationSearch extends React.Component {
      
       <p>Enter the station to search, and submit:</p>
       <input
-        type='text' value={this.state.stationname}
+        type='text' 
         onChange={this.myChangeHandler}
       />
       <input
         type='submit'
       />
-      <div id="arrivals">
+      <ArrivalWindow />
+{/*       <div id="arrivals">
        <ul>
       <p>Arrivals at station : {this.state.stationname}</p>
      {this.state.arrivals.map(arrival => (
@@ -51,10 +55,20 @@ export default class StationSearch extends React.Component {
        </li>
      ))}
      </ul>
-      </div>
+      </div> */}
       </form>
 
     );
   }
 
 }
+
+     
+
+
+    
+    
+
+
+  
+    

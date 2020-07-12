@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
-import ArrivalsSearch from './components/ArrivalsSearch';
+import ArrivalSearchTable from './components/ArrivalSearchTable';
 import SelectedArrivals from './components/SelectedArrivals';
 import LogIn from './components/auth/LogIn';
 import Register from './components/auth/Register';
@@ -63,7 +63,7 @@ class App extends Component {
             <Navbar auth={authProps}/>
             <Switch>
               <Route exact path="/" render={(props) => <Home {...props} auth={authProps} />} />
-              <Route exact path="/ArrivalsSearch" render={(props) => <ArrivalsSearch {...props} auth={authProps}  />} />
+              <Route exact path="/ArrivalSearchTable" render={(props) => <ArrivalSearchTable {...props} auth={authProps}  />} />
               <Route exact path="/SelectedArrivals" render={(props) => <SelectedArrivals {...props} auth={authProps} />} />
               <Route exact path="/login" render={(props) => <LogIn  {...props} auth={authProps} />} />
               <Route exact path="/register" render={(props) => <Register {...props} auth={authProps} />} />
