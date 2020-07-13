@@ -33,11 +33,6 @@ export default class ArrivalSearchTable extends React.Component {
 
 
 
-  selectableArrivals = (event) => {
-    event.preventDefault();
-    arriveNames = [];
-    let arriveNames = this.state.arrivals.map;
-  }
 
   getArrivals(){
     fetch(`https://transportapi.com/v3/uk/train/station/${this.state.stationname}/live.json?app_id=bddbd249&app_key=3c57b5917bd93bed4721da09773d2ca6&darwin=false&train_status=passenger&type=arrival`)
@@ -50,17 +45,21 @@ export default class ArrivalSearchTable extends React.Component {
 
  saveArrival = (event) => {
    event.preventDefault();
-   this.setState({Starting_From: event.target.name});
-   let selArrive = JSON.stringify(this.state.Starting_From);
-   alert("You have saved arrival : " + this.state.Starting_From);
-   console.log(this.state.Starting_From)
+   let selArrive = JSON.stringify(this.state.selectedArrival);
+   alert("You have saved arrival : " + this.state.selectedArrival);
+   console.log(this.state.selectedArrival)
  }
  
  savedArrival = (event) => {
    event.preventDefault();
-   this.setState({Starting_From: event.target.value});
- }
-
+   const selectedIndex = event.target.options.selectedIndex;
+   this.setState({Schedlued_time: event.target.options[selectedIndex].getAttribute('aimed_arrival_time')});
+   this.setState({selectedArrival: [event.target.value]});
+   /* this.setState({selectedArrival:[{aimed_arrival_time: event.target.value.aimed_arrival_time, origin_name:event.target.value.origin_name ,
+    status: event.target.value.status, expected_arrival_time: event.target.value.expected_arrival_time}]})
+   } */
+  
+  }
 
   
 
