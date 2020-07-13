@@ -1,7 +1,7 @@
 import React, { Component, Fragment }  from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-export default class SelectedArrivals extends Component {
+export default class searchStationForm extends Component {
 
   state = {
     isEditMode: false,

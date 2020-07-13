@@ -4,7 +4,7 @@ import axios from "axios";
 import ArrivalSearchTable from './ArrivalSearchTable';
 const config = require('../config.json');
 
-export default class ArrivalsSearch extends Component {
+export default class savedArrivals extends Component {
 
   state = {
     newStation: null,
