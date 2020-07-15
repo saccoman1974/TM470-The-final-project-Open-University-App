@@ -8,14 +8,17 @@ export default class ArrivalSearchTable extends React.Component {
   
   constructor(props) {
     super(props);
-    this.state = { stationname: '', 
+    this.state = { trainId: '',
+                   stationname: '', 
                    selectedArrival: [],
                    arrivals: [],
                    Schedlued_time: '',
                    Starting_From: '',
                    Status: '',
-                   Expected_Arrival_time: '' };
+                   Expected_Arrival_time: '', 
+                   anArrival: []
   }
+}
 
   mySubmitHandler = (event) => {
     event.preventDefault();
@@ -46,15 +49,22 @@ export default class ArrivalSearchTable extends React.Component {
  saveArrival = (event) => {
    event.preventDefault();
    let selArrive = JSON.stringify(this.state.selectedArrival);
-   alert("You have saved arrival : " + this.state.selectedArrival);
+   alert("You have saved arrival : " + this.state.selectedArrival.Schedlued_time);
+   let arriveOb = this.state.trainId
+   let arriveObj = this.state.arrivals.find(arriveOb => this.state.arrivals.train_uid === this.state.anArrival)
+   
+   console.log(arriveObj)
+ 
+  
+   
    console.log(this.state.selectedArrival)
  }
  
- savedArrival = (event) => {
+ savedArrival = (event, key) => {
    event.preventDefault();
-   const selectedIndex = event.target.options.selectedIndex;
-   this.setState({Schedlued_time: event.target.options[selectedIndex].getAttribute('aimed_arrival_time')});
-   this.setState({selectedArrival: [event.target.value]});
+   //const selectedIndex = event.target.options.selectedIndex;
+   //this.setState({[key]: this.[key].value});
+   this.setState({selectedArrival: event.target.value});
    /* this.setState({selectedArrival:[{aimed_arrival_time: event.target.value.aimed_arrival_time, origin_name:event.target.value.origin_name ,
     status: event.target.value.status, expected_arrival_time: event.target.value.expected_arrival_time}]})
    } */
@@ -88,20 +98,20 @@ export default class ArrivalSearchTable extends React.Component {
          <ul>
          <p>Arrivals at station : {this.state.stationname}</p>
          {this.state.arrivals.map(arrival => (
-         <li key={arrival.expected_arrival_time}>
+         <li key={arrival.train_uid}>
          {arrival.expected_arrival_time} : {arrival.origin_name}
          </li>
          ))}
          </ul>
          
          
-
-            
-                <form onSubmit={this.saveArrival} onChange={this.savedArrival}> 
                 
-                <select> value={this.state.arrivals.map(arrival => (
-                   <option key={arrival.origin_name} > {arrival.aimed_arrival_time} From: {arrival.origin_name} Status: {arrival.status} Expected arrival time: {arrival.expected_arrival_time}</option>
-                 )) }</select>  
+                 
+                <form onSubmit={this.saveArrival} onChange={this.savedArrival} >
+                
+               {<select> value={this.state.arrivals.map(arrival => (
+                   <option key={this.state.trainId=arrival.train_uid} > Scheduled arrival time: {arrival.aimed_arrival_time} From: {arrival.origin_name} Status: {arrival.status} Expected arrival time: {arrival.expected_arrival_time}</option>
+                 )) }</select>  } 
                  
                 
                   <p>select arrival to save</p>
