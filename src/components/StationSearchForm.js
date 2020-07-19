@@ -9,8 +9,8 @@ export default function StationSearchForm() {
         <ul>
         <p>Arrivals at station : {ArrivalSearchTable.state.stationname}</p>
         {this.state.arrivals.map(arrival => (
-        <li key={arrival.expected_arrival_time}>
-        {arrival.expected_arrival_time} : {arrival.origin_name}
+        <li key={arrival.Expected_Arrival_Time}>
+        {arrival.Expected_Arrival_Time} : {arrival.origin_name}
         </li>
         ))}
         </ul>

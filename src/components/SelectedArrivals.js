@@ -6,11 +6,11 @@ const config = require('../config.json');
 export default class SelectedArrivals extends Component {
 
   state = {
-    newStation: { 
+    newArrival: { 
       "StationName": "", 
       "id": ""
     },
-    stations: []
+        arrivals: []
   }
 
   handleAddStations = async (id, event) => {
@@ -19,11 +19,11 @@ export default class SelectedArrivals extends Component {
     try {
       const params = {
         "id": id,
-        "StationName": this.state.newStation.StationName
+        "StationName": this.state.newArrival.StationName
       };
-      await axios.post(`${config.api.invokeUrl}/Stations/${id}`, params);
-      this.setState({ Stations: [...this.state.stations, this.state.newStation] });
-      this.setState({ newStation: { "StationName": "", "id": "" }});
+      await axios.post(`${config.api.invokeUrl}/arrivals/${id}`, params);
+      this.setState({ arrivals: [...this.state.arrivals, this.state.newArrival] });
+      this.setState({ newArrival: { "StationName": "", "id": "" }});
     }catch (err) {
       console.log(`An error has occurred: ${err}`);
     }
@@ -59,85 +59,52 @@ export default class SelectedArrivals extends Component {
     }
   }
 
-  fetchStations = async () => {
+
+  fetchSelectedArrivals = async () => {
     // add call to AWS API Gateway to fetch Stations here
     // then set them in state
     try {
-      const res = await axios.get(`${config.api.invokeUrl}/stations`);
-      //const Stations = res.data;
-      this.setState({ stations: res.data });
+      await axios.get(`${config.api.invokeUrl}/arrivals`)
+      .then((response) => 
+      this.setState({arrivals : response.data.Items}));
+       const Selarrive = [this.state.arrivals.Items]
+      console.log(this.state.arrivals);
+       const arrivalString = JSON.stringify(Selarrive);
+      //this.setState({arrivals: arrivalString});
+       
+      //alert(Selarrive);
+ 
+     
+
+
     } catch (err) {
       console.log(`An error has occurred: ${err}`);
     }
   }
 
+  
+    
+    
+     
+  
 
-  onAddStationNameChange = event => this.setState({ newStation: { ...this.state.newStation, "StationName": event.target.value } });
-  onAddStationsIdChange = event => this.setState({ newStation: { ...this.state.newStation, "id": event.target.value } });
+  onAddStationNameChange = event => this.setState({ newArrival: { ...this.state.newArrival, "StationName": event.target.value } });
+  onAddStationsIdChange = event => this.setState({ newArrival: { ...this.state.newArrival, "id": event.target.value } });
 
-  componentDidMount = () => {
-    this.fetchStations();
-  }
+  componentDidMount = async () =>{
+  this.fetchSelectedArrivals();
+}
+
 
   render() {
     return (
       <Fragment>
-        <section className="section">
-          <div className="container">
-            <h1>Selected Stations</h1>
-            <p className="subtitle is-5">Add and remove Stations using the form below:</p>
-            <br />
-            <div className="columns">
-              <div className="column is-one-third">
-                <form onSubmit={event => this.handleAddStations(this.state.newStation.id, event)}>
-                  <div className="field has-addons">
-                    <div className="control">
-                      <input 
-                        className="input is-medium"
-                        type="text" 
-                        placeholder="Enter name"
-                        value={this.state.newStation.StationName}
-                        onChange={this.onAddStationNameChange}
-                      />
-                    </div>
-                    <div className="control">
-                      <input 
-                        className="input is-medium"
-                        type="text" 
-                        placeholder="Enter id"
-                        value={this.state.newStation.id}
-                        onChange={this.onAddStationsIdChange}
-                      />
-                    </div>
-                    <div className="control">
-                      <button type="submit" className="button is-primary is-medium">
-                        Add Station
-                      </button>
-                    </div>
-                  </div>
-                </form>
-              </div>
-              <div className="column is-two-thirds">
-                <div className="tile is-ancestor">
-                  <div className="tile is-4 is-parent  is-vertical">
-                    { 
-                      this.state.Stations.map((Station, index) => 
-                        <Station
-                          isnewStation={true}
-                          handleUpdateStation={this.handleUpdateStation}
-                          handleDeleteStation={this.handleDeleteStation} 
-                          name={Station.StationName} 
-                          id={Station.id}
-                          key={Station.id}
-                        />)
-                    }
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+        
+        {this.state.arrivals.map(arrival => (
+         <li key={arrival.train_id}>
+         Expected arrival time: {arrival.Expected_Arrival_Time}   Starting From: {arrival.Starting_From}
+         </li>))}
       </Fragment>
-    )
-  }
-}
+  )
+      }
+    }
