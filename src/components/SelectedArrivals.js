@@ -99,10 +99,10 @@ export default class SelectedArrivals extends Component {
   render() {
     return (
       <Fragment>
-        
+        <h1>Arrivals Currently Saved </h1>
         {this.state.arrivals.map(arrival => (
          <li key={arrival.train_id}>
-         Expected arrival time: {arrival.Expected_Arrival_Time}   Starting From: {arrival.Starting_From}
+         Expected time: {arrival.Expected_Arrival_Time}   From: {arrival.Starting_From}
          </li>))}
       </Fragment>
   )

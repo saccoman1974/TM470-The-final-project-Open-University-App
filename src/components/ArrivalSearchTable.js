@@ -9,15 +9,14 @@ export default class ArrivalSearchTable extends React.Component {
   
   constructor(props) {
     super(props);
-    this.state = { trainId: '',
-                   stationname: '', 
-                   selectedArrival: [],
-                   arrivals: [],
+    this.state = { selectedArrival: {},
+                   trainId: '',            
                    Scheduled_Time: '',
                    Starting_From: '',
                    Status: '',
-                   Expected_Arrival_Time: '', 
-                   anArrival: []
+                   Expected_Arrival_Time: '',
+                   anArrival: [],
+                   arrivals: [],
   }
 }
 
@@ -42,9 +41,7 @@ export default class ArrivalSearchTable extends React.Component {
     fetch(`https://transportapi.com/v3/uk/train/station/${this.state.stationname}/live.json?app_id=bddbd249&app_key=3c57b5917bd93bed4721da09773d2ca6&darwin=false&train_status=passenger&type=arrival`)
     .then(arrivals => arrivals.json())
      .then(data => this.setState({ arrivals : data.arrivals.all }));
-     let string = JSON.stringify(this.state.arrivals);
-     console.log(string);
-     
+ 
   }
 
  saveArrival = (event) => {
@@ -64,6 +61,37 @@ export default class ArrivalSearchTable extends React.Component {
    //const selectedIndex = event.target.options.selectedIndex;
    //this.setState({[key]: this.[key].value});
    this.setState({selectedArrival: event.target.value});
+   const pos = event.target.options.selectedIndex;
+
+   let string = JSON.stringify(this.state.arrivals[pos].train_uid);
+   let newString = string.replace(/"/g,'');
+   let cleanString = newString.replace(/\\/g,'');
+   this.setState({trainId: cleanString});
+
+   let astring = JSON.stringify(this.state.arrivals[pos].aimed_arrival_time);
+   let anewString = astring.replace(/"/g,'');
+   let acleanString = anewString.replace(/\\/g,'');
+   this.setState({Scheduled_Time: acleanString});
+
+   let bstring = JSON.stringify(this.state.arrivals[pos].origin_name);
+   let bnewString = bstring.replace(/"/g,'');
+   let bcleanString = bnewString.replace(/\\/g,'');
+   this.setState({Starting_From: bcleanString});
+
+   let cstring = JSON.stringify(this.state.arrivals[pos].status);
+   let cnewString = cstring.replace(/"/g,'');
+   let ccleanString = cnewString.replace(/\\/g,'');
+   this.setState({Status: ccleanString});
+
+   let dstring = JSON.stringify(this.state.arrivals[pos].expected_arrival_time);
+   let dnewString = dstring.replace(/"/g,'');
+   let dcleanString = dnewString.replace(/\\/g,'');
+   this.setState({Expected_Arrival_Time: dcleanString});
+   
+   this.setState({anArrival: this.cleanString})
+   console.log(cleanString);
+   console.log(event.target.options.selectedIndex);
+
    /* this.setState({selectedArrival:[{aimed_arrival_time: event.target.value.aimed_arrival_time, origin_name:event.target.value.origin_name ,
     status: event.target.value.status, Expected_Arrival_Time: event.target.value.Expected_Arrival_Time}]})
    } */
@@ -74,18 +102,19 @@ export default class ArrivalSearchTable extends React.Component {
 
     try{
       let params = {
-        TableName: "Selected_Arrivals",
-        Item: {
+         
             "Train_id": "5464",
            "Scheduled_Time": "18:00" ,
            "Starting_From": "Manchester",
                        "Status": "EARLY",
                        "Expected_Arrival_Time": "17:00"
         }
-    }
-    //let paramsToSend = JSON.stringify(params);
+    
+
+    let paramsToSend = JSON.stringify(params);
+    console.log(paramsToSend);
   
-      await axios.post(`${config.api.invokeUrl}/arrivals, ${params}`);
+      await axios.post(`https://vb08tuunv5.execute-api.eu-west-2.amazonaws.com/post2/arrivals/%7BTrain-id%7D ${paramsToSend}`);
       /* const arrivals = res.data;
       this.setState({selectedArrival: arrivals}); */
 
@@ -96,7 +125,7 @@ export default class ArrivalSearchTable extends React.Component {
   }
 
   componentDidMount = ()  => {
-    this.sendSelectedArrival();
+   this.sendSelectedArrival();
   }
   
 
@@ -125,8 +154,8 @@ export default class ArrivalSearchTable extends React.Component {
          <ul>
          <p>Arrivals at station : {this.state.stationname}</p>
          {this.state.arrivals.map(arrival => (
-         <li key={arrival.train_uid}>
-         {arrival.aimed_arrival_time} : {arrival.origin_name} : {arrival.status} Expected time : {arrival.expected_arrival_time}
+         <li key={arrival.train_uid} >
+         {arrival.aimed_arrival_time} : {arrival.origin_name}  : {arrival.status} Expected time : {arrival.expected_arrival_time}
          </li>
          ))}
          </ul>
@@ -134,15 +163,16 @@ export default class ArrivalSearchTable extends React.Component {
          
                 
                  
-                <form onSubmit={this.saveArrival} onChange={this.savedArrival} >
+                <form onSubmit={this.saveArrival} onChange={this.savedArrival}  >
                 
                {<select> value={this.state.arrivals.map(arrival => (
-                   <option key={this.state.trainId=arrival.train_uid} > {arrival.aimed_arrival_time}: {arrival.origin_name} Status: {arrival.status} Expected time: {arrival.expected_arrival_time}</option>
+                   <option  key={arrival.train_uid}  id={arrival.train_uid}> {arrival.aimed_arrival_time} : {arrival.origin_name} Status: {arrival.status} Expected time: {arrival.expected_arrival_time}</option>
+                  
                  )) }</select>  } 
                  
                 
                   <p>select arrival to save</p>
-                  <input type='submit' />
+                  <input type='submit'  />
                   
                   </form> 
 
