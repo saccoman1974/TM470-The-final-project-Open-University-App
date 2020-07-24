@@ -24,6 +24,7 @@ export default class ArrivalSearchTable extends React.Component {
     event.preventDefault();
     alert("You are searching station " + this.state.stationname);
     this.getArrivals();
+
     
   }
 
@@ -44,19 +45,18 @@ export default class ArrivalSearchTable extends React.Component {
  
   }
 
- saveArrival = (event) => {
+ saveArrival =  event => {
    event.preventDefault();
-   let selArrive = JSON.stringify(this.state.selectedArrival);
-   alert("You have saved arrival : " + this.state.selectedArrival.Scheduled_Time);
+
+   alert("You have saved arrival : " + this.state.Scheduled_Time);
    let arriveOb = this.state.trainId
    let arriveObj = this.state.arrivals.find(arriveOb => this.state.arrivals.train_uid === this.state.anArrival)
-   
-   console.log(arriveObj)
 
-   console.log(this.state.selectedArrival)
+   console.log(this.state.trainId)
+   this.sendSelectedArrival();
  }
  
- savedArrival = (event, key) => {
+ savedArrival =  event => {
    event.preventDefault();
    //const selectedIndex = event.target.options.selectedIndex;
    //this.setState({[key]: this.[key].value});
@@ -91,6 +91,7 @@ export default class ArrivalSearchTable extends React.Component {
    this.setState({anArrival: this.cleanString})
    console.log(cleanString);
    console.log(event.target.options.selectedIndex);
+  
 
    /* this.setState({selectedArrival:[{aimed_arrival_time: event.target.value.aimed_arrival_time, origin_name:event.target.value.origin_name ,
     status: event.target.value.status, Expected_Arrival_Time: event.target.value.Expected_Arrival_Time}]})
@@ -98,34 +99,53 @@ export default class ArrivalSearchTable extends React.Component {
   
   }
 
-  sendSelectedArrival = async () =>{
+  sendSelectedArrival () {
+   
+   
 
-    try{
-      let params = {
+
+    
+      let data = {
          
-            "Train_id": "5464",
-           "Scheduled_Time": "18:00" ,
-           "Starting_From": "Manchester",
-                       "Status": "EARLY",
-                       "Expected_Arrival_Time": "17:00"
+            "Train_id": this.state.trainId,
+           "Scheduled_Time": this.state.Scheduled_Time,
+           "Starting_From": this.state.Starting_From,
+                       "Status": this.state.Status,
+                       "Expected_Arrival_Time": this.state.Expected_Arrival_Time
         }
     
 
-    let paramsToSend = JSON.stringify(params);
+    let paramsToSend = JSON.stringify(data);
+    let test = this.state.trainId;
+    console.log(test);
+    test = JSON.stringify(test);
     console.log(paramsToSend);
-  
-      await axios.post(`https://vb08tuunv5.execute-api.eu-west-2.amazonaws.com/post2/arrivals/%7BTrain-id%7D ${paramsToSend}`);
-      /* const arrivals = res.data;
-      this.setState({selectedArrival: arrivals}); */
-
-    }catch(err){
-      console.log(`An error has occurred: ${err}`);
-    }
-
+    const axios = require('axios');
+    //let data = '{"Train_id":"5463","Scheduled_Time":"18:00","Starting_From":"York","Status":"EARLY","Expected_Arrival_Time":"17:00"}';
+    
+    let config = {
+      method: 'post',
+      url: 'https://vb08tuunv5.execute-api.eu-west-2.amazonaws.com/post2/arrivals/%7BTrain-id%7D',
+      headers: { 
+        'X-Amz-Content-Sha256': 'beaead3198f7da1e70d03ab969765e0821b24fc913697e929e726aeaebf0eba3', 
+        'X-Amz-Date': '20200724T152736Z', 
+        'Authorization': 'AWS4-HMAC-SHA256 Credential=AKIA4QSRPFJEQJUVE4LO/20200724/eu-west-2/execute-api/aws4_request, SignedHeaders=host;x-amz-content-sha256;x-amz-date, Signature=f1bdec163d3ae3bb1d266a1257e04cf8e908257e5588d8ec31bab62fc10d607f', 
+        'Content-Type': 'text/plain'
+      },
+      data : data
+    };
+    
+    axios(config)
+    .then((response) => {
+      console.log(JSON.stringify(response.data));
+    })
+    .catch((error) => {
+      console.log(error);
+    });
+    
   }
-
   componentDidMount = ()  => {
-   this.sendSelectedArrival();
+   
   }
   
 

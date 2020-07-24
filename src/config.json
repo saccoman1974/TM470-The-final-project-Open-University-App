@@ -1,6 +1,6 @@
 {
   "api": { 
-    "invokeUrl": "https://vb08tuunv5.execute-api.eu-west-2.amazonaws.com/arrive1"
+    "invokeUrl": "https://vb08tuunv5.execute-api.eu-west-2.amazonaws.com/post2"
   },
   "cognito": {
     "REGION": "eu-west-2",
