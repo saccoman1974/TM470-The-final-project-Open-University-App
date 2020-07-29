@@ -1,5 +1,4 @@
 import React, { Component, Fragment } from 'react';
-import Station from './Station';
 import axios from "axios";
 import ArrivalSearchTable from './ArrivalSearchTable';
 const config = require('../config.json');
@@ -52,7 +51,7 @@ export default class savedArrivals extends Component {
                       this.state.stationlist && this.state.stationlist.length > 0
                       ? this.state.stationlist.map(station => <Station name={station.StationName} id={station.id} key={station.id} />)
                       :  <div className="tile notification is-warning">No stations available </div> )}
-            </Fragment>
+          
       </Fragment>
     )
   }

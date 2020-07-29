@@ -1,45 +1,47 @@
 import React, { Component, Fragment } from 'react';
 import ReactDOM, { render } from 'react-dom';
-import StationSearchForm from './StationSearchForm';
 import axios from 'axios';
 const config = require('../config.json');
-
+const data = require('./stationsData.json');
 
 export default class ArrivalSearchTable extends React.Component {
   
   constructor(props) {
     super(props);
-    this.state = { selectedArrival: {},
+    this.state = { stationName: '',
                    trainId: '',            
                    Scheduled_Time: '',
                    Starting_From: '',
                    Status: '',
                    Expected_Arrival_Time: '',
-                   anArrival: [],
                    arrivals: [],
+                   stationCode:'',
+                   data: data
   }
 }
 
-  mySubmitHandler = (event) => {
-    event.preventDefault();
-    alert("You are searching station " + this.state.stationname);
-    this.getArrivals();
-
-    
-  }
+mySubmitHandler = (event) => {
+  event.preventDefault();
+  alert("You are searching station " + this.state.stationName);
+  this.getArrivals();
+}
 
 
-  myChangeHandler = (event) => {
-    event.preventDefault();
-    this.setState({stationname: event.target.value});
-    
-  }
-
-
+myChangeHandler = (event) => {
+  event.preventDefault();
+  this.setState({stationName: event.target.value});
+  const code =  event.target.options.selectedIndex;
+  console.log(code)
+  let crs =JSON.stringify(this.state.data[code].crsCode);
+  let cleanCrs = crs.replace(/"/g,'');
+  this.setState({stationCode: cleanCrs})
+  console.log(cleanCrs)
+  
+}
 
 
   getArrivals(){
-    fetch(`https://transportapi.com/v3/uk/train/station/${this.state.stationname}/live.json?app_id=bddbd249&app_key=3c57b5917bd93bed4721da09773d2ca6&darwin=false&train_status=passenger&type=arrival`)
+    fetch(`https://transportapi.com/v3/uk/train/station/${this.state.stationCode}/live.json?app_id=bddbd249&app_key=3c57b5917bd93bed4721da09773d2ca6&darwin=false&train_status=passenger&type=arrival`)
     .then(arrivals => arrivals.json())
      .then(data => this.setState({ arrivals : data.arrivals.all }));
  
@@ -48,9 +50,8 @@ export default class ArrivalSearchTable extends React.Component {
  saveArrival =  event => {
    event.preventDefault();
 
-   alert("You have saved arrival : " + this.state.Scheduled_Time);
-   let arriveOb = this.state.trainId
-   let arriveObj = this.state.arrivals.find(arriveOb => this.state.arrivals.train_uid === this.state.anArrival)
+   alert("You have saved an arrival coming in at " + this.state.Scheduled_Time +" from " + this.state.Starting_From);
+ 
 
    console.log(this.state.trainId)
    this.sendSelectedArrival();
@@ -149,24 +150,33 @@ export default class ArrivalSearchTable extends React.Component {
   }
   
 
+
+  
+
   render() {
   
 
     return (
      
+
+
       
       <div className="arrivalsTable">
 
-      <form onSubmit={this.mySubmitHandler}>
-     
-      <p>Enter the station to search, and submit:</p>
-      <input
-        type='text' 
-        onChange={this.myChangeHandler}
+        
+
+      <form  onSubmit={this.mySubmitHandler}  onChange={this.myChangeHandler}>
+        <label>Select the station to search, and submit: <br/>
+        <select>  value={this.state.data.map(station => (  
+        <option  key={station.stationName} id={station.crsCode} >{station.stationName}         </option>
+       
+      )) }</select>  
+      </label> 
+      <input 
+        type='submit' value='submit'
+
       />
-      <input
-        type='submit'
-      />
+      
       </form>
       
         

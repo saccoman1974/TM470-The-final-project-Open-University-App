@@ -1,0 +1,10340 @@
+ 
+ 
+ [
+ {
+  "crsCode": "AAP",
+  "stationName": "Alexandra Palace"
+ },
+ {
+  "crsCode": "AAT",
+  "stationName": "Achanalt"
+ },
+ {
+  "crsCode": "ABA",
+  "stationName": "Aberdare"
+ },
+ {
+  "crsCode": "ABC",
+  "stationName": "Altnabreac"
+ },
+ {
+  "crsCode": "ABD",
+  "stationName": "Aberdeen"
+ },
+ {
+  "crsCode": "ABE",
+  "stationName": "Aber"
+ },
+ {
+  "crsCode": "ABH",
+  "stationName": "Abererch"
+ },
+ {
+  "crsCode": "ABW",
+  "stationName": "Abbey Wood"
+ },
+ {
+  "crsCode": "ABY",
+  "stationName": "Ashburys"
+ },
+ {
+  "crsCode": "ACB",
+  "stationName": "Acton Bridge (Cheshire)"
+ },
+ {
+  "crsCode": "ACC",
+  "stationName": "Acton Central"
+ },
+ {
+  "crsCode": "ACG",
+  "stationName": "Acocks Green"
+ },
+ {
+  "crsCode": "ACH",
+  "stationName": "Achnashellach"
+ },
+ {
+  "crsCode": "ACK",
+  "stationName": "Acklington"
+ },
+ {
+  "crsCode": "ACL",
+  "stationName": "Acle"
+ },
+ {
+  "crsCode": "ACN",
+  "stationName": "Achnasheen"
+ },
+ {
+  "crsCode": "ACR",
+  "stationName": "Accrington"
+ },
+ {
+  "crsCode": "ACT",
+  "stationName": "Ascot (Berks)"
+ },
+ {
+  "crsCode": "ACY",
+  "stationName": "Abercynon"
+ },
+ {
+  "crsCode": "ADC",
+  "stationName": "Adlington (Cheshire)"
+ },
+ {
+  "crsCode": "ADD",
+  "stationName": "Adderley Park"
+ },
+ {
+  "crsCode": "ADK",
+  "stationName": "Ardwick"
+ },
+ {
+  "crsCode": "ADL",
+  "stationName": "Adlington (Lancashire)"
+ },
+ {
+  "crsCode": "ADM",
+  "stationName": "Adisham"
+ },
+ {
+  "crsCode": "ADN",
+  "stationName": "Ardrossan Town"
+ },
+ {
+  "crsCode": "ADR",
+  "stationName": "Airdrie"
+ },
+ {
+  "crsCode": "ADS",
+  "stationName": "Ardrossan Harbour"
+ },
+ {
+  "crsCode": "ADV",
+  "stationName": "Andover"
+ },
+ {
+  "crsCode": "ADW",
+  "stationName": "Addiewell"
+ },
+ {
+  "crsCode": "AFK",
+  "stationName": "Ashford International"
+ },
+ {
+  "crsCode": "AFS",
+  "stationName": "Ashford (Surrey)"
+ },
+ {
+  "crsCode": "AFV",
+  "stationName": "Ansdell & Fairhaven"
+ },
+ {
+  "crsCode": "AGL",
+  "stationName": "Abergele & Pensarn"
+ },
+ {
+  "crsCode": "AGR",
+  "stationName": "Angel Road"
+ },
+ {
+  "crsCode": "AGS",
+  "stationName": "Argyle Street"
+ },
+ {
+  "crsCode": "AGT",
+  "stationName": "Aldrington"
+ },
+ {
+  "crsCode": "AGV",
+  "stationName": "Abergavenny"
+ },
+ {
+  "crsCode": "AHD",
+  "stationName": "Ashtead"
+ },
+ {
+  "crsCode": "AHN",
+  "stationName": "Ashton-under-Lyne"
+ },
+ {
+  "crsCode": "AHS",
+  "stationName": "Ashurst (Kent)"
+ },
+ {
+  "crsCode": "AHT",
+  "stationName": "Aldershot"
+ },
+ {
+  "crsCode": "AHV",
+  "stationName": "Ash Vale"
+ },
+ {
+  "crsCode": "AIG",
+  "stationName": "Aigburth"
+ },
+ {
+  "crsCode": "AIN",
+  "stationName": "Aintree"
+ },
+ {
+  "crsCode": "AIR",
+  "stationName": "Airbles"
+ },
+ {
+  "crsCode": "ALB",
+  "stationName": "Albrighton"
+ },
+ {
+  "crsCode": "ALD",
+  "stationName": "Alderley Edge"
+ },
+ {
+  "crsCode": "ALF",
+  "stationName": "Alfreton"
+ },
+ {
+  "crsCode": "ALK",
+  "stationName": "Aslockton"
+ },
+ {
+  "crsCode": "ALM",
+  "stationName": "Alnmouth"
+ },
+ {
+  "crsCode": "ALN",
+  "stationName": "Althorne (Essex)"
+ },
+ {
+  "crsCode": "ALO",
+  "stationName": "Alloa"
+ },
+ {
+  "crsCode": "ALP",
+  "stationName": "Althorpe"
+ },
+ {
+  "crsCode": "ALR",
+  "stationName": "Alresford (Essex)"
+ },
+ {
+  "crsCode": "ALT",
+  "stationName": "Altrincham"
+ },
+ {
+  "crsCode": "ALV",
+  "stationName": "Alvechurch"
+ },
+ {
+  "crsCode": "ALW",
+  "stationName": "Allens West"
+ },
+ {
+  "crsCode": "ALX",
+  "stationName": "Alexandria"
+ },
+ {
+  "crsCode": "AMB",
+  "stationName": "Ambergate"
+ },
+ {
+  "crsCode": "AMF",
+  "stationName": "Ammanford"
+ },
+ {
+  "crsCode": "AML",
+  "stationName": "Acton Main Line"
+ },
+ {
+  "crsCode": "AMR",
+  "stationName": "Amersham"
+ },
+ {
+  "crsCode": "AMT",
+  "stationName": "Aldermaston"
+ },
+ {
+  "crsCode": "AMY",
+  "stationName": "Amberley"
+ },
+ {
+  "crsCode": "ANC",
+  "stationName": "Ancaster"
+ },
+ {
+  "crsCode": "AND",
+  "stationName": "Anderston"
+ },
+ {
+  "crsCode": "ANF",
+  "stationName": "Ashurst New Forest"
+ },
+ {
+  "crsCode": "ANG",
+  "stationName": "Angmering"
+ },
+ {
+  "crsCode": "ANL",
+  "stationName": "Anniesland"
+ },
+ {
+  "crsCode": "ANN",
+  "stationName": "Annan"
+ },
+ {
+  "crsCode": "ANS",
+  "stationName": "Ainsdale"
+ },
+ {
+  "crsCode": "ANZ",
+  "stationName": "Anerley"
+ },
+ {
+  "crsCode": "AON",
+  "stationName": "Alton"
+ },
+ {
+  "crsCode": "APB",
+  "stationName": "Appley Bridge"
+ },
+ {
+  "crsCode": "APD",
+  "stationName": "Appledore (Kent)"
+ },
+ {
+  "crsCode": "APF",
+  "stationName": "Appleford"
+ },
+ {
+  "crsCode": "APG",
+  "stationName": "Apsley Guise"
+ },
+ {
+  "crsCode": "APP",
+  "stationName": "Appleby"
+ },
+ {
+  "crsCode": "APS",
+  "stationName": "Apsley"
+ },
+ {
+  "crsCode": "APY",
+  "stationName": "Apperley Bridge"
+ },
+ {
+  "crsCode": "ARB",
+  "stationName": "Arbroath"
+ },
+ {
+  "crsCode": "ARD",
+  "stationName": "Ardgay"
+ },
+ {
+  "crsCode": "ARG",
+  "stationName": "Arisaig"
+ },
+ {
+  "crsCode": "ARL",
+  "stationName": "Arlesey"
+ },
+ {
+  "crsCode": "ARM",
+  "stationName": "Armadale (West Lothian)"
+ },
+ {
+  "crsCode": "ARN",
+  "stationName": "Arnside"
+ },
+ {
+  "crsCode": "ARR",
+  "stationName": "Arram"
+ },
+ {
+  "crsCode": "ART",
+  "stationName": "Arrochar & Tarbet"
+ },
+ {
+  "crsCode": "ARU",
+  "stationName": "Arundel"
+ },
+ {
+  "crsCode": "ASB",
+  "stationName": "Ardrossan South Beach"
+ },
+ {
+  "crsCode": "ASC",
+  "stationName": "Ashchurch for Tewkesbury"
+ },
+ {
+  "crsCode": "ASF",
+  "stationName": "Ashfield"
+ },
+ {
+  "crsCode": "ASG",
+  "stationName": "Alsager"
+ },
+ {
+  "crsCode": "ASH",
+  "stationName": "Ash"
+ },
+ {
+  "crsCode": "ASI",
+  "stationName": "Ashford International (Eurostar)"
+ },
+ {
+  "crsCode": "ASK",
+  "stationName": "Askam"
+ },
+ {
+  "crsCode": "ASN",
+  "stationName": "Addlestone"
+ },
+ {
+  "crsCode": "ASP",
+  "stationName": "Aspatria"
+ },
+ {
+  "crsCode": "ASS",
+  "stationName": "Alness"
+ },
+ {
+  "crsCode": "AST",
+  "stationName": "Aston"
+ },
+ {
+  "crsCode": "ASY",
+  "stationName": "Ashley"
+ },
+ {
+  "crsCode": "ATB",
+  "stationName": "Attenborough"
+ },
+ {
+  "crsCode": "ATH",
+  "stationName": "Atherstone"
+ },
+ {
+  "crsCode": "ATL",
+  "stationName": "Attleborough"
+ },
+ {
+  "crsCode": "ATN",
+  "stationName": "Atherton"
+ },
+ {
+  "crsCode": "ATT",
+  "stationName": "Attadale"
+ },
+ {
+  "crsCode": "AUD",
+  "stationName": "Audley End"
+ },
+ {
+  "crsCode": "AUG",
+  "stationName": "Aughton Park"
+ },
+ {
+  "crsCode": "AUI",
+  "stationName": "Ardlui"
+ },
+ {
+  "crsCode": "AUK",
+  "stationName": "Auchinleck"
+ },
+ {
+  "crsCode": "AUR",
+  "stationName": "Aberdour"
+ },
+ {
+  "crsCode": "AUW",
+  "stationName": "Ascott-under-Wychwood"
+ },
+ {
+  "crsCode": "AVF",
+  "stationName": "Avoncliff"
+ },
+ {
+  "crsCode": "AVM",
+  "stationName": "Aviemore"
+ },
+ {
+  "crsCode": "AVN",
+  "stationName": "Avonmouth"
+ },
+ {
+  "crsCode": "AVP",
+  "stationName": "Aylesbury Vale Parkway"
+ },
+ {
+  "crsCode": "AVY",
+  "stationName": "Aberdovey"
+ },
+ {
+  "crsCode": "AWK",
+  "stationName": "Adwick"
+ },
+ {
+  "crsCode": "AWM",
+  "stationName": "Ashwell & Morden"
+ },
+ {
+  "crsCode": "AWT",
+  "stationName": "Armathwaite"
+ },
+ {
+  "crsCode": "AXM",
+  "stationName": "Axminster"
+ },
+ {
+  "crsCode": "AXP",
+  "stationName": "Alexandra Parade"
+ },
+ {
+  "crsCode": "AYH",
+  "stationName": "Aylesham"
+ },
+ {
+  "crsCode": "AYL",
+  "stationName": "Aylesford"
+ },
+ {
+  "crsCode": "AYP",
+  "stationName": "Albany Park"
+ },
+ {
+  "crsCode": "AYR",
+  "stationName": "Ayr"
+ },
+ {
+  "crsCode": "AYS",
+  "stationName": "Aylesbury"
+ },
+ {
+  "crsCode": "AYW",
+  "stationName": "Aberystwyth"
+ },
+ {
+  "crsCode": "BAA",
+  "stationName": "Barnham"
+ },
+ {
+  "crsCode": "BAB",
+  "stationName": "Balcombe"
+ },
+ {
+  "crsCode": "BAC",
+  "stationName": "Bache"
+ },
+ {
+  "crsCode": "BAD",
+  "stationName": "Banstead"
+ },
+ {
+  "crsCode": "BAG",
+  "stationName": "Bagshot"
+ },
+ {
+  "crsCode": "BAH",
+  "stationName": "Bank Hall"
+ },
+ {
+  "crsCode": "BAI",
+  "stationName": "Blairhill"
+ },
+ {
+  "crsCode": "BAJ",
+  "stationName": "Baglan"
+ },
+ {
+  "crsCode": "BAK",
+  "stationName": "Battersea Park"
+ },
+ {
+  "crsCode": "BAL",
+  "stationName": "Balham"
+ },
+ {
+  "crsCode": "BAM",
+  "stationName": "Bamford"
+ },
+ {
+  "crsCode": "BAN",
+  "stationName": "Banbury"
+ },
+ {
+  "crsCode": "BAR",
+  "stationName": "Bare Lane"
+ },
+ {
+  "crsCode": "BAS",
+  "stationName": "Bere Alston"
+ },
+ {
+  "crsCode": "BAT",
+  "stationName": "Battle"
+ },
+ {
+  "crsCode": "BAU",
+  "stationName": "Barton-on-Humber"
+ },
+ {
+  "crsCode": "BAV",
+  "stationName": "Barrow Haven"
+ },
+ {
+  "crsCode": "BAW",
+  "stationName": "Blackwater"
+ },
+ {
+  "crsCode": "BAY",
+  "stationName": "Bayford"
+ },
+ {
+  "crsCode": "BBG",
+  "stationName": "Bishopbriggs"
+ },
+ {
+  "crsCode": "BBK",
+  "stationName": "Bilbrook"
+ },
+ {
+  "crsCode": "BBL",
+  "stationName": "Bat & Ball"
+ },
+ {
+  "crsCode": "BBN",
+  "stationName": "Blackburn"
+ },
+ {
+  "crsCode": "BBS",
+  "stationName": "Bordesley"
+ },
+ {
+  "crsCode": "BBW",
+  "stationName": "Berry Brow"
+ },
+ {
+  "crsCode": "BCB",
+  "stationName": "Burscough Bridge"
+ },
+ {
+  "crsCode": "BCC",
+  "stationName": "Beccles"
+ },
+ {
+  "crsCode": "BCE",
+  "stationName": "Bracknell"
+ },
+ {
+  "crsCode": "BCF",
+  "stationName": "Beaconsfield"
+ },
+ {
+  "crsCode": "BCG",
+  "stationName": "Birchgrove"
+ },
+ {
+  "crsCode": "BCH",
+  "stationName": "Birchington-on-sea"
+ },
+ {
+  "crsCode": "BCJ",
+  "stationName": "Burscough Junction"
+ },
+ {
+  "crsCode": "BCK",
+  "stationName": "Buckley"
+ },
+ {
+  "crsCode": "BCN",
+  "stationName": "Branchton"
+ },
+ {
+  "crsCode": "BCS",
+  "stationName": "Bicester North"
+ },
+ {
+  "crsCode": "BCU",
+  "stationName": "Brockenhurst"
+ },
+ {
+  "crsCode": "BCV",
+  "stationName": "Bruce Grove"
+ },
+ {
+  "crsCode": "BCY",
+  "stationName": "Brockley"
+ },
+ {
+  "crsCode": "BDA",
+  "stationName": "Brundall"
+ },
+ {
+  "crsCode": "BDB",
+  "stationName": "Broadbottom"
+ },
+ {
+  "crsCode": "BDG",
+  "stationName": "Bridgeton"
+ },
+ {
+  "crsCode": "BDH",
+  "stationName": "Bedhampton"
+ },
+ {
+  "crsCode": "BDI",
+  "stationName": "Bradford Interchange"
+ },
+ {
+  "crsCode": "BDK",
+  "stationName": "Baldock"
+ },
+ {
+  "crsCode": "BDL",
+  "stationName": "Birkdale"
+ },
+ {
+  "crsCode": "BDM",
+  "stationName": "Bedford"
+ },
+ {
+  "crsCode": "BDN",
+  "stationName": "Brading"
+ },
+ {
+  "crsCode": "BDQ",
+  "stationName": "Bradford Forster Square"
+ },
+ {
+  "crsCode": "BDT",
+  "stationName": "Bridlington"
+ },
+ {
+  "crsCode": "BDW",
+  "stationName": "Bedwyn"
+ },
+ {
+  "crsCode": "BDY",
+  "stationName": "Bredbury"
+ },
+ {
+  "crsCode": "BEA",
+  "stationName": "Bridge of Allan"
+ },
+ {
+  "crsCode": "BEB",
+  "stationName": "Bebington"
+ },
+ {
+  "crsCode": "BEC",
+  "stationName": "Beckenham Hill"
+ },
+ {
+  "crsCode": "BEE",
+  "stationName": "Beeston"
+ },
+ {
+  "crsCode": "BEF",
+  "stationName": "Benfleet"
+ },
+ {
+  "crsCode": "BEG",
+  "stationName": "Beltring"
+ },
+ {
+  "crsCode": "BEH",
+  "stationName": "Bedworth"
+ },
+ {
+  "crsCode": "BEL",
+  "stationName": "Beauly"
+ },
+ {
+  "crsCode": "BEM",
+  "stationName": "Bempton"
+ },
+ {
+  "crsCode": "BEN",
+  "stationName": "Bentham"
+ },
+ {
+  "crsCode": "BEP",
+  "stationName": "Bermuda Park"
+ },
+ {
+  "crsCode": "BER",
+  "stationName": "Bearley"
+ },
+ {
+  "crsCode": "BES",
+  "stationName": "Bescar Lane"
+ },
+ {
+  "crsCode": "BET",
+  "stationName": "Bethnal Green"
+ },
+ {
+  "crsCode": "BEU",
+  "stationName": "Beaulieu Road"
+ },
+ {
+  "crsCode": "BEV",
+  "stationName": "Beverley"
+ },
+ {
+  "crsCode": "BEX",
+  "stationName": "Bexhill"
+ },
+ {
+  "crsCode": "BEY",
+  "stationName": "Ben Rhydding"
+ },
+ {
+  "crsCode": "BFD",
+  "stationName": "Brentford"
+ },
+ {
+  "crsCode": "BFE",
+  "stationName": "Bere Ferrers"
+ },
+ {
+  "crsCode": "BFF",
+  "stationName": "Blaenau Ffestiniog"
+ },
+ {
+  "crsCode": "BFN",
+  "stationName": "Byfleet & New Haw"
+ },
+ {
+  "crsCode": "BFR",
+  "stationName": "London Blackfriars"
+ },
+ {
+  "crsCode": "BGA",
+  "stationName": "Brundall Gardens"
+ },
+ {
+  "crsCode": "BGD",
+  "stationName": "Bargoed"
+ },
+ {
+  "crsCode": "BGE",
+  "stationName": "Broad Green"
+ },
+ {
+  "crsCode": "BGG",
+  "stationName": "Brigg"
+ },
+ {
+  "crsCode": "BGH",
+  "stationName": "Brighouse"
+ },
+ {
+  "crsCode": "BGI",
+  "stationName": "Bargeddie"
+ },
+ {
+  "crsCode": "BGL",
+  "stationName": "Bugle"
+ },
+ {
+  "crsCode": "BGM",
+  "stationName": "Bellingham"
+ },
+ {
+  "crsCode": "BGN",
+  "stationName": "Bridgend"
+ },
+ {
+  "crsCode": "BGS",
+  "stationName": "Bogston"
+ },
+ {
+  "crsCode": "BHC",
+  "stationName": "Balloch"
+ },
+ {
+  "crsCode": "BHD",
+  "stationName": "Brithdir"
+ },
+ {
+  "crsCode": "BHG",
+  "stationName": "Bathgate"
+ },
+ {
+  "crsCode": "BHI",
+  "stationName": "Birmingham International"
+ },
+ {
+  "crsCode": "BHK",
+  "stationName": "Bush Hill Park"
+ },
+ {
+  "crsCode": "BHM",
+  "stationName": "Birmingham New Street"
+ },
+ {
+  "crsCode": "BHO",
+  "stationName": "Blackhorse Road"
+ },
+ {
+  "crsCode": "BHR",
+  "stationName": "Builth Road"
+ },
+ {
+  "crsCode": "BHS",
+  "stationName": "Brockholes"
+ },
+ {
+  "crsCode": "BIA",
+  "stationName": "Bishop Auckland"
+ },
+ {
+  "crsCode": "BIC",
+  "stationName": "Billericay"
+ },
+ {
+  "crsCode": "BID",
+  "stationName": "Bidston"
+ },
+ {
+  "crsCode": "BIF",
+  "stationName": "Barrow-in-Furness"
+ },
+ {
+  "crsCode": "BIG",
+  "stationName": "Billingshurst"
+ },
+ {
+  "crsCode": "BIK",
+  "stationName": "Birkbeck"
+ },
+ {
+  "crsCode": "BIL",
+  "stationName": "Billingham"
+ },
+ {
+  "crsCode": "BIN",
+  "stationName": "Bingham"
+ },
+ {
+  "crsCode": "BIO",
+  "stationName": "Baillieston"
+ },
+ {
+  "crsCode": "BIP",
+  "stationName": "Bishopstone (Sussex)"
+ },
+ {
+  "crsCode": "BIS",
+  "stationName": "Bishops Stortford"
+ },
+ {
+  "crsCode": "BIT",
+  "stationName": "Bicester Village"
+ },
+ {
+  "crsCode": "BIW",
+  "stationName": "Biggleswade"
+ },
+ {
+  "crsCode": "BIY",
+  "stationName": "Bingley"
+ },
+ {
+  "crsCode": "BKA",
+  "stationName": "Bookham"
+ },
+ {
+  "crsCode": "BKC",
+  "stationName": "Birkenhead Central"
+ },
+ {
+  "crsCode": "BKD",
+  "stationName": "Blakedown"
+ },
+ {
+  "crsCode": "BKG",
+  "stationName": "Barking"
+ },
+ {
+  "crsCode": "BKH",
+  "stationName": "Blackheath"
+ },
+ {
+  "crsCode": "BKJ",
+  "stationName": "Beckenham Junction"
+ },
+ {
+  "crsCode": "BKL",
+  "stationName": "Bickley"
+ },
+ {
+  "crsCode": "BKM",
+  "stationName": "Berkhamsted"
+ },
+ {
+  "crsCode": "BKN",
+  "stationName": "Birkenhead North"
+ },
+ {
+  "crsCode": "BKO",
+  "stationName": "Brookwood"
+ },
+ {
+  "crsCode": "BKP",
+  "stationName": "Birkenhead Park"
+ },
+ {
+  "crsCode": "BKQ",
+  "stationName": "Birkenhead Hamilton Square"
+ },
+ {
+  "crsCode": "BKR",
+  "stationName": "Blackridge"
+ },
+ {
+  "crsCode": "BKS",
+  "stationName": "Bekesbourne"
+ },
+ {
+  "crsCode": "BKT",
+  "stationName": "Blake Street"
+ },
+ {
+  "crsCode": "BKW",
+  "stationName": "Berkswell"
+ },
+ {
+  "crsCode": "BLA",
+  "stationName": "Blair Atholl"
+ },
+ {
+  "crsCode": "BLB",
+  "stationName": "Battlesbridge"
+ },
+ {
+  "crsCode": "BLD",
+  "stationName": "Baildon"
+ },
+ {
+  "crsCode": "BLE",
+  "stationName": "Bramley (West Yorkshire)"
+ },
+ {
+  "crsCode": "BLG",
+  "stationName": "Bellgrove"
+ },
+ {
+  "crsCode": "BLH",
+  "stationName": "Bellshill"
+ },
+ {
+  "crsCode": "BLK",
+  "stationName": "Blackrod"
+ },
+ {
+  "crsCode": "BLL",
+  "stationName": "Bardon Mill"
+ },
+ {
+  "crsCode": "BLM",
+  "stationName": "Belmont"
+ },
+ {
+  "crsCode": "BLN",
+  "stationName": "Blundellsands & Crosby"
+ },
+ {
+  "crsCode": "BLO",
+  "stationName": "Blaydon"
+ },
+ {
+  "crsCode": "BLP",
+  "stationName": "Belper"
+ },
+ {
+  "crsCode": "BLT",
+  "stationName": "Blantyre"
+ },
+ {
+  "crsCode": "BLV",
+  "stationName": "Belle Vue"
+ },
+ {
+  "crsCode": "BLW",
+  "stationName": "Bulwell"
+ },
+ {
+  "crsCode": "BLX",
+  "stationName": "Bloxwich"
+ },
+ {
+  "crsCode": "BLY",
+  "stationName": "Bletchley"
+ },
+ {
+  "crsCode": "BMB",
+  "stationName": "Bamber Bridge"
+ },
+ {
+  "crsCode": "BMC",
+  "stationName": "Bromley Cross (Lancs)"
+ },
+ {
+  "crsCode": "BMD",
+  "stationName": "Brimsdown"
+ },
+ {
+  "crsCode": "BME",
+  "stationName": "Broome"
+ },
+ {
+  "crsCode": "BMF",
+  "stationName": "Broomfleet"
+ },
+ {
+  "crsCode": "BMG",
+  "stationName": "Barming"
+ },
+ {
+  "crsCode": "BMH",
+  "stationName": "Bournemouth"
+ },
+ {
+  "crsCode": "BML",
+  "stationName": "Bramhall"
+ },
+ {
+  "crsCode": "BMN",
+  "stationName": "Bromley North"
+ },
+ {
+  "crsCode": "BMO",
+  "stationName": "Birmingham Moor Street"
+ },
+ {
+  "crsCode": "BMP",
+  "stationName": "Brampton (Cumbria)"
+ },
+ {
+  "crsCode": "BMR",
+  "stationName": "Bromborough Rake"
+ },
+ {
+  "crsCode": "BMS",
+  "stationName": "Bromley South"
+ },
+ {
+  "crsCode": "BMT",
+  "stationName": "Bedminster"
+ },
+ {
+  "crsCode": "BMV",
+  "stationName": "Bromsgrove"
+ },
+ {
+  "crsCode": "BMY",
+  "stationName": "Bramley (Hampshire)"
+ },
+ {
+  "crsCode": "BNA",
+  "stationName": "Burnage"
+ },
+ {
+  "crsCode": "BNC",
+  "stationName": "Burnley Central"
+ },
+ {
+  "crsCode": "BND",
+  "stationName": "Brandon"
+ },
+ {
+  "crsCode": "BNE",
+  "stationName": "Bourne End"
+ },
+ {
+  "crsCode": "BNF",
+  "stationName": "Briton Ferry"
+ },
+ {
+  "crsCode": "BNG",
+  "stationName": "Bangor (Gwynedd)"
+ },
+ {
+  "crsCode": "BNH",
+  "stationName": "Barnehurst"
+ },
+ {
+  "crsCode": "BNI",
+  "stationName": "Barnes Bridge"
+ },
+ {
+  "crsCode": "BNL",
+  "stationName": "Barnhill"
+ },
+ {
+  "crsCode": "BNM",
+  "stationName": "Burnham (Buckinghamshire)"
+ },
+ {
+  "crsCode": "BNP",
+  "stationName": "Barnstaple"
+ },
+ {
+  "crsCode": "BNS",
+  "stationName": "Barnes"
+ },
+ {
+  "crsCode": "BNT",
+  "stationName": "Brinnington"
+ },
+ {
+  "crsCode": "BNV",
+  "stationName": "Banavie"
+ },
+ {
+  "crsCode": "BNW",
+  "stationName": "Bootle New Strand"
+ },
+ {
+  "crsCode": "BNY",
+  "stationName": "Barnsley"
+ },
+ {
+  "crsCode": "BOA",
+  "stationName": "Bradford-on-Avon"
+ },
+ {
+  "crsCode": "BOC",
+  "stationName": "Bootle (Cumbria)"
+ },
+ {
+  "crsCode": "BOD",
+  "stationName": "Bodmin Parkway"
+ },
+ {
+  "crsCode": "BOE",
+  "stationName": "Botley"
+ },
+ {
+  "crsCode": "BOG",
+  "stationName": "Bognor Regis"
+ },
+ {
+  "crsCode": "BOH",
+  "stationName": "Bosham"
+ },
+ {
+  "crsCode": "BOM",
+  "stationName": "Bromborough"
+ },
+ {
+  "crsCode": "BON",
+  "stationName": "Bolton"
+ },
+ {
+  "crsCode": "BOP",
+  "stationName": "Bowes Park"
+ },
+ {
+  "crsCode": "BOR",
+  "stationName": "Bodorgan"
+ },
+ {
+  "crsCode": "BOT",
+  "stationName": "Bootle Oriel Road"
+ },
+ {
+  "crsCode": "BPB",
+  "stationName": "Blackpool Pleasure Beach"
+ },
+ {
+  "crsCode": "BPK",
+  "stationName": "Brookmans Park"
+ },
+ {
+  "crsCode": "BPN",
+  "stationName": "Blackpool North"
+ },
+ {
+  "crsCode": "BPS",
+  "stationName": "Blackpool South"
+ },
+ {
+  "crsCode": "BPT",
+  "stationName": "Bishopton (Renfrewshire)"
+ },
+ {
+  "crsCode": "BPW",
+  "stationName": "Bristol Parkway"
+ },
+ {
+  "crsCode": "BRA",
+  "stationName": "Brora"
+ },
+ {
+  "crsCode": "BRC",
+  "stationName": "Breich"
+ },
+ {
+  "crsCode": "BRE",
+  "stationName": "Brentwood"
+ },
+ {
+  "crsCode": "BRF",
+  "stationName": "Brierfield"
+ },
+ {
+  "crsCode": "BRG",
+  "stationName": "Borough Green & Wrotham"
+ },
+ {
+  "crsCode": "BRH",
+  "stationName": "Borth"
+ },
+ {
+  "crsCode": "BRI",
+  "stationName": "Bristol Temple Meads"
+ },
+ {
+  "crsCode": "BRK",
+  "stationName": "Berwick (Sussex)"
+ },
+ {
+  "crsCode": "BRL",
+  "stationName": "Barrhill"
+ },
+ {
+  "crsCode": "BRM",
+  "stationName": "Barmouth"
+ },
+ {
+  "crsCode": "BRN",
+  "stationName": "Bearsden"
+ },
+ {
+  "crsCode": "BRO",
+  "stationName": "Bridge of Orchy"
+ },
+ {
+  "crsCode": "BRP",
+  "stationName": "Brampton (Suffolk)"
+ },
+ {
+  "crsCode": "BRR",
+  "stationName": "Barrhead"
+ },
+ {
+  "crsCode": "BRS",
+  "stationName": "Berrylands"
+ },
+ {
+  "crsCode": "BRT",
+  "stationName": "Barlaston"
+ },
+ {
+  "crsCode": "BRU",
+  "stationName": "Bruton"
+ },
+ {
+  "crsCode": "BRV",
+  "stationName": "Bournville"
+ },
+ {
+  "crsCode": "BRW",
+  "stationName": "Brunswick"
+ },
+ {
+  "crsCode": "BRX",
+  "stationName": "Brixton"
+ },
+ {
+  "crsCode": "BRY",
+  "stationName": "Barry"
+ },
+ {
+  "crsCode": "BSB",
+  "stationName": "Bleasby"
+ },
+ {
+  "crsCode": "BSC",
+  "stationName": "Bescot Stadium"
+ },
+ {
+  "crsCode": "BSD",
+  "stationName": "Bearsted"
+ },
+ {
+  "crsCode": "BSE",
+  "stationName": "Bury St Edmunds"
+ },
+ {
+  "crsCode": "BSH",
+  "stationName": "Bushey"
+ },
+ {
+  "crsCode": "BSI",
+  "stationName": "Balmossie"
+ },
+ {
+  "crsCode": "BSJ",
+  "stationName": "Bedford St Johns"
+ },
+ {
+  "crsCode": "BSK",
+  "stationName": "Basingstoke"
+ },
+ {
+  "crsCode": "BSL",
+  "stationName": "Beasdale"
+ },
+ {
+  "crsCode": "BSM",
+  "stationName": "Branksome"
+ },
+ {
+  "crsCode": "BSN",
+  "stationName": "Boston"
+ },
+ {
+  "crsCode": "BSO",
+  "stationName": "Basildon"
+ },
+ {
+  "crsCode": "BSP",
+  "stationName": "Brondesbury Park"
+ },
+ {
+  "crsCode": "BSR",
+  "stationName": "Broadstairs"
+ },
+ {
+  "crsCode": "BSS",
+  "stationName": "Barassie"
+ },
+ {
+  "crsCode": "BSU",
+  "stationName": "Brunstane"
+ },
+ {
+  "crsCode": "BSV",
+  "stationName": "Buckshaw Parkway"
+ },
+ {
+  "crsCode": "BSW",
+  "stationName": "Birmingham Snow Hill"
+ },
+ {
+  "crsCode": "BSY",
+  "stationName": "Brondesbury"
+ },
+ {
+  "crsCode": "BSZ",
+  "stationName": "Bond Street"
+ },
+ {
+  "crsCode": "BTB",
+  "stationName": "Barnetby"
+ },
+ {
+  "crsCode": "BTD",
+  "stationName": "Bolton-upon-Dearne"
+ },
+ {
+  "crsCode": "BTE",
+  "stationName": "Bitterne"
+ },
+ {
+  "crsCode": "BTF",
+  "stationName": "Bottesford"
+ },
+ {
+  "crsCode": "BTG",
+  "stationName": "Barnt Green"
+ },
+ {
+  "crsCode": "BTH",
+  "stationName": "Bath Spa"
+ },
+ {
+  "crsCode": "BTL",
+  "stationName": "Batley"
+ },
+ {
+  "crsCode": "BTN",
+  "stationName": "Brighton"
+ },
+ {
+  "crsCode": "BTO",
+  "stationName": "Betchworth"
+ },
+ {
+  "crsCode": "BTP",
+  "stationName": "Braintree Freeport"
+ },
+ {
+  "crsCode": "BTR",
+  "stationName": "Braintree"
+ },
+ {
+  "crsCode": "BTS",
+  "stationName": "Burntisland"
+ },
+ {
+  "crsCode": "BTT",
+  "stationName": "Battersby"
+ },
+ {
+  "crsCode": "BTY",
+  "stationName": "Bentley (Hampshire)"
+ },
+ {
+  "crsCode": "BUB",
+  "stationName": "Burnley Barracks"
+ },
+ {
+  "crsCode": "BUC",
+  "stationName": "Buckenham"
+ },
+ {
+  "crsCode": "BUD",
+  "stationName": "Burneside (Cumbria)"
+ },
+ {
+  "crsCode": "BUE",
+  "stationName": "Bures"
+ },
+ {
+  "crsCode": "BUG",
+  "stationName": "Burgess Hill"
+ },
+ {
+  "crsCode": "BUH",
+  "stationName": "Brough"
+ },
+ {
+  "crsCode": "BUI",
+  "stationName": "Burnside (South Lanarkshire)"
+ },
+ {
+  "crsCode": "BUJ",
+  "stationName": "Burton Joyce"
+ },
+ {
+  "crsCode": "BUK",
+  "stationName": "Bucknell"
+ },
+ {
+  "crsCode": "BUL",
+  "stationName": "Butlers Lane"
+ },
+ {
+  "crsCode": "BUO",
+  "stationName": "Bursledon"
+ },
+ {
+  "crsCode": "BUS",
+  "stationName": "Busby"
+ },
+ {
+  "crsCode": "BUT",
+  "stationName": "Burton-on-Trent"
+ },
+ {
+  "crsCode": "BUU",
+  "stationName": "Burnham-on-Crouch"
+ },
+ {
+  "crsCode": "BUW",
+  "stationName": "Burley-in-Wharfedale"
+ },
+ {
+  "crsCode": "BUX",
+  "stationName": "Buxton"
+ },
+ {
+  "crsCode": "BUY",
+  "stationName": "Burley Park"
+ },
+ {
+  "crsCode": "BVD",
+  "stationName": "Belvedere"
+ },
+ {
+  "crsCode": "BWB",
+  "stationName": "Bow Brickhill"
+ },
+ {
+  "crsCode": "BWD",
+  "stationName": "Birchwood"
+ },
+ {
+  "crsCode": "BWG",
+  "stationName": "Bowling"
+ },
+ {
+  "crsCode": "BWK",
+  "stationName": "Berwick-upon-Tweed"
+ },
+ {
+  "crsCode": "BWN",
+  "stationName": "Bloxwich North"
+ },
+ {
+  "crsCode": "BWO",
+  "stationName": "Bricket Wood"
+ },
+ {
+  "crsCode": "BWS",
+  "stationName": "Barrow-upon-Soar"
+ },
+ {
+  "crsCode": "BWT",
+  "stationName": "Bridgwater"
+ },
+ {
+  "crsCode": "BXB",
+  "stationName": "Broxbourne"
+ },
+ {
+  "crsCode": "BXD",
+  "stationName": "Buxted"
+ },
+ {
+  "crsCode": "BXH",
+  "stationName": "Bexleyheath"
+ },
+ {
+  "crsCode": "BXW",
+  "stationName": "Box Hill & Westhumble"
+ },
+ {
+  "crsCode": "BXY",
+  "stationName": "Bexley"
+ },
+ {
+  "crsCode": "BYA",
+  "stationName": "Berney Arms"
+ },
+ {
+  "crsCode": "BYB",
+  "stationName": "Blythe Bridge"
+ },
+ {
+  "crsCode": "BYC",
+  "stationName": "Betws-y-Coed"
+ },
+ {
+  "crsCode": "BYD",
+  "stationName": "Barry Docks"
+ },
+ {
+  "crsCode": "BYE",
+  "stationName": "Bynea"
+ },
+ {
+  "crsCode": "BYF",
+  "stationName": "Broughty Ferry"
+ },
+ {
+  "crsCode": "BYI",
+  "stationName": "Barry Island"
+ },
+ {
+  "crsCode": "BYK",
+  "stationName": "Bentley (South Yorkshire)"
+ },
+ {
+  "crsCode": "BYL",
+  "stationName": "Barry Links"
+ },
+ {
+  "crsCode": "BYM",
+  "stationName": "Burnley Manchester Road"
+ },
+ {
+  "crsCode": "BYN",
+  "stationName": "Bryn"
+ },
+ {
+  "crsCode": "BYS",
+  "stationName": "Braystones"
+ },
+ {
+  "crsCode": "CAA",
+  "stationName": "Coventry Arena"
+ },
+ {
+  "crsCode": "CAC",
+  "stationName": "Caldercruix"
+ },
+ {
+  "crsCode": "CAD",
+  "stationName": "Cadoxton"
+ },
+ {
+  "crsCode": "CAG",
+  "stationName": "Carrbridge"
+ },
+ {
+  "crsCode": "CAK",
+  "stationName": "Cark & Cartmel"
+ },
+ {
+  "crsCode": "CAM",
+  "stationName": "Camberley"
+ },
+ {
+  "crsCode": "CAN",
+  "stationName": "Carnoustie"
+ },
+ {
+  "crsCode": "CAO",
+  "stationName": "Cannock"
+ },
+ {
+  "crsCode": "CAR",
+  "stationName": "Carlisle"
+ },
+ {
+  "crsCode": "CAS",
+  "stationName": "Castleton (Manchester)"
+ },
+ {
+  "crsCode": "CAT",
+  "stationName": "Caterham"
+ },
+ {
+  "crsCode": "CAU",
+  "stationName": "Causeland"
+ },
+ {
+  "crsCode": "CAY",
+  "stationName": "Carntyne"
+ },
+ {
+  "crsCode": "CBB",
+  "stationName": "Carbis Bay"
+ },
+ {
+  "crsCode": "CBC",
+  "stationName": "Coatbridge Central"
+ },
+ {
+  "crsCode": "CBD",
+  "stationName": "Conon Bridge"
+ },
+ {
+  "crsCode": "CBE",
+  "stationName": "Canterbury East"
+ },
+ {
+  "crsCode": "CBG",
+  "stationName": "Cambridge"
+ },
+ {
+  "crsCode": "CBH",
+  "stationName": "Cambridge Heath"
+ },
+ {
+  "crsCode": "CBK",
+  "stationName": "Cranbrook (Devon)"
+ },
+ {
+  "crsCode": "CBL",
+  "stationName": "Cambuslang"
+ },
+ {
+  "crsCode": "CBN",
+  "stationName": "Camborne"
+ },
+ {
+  "crsCode": "CBP",
+  "stationName": "Castle Bar Park"
+ },
+ {
+  "crsCode": "CBR",
+  "stationName": "Cooksbridge"
+ },
+ {
+  "crsCode": "CBS",
+  "stationName": "Coatbridge Sunnyside"
+ },
+ {
+  "crsCode": "CBW",
+  "stationName": "Canterbury West"
+ },
+ {
+  "crsCode": "CBY",
+  "stationName": "Charlbury"
+ },
+ {
+  "crsCode": "CCC",
+  "stationName": "Criccieth"
+ },
+ {
+  "crsCode": "CCH",
+  "stationName": "Chichester"
+ },
+ {
+  "crsCode": "CCT",
+  "stationName": "Cathcart"
+ },
+ {
+  "crsCode": "CDB",
+  "stationName": "Cardiff Bay"
+ },
+ {
+  "crsCode": "CDD",
+  "stationName": "Cardenden"
+ },
+ {
+  "crsCode": "CDF",
+  "stationName": "Cardiff Central"
+ },
+ {
+  "crsCode": "CDI",
+  "stationName": "Crediton"
+ },
+ {
+  "crsCode": "CDN",
+  "stationName": "Coulsdon Town"
+ },
+ {
+  "crsCode": "CDO",
+  "stationName": "Cardonald"
+ },
+ {
+  "crsCode": "CDQ",
+  "stationName": "Cardiff Queen Street"
+ },
+ {
+  "crsCode": "CDR",
+  "stationName": "Cardross"
+ },
+ {
+  "crsCode": "CDS",
+  "stationName": "Coulsdon South"
+ },
+ {
+  "crsCode": "CDT",
+  "stationName": "Caldicot"
+ },
+ {
+  "crsCode": "CDU",
+  "stationName": "Cam & Dursley"
+ },
+ {
+  "crsCode": "CDY",
+  "stationName": "Cartsdyke"
+ },
+ {
+  "crsCode": "CEA",
+  "stationName": "Cleland"
+ },
+ {
+  "crsCode": "CED",
+  "stationName": "Cheddington"
+ },
+ {
+  "crsCode": "CEF",
+  "stationName": "Chapel-en-le-Frith"
+ },
+ {
+  "crsCode": "CEH",
+  "stationName": "Coleshill Parkway"
+ },
+ {
+  "crsCode": "CEL",
+  "stationName": "Chelford (Cheshire)"
+ },
+ {
+  "crsCode": "CES",
+  "stationName": "Cressing (Essex)"
+ },
+ {
+  "crsCode": "CET",
+  "stationName": "Colchester Town"
+ },
+ {
+  "crsCode": "CEY",
+  "stationName": "Cononley"
+ },
+ {
+  "crsCode": "CFB",
+  "stationName": "Catford Bridge"
+ },
+ {
+  "crsCode": "CFC",
+  "stationName": "Corfe Castle"
+ },
+ {
+  "crsCode": "CFD",
+  "stationName": "Castleford"
+ },
+ {
+  "crsCode": "CFF",
+  "stationName": "Croftfoot"
+ },
+ {
+  "crsCode": "CFH",
+  "stationName": "Chafford Hundred Lakeside"
+ },
+ {
+  "crsCode": "CFL",
+  "stationName": "Crossflatts"
+ },
+ {
+  "crsCode": "CFN",
+  "stationName": "Clifton Down"
+ },
+ {
+  "crsCode": "CFO",
+  "stationName": "Chalfont & Latimer"
+ },
+ {
+  "crsCode": "CFR",
+  "stationName": "Chandlers Ford"
+ },
+ {
+  "crsCode": "CFT",
+  "stationName": "Crofton Park"
+ },
+ {
+  "crsCode": "CGD",
+  "stationName": "Craigendoran"
+ },
+ {
+  "crsCode": "CGM",
+  "stationName": "Cottingham"
+ },
+ {
+  "crsCode": "CGN",
+  "stationName": "Cogan"
+ },
+ {
+  "crsCode": "CGW",
+  "stationName": "Caergwrle"
+ },
+ {
+  "crsCode": "CHC",
+  "stationName": "Charing Cross (Glasgow)"
+ },
+ {
+  "crsCode": "CHD",
+  "stationName": "Chesterfield"
+ },
+ {
+  "crsCode": "CHE",
+  "stationName": "Cheam"
+ },
+ {
+  "crsCode": "CHF",
+  "stationName": "Church Fenton"
+ },
+ {
+  "crsCode": "CHG",
+  "stationName": "Charing (Kent)"
+ },
+ {
+  "crsCode": "CHH",
+  "stationName": "Christs Hospital"
+ },
+ {
+  "crsCode": "CHI",
+  "stationName": "Chingford"
+ },
+ {
+  "crsCode": "CHK",
+  "stationName": "Chiswick"
+ },
+ {
+  "crsCode": "CHL",
+  "stationName": "Chilworth"
+ },
+ {
+  "crsCode": "CHM",
+  "stationName": "Chelmsford"
+ },
+ {
+  "crsCode": "CHN",
+  "stationName": "Cheshunt"
+ },
+ {
+  "crsCode": "CHO",
+  "stationName": "Cholsey"
+ },
+ {
+  "crsCode": "CHP",
+  "stationName": "Chipstead"
+ },
+ {
+  "crsCode": "CHR",
+  "stationName": "Christchurch"
+ },
+ {
+  "crsCode": "CHT",
+  "stationName": "Chathill"
+ },
+ {
+  "crsCode": "CHU",
+  "stationName": "Cheadle Hulme"
+ },
+ {
+  "crsCode": "CHW",
+  "stationName": "Chalkwell"
+ },
+ {
+  "crsCode": "CHX",
+  "stationName": "London Charing Cross"
+ },
+ {
+  "crsCode": "CHY",
+  "stationName": "Chertsey"
+ },
+ {
+  "crsCode": "CIL",
+  "stationName": "Chilham"
+ },
+ {
+  "crsCode": "CIM",
+  "stationName": "Cilmeri"
+ },
+ {
+  "crsCode": "CIR",
+  "stationName": "Caledonian Road & Barnsbury"
+ },
+ {
+  "crsCode": "CIT",
+  "stationName": "Chislehurst"
+ },
+ {
+  "crsCode": "CKH",
+  "stationName": "Corkerhill"
+ },
+ {
+  "crsCode": "CKL",
+  "stationName": "Corkickle"
+ },
+ {
+  "crsCode": "CKN",
+  "stationName": "Crewkerne"
+ },
+ {
+  "crsCode": "CKS",
+  "stationName": "Clarkston"
+ },
+ {
+  "crsCode": "CKT",
+  "stationName": "Crookston"
+ },
+ {
+  "crsCode": "CKY",
+  "stationName": "Crosskeys"
+ },
+ {
+  "crsCode": "CLA",
+  "stationName": "Clandon"
+ },
+ {
+  "crsCode": "CLC",
+  "stationName": "Castle Cary"
+ },
+ {
+  "crsCode": "CLD",
+  "stationName": "Chelsfield"
+ },
+ {
+  "crsCode": "CLE",
+  "stationName": "Cleethorpes"
+ },
+ {
+  "crsCode": "CLG",
+  "stationName": "Claygate"
+ },
+ {
+  "crsCode": "CLH",
+  "stationName": "Clitheroe"
+ },
+ {
+  "crsCode": "CLI",
+  "stationName": "Clifton (Manchester)"
+ },
+ {
+  "crsCode": "CLJ",
+  "stationName": "Clapham Junction"
+ },
+ {
+  "crsCode": "CLK",
+  "stationName": "Clock House"
+ },
+ {
+  "crsCode": "CLL",
+  "stationName": "Collington"
+ },
+ {
+  "crsCode": "CLM",
+  "stationName": "Collingham"
+ },
+ {
+  "crsCode": "CLN",
+  "stationName": "Chapeltown (South Yorkshire)"
+ },
+ {
+  "crsCode": "CLP",
+  "stationName": "Clapham High Street"
+ },
+ {
+  "crsCode": "CLR",
+  "stationName": "Clarbeston Road"
+ },
+ {
+  "crsCode": "CLS",
+  "stationName": "Chester-le-Street"
+ },
+ {
+  "crsCode": "CLT",
+  "stationName": "Clacton-on-Sea"
+ },
+ {
+  "crsCode": "CLU",
+  "stationName": "Carluke"
+ },
+ {
+  "crsCode": "CLV",
+  "stationName": "Claverdon"
+ },
+ {
+  "crsCode": "CLW",
+  "stationName": "Chorleywood"
+ },
+ {
+  "crsCode": "CLY",
+  "stationName": "Chinley"
+ },
+ {
+  "crsCode": "CMB",
+  "stationName": "Cambridge North"
+ },
+ {
+  "crsCode": "CMD",
+  "stationName": "Camden Road"
+ },
+ {
+  "crsCode": "CME",
+  "stationName": "Combe (Oxon)"
+ },
+ {
+  "crsCode": "CMF",
+  "stationName": "Cromford"
+ },
+ {
+  "crsCode": "CMH",
+  "stationName": "Cwmbach"
+ },
+ {
+  "crsCode": "CML",
+  "stationName": "Carmyle"
+ },
+ {
+  "crsCode": "CMN",
+  "stationName": "Carmarthen"
+ },
+ {
+  "crsCode": "CMO",
+  "stationName": "Camelon"
+ },
+ {
+  "crsCode": "CMR",
+  "stationName": "Cromer"
+ },
+ {
+  "crsCode": "CMY",
+  "stationName": "Crossmyloof"
+ },
+ {
+  "crsCode": "CNE",
+  "stationName": "Colne"
+ },
+ {
+  "crsCode": "CNF",
+  "stationName": "Carnforth"
+ },
+ {
+  "crsCode": "CNG",
+  "stationName": "Congleton"
+ },
+ {
+  "crsCode": "CNL",
+  "stationName": "Canley"
+ },
+ {
+  "crsCode": "CNM",
+  "stationName": "Cheltenham Spa"
+ },
+ {
+  "crsCode": "CNN",
+  "stationName": "Canonbury"
+ },
+ {
+  "crsCode": "CNO",
+  "stationName": "Chetnole"
+ },
+ {
+  "crsCode": "CNP",
+  "stationName": "Conway Park"
+ },
+ {
+  "crsCode": "CNR",
+  "stationName": "Crianlarich"
+ },
+ {
+  "crsCode": "CNS",
+  "stationName": "Conisbrough"
+ },
+ {
+  "crsCode": "CNW",
+  "stationName": "Conwy"
+ },
+ {
+  "crsCode": "CNY",
+  "stationName": "Cantley"
+ },
+ {
+  "crsCode": "COA",
+  "stationName": "Coatdyke"
+ },
+ {
+  "crsCode": "COB",
+  "stationName": "Cooden Beach"
+ },
+ {
+  "crsCode": "COE",
+  "stationName": "Coombe Junction Halt"
+ },
+ {
+  "crsCode": "COH",
+  "stationName": "Crowborough"
+ },
+ {
+  "crsCode": "COI",
+  "stationName": "Crosshill"
+ },
+ {
+  "crsCode": "COL",
+  "stationName": "Colchester"
+ },
+ {
+  "crsCode": "COM",
+  "stationName": "Commondale"
+ },
+ {
+  "crsCode": "CON",
+  "stationName": "Connel Ferry"
+ },
+ {
+  "crsCode": "COO",
+  "stationName": "Cookham"
+ },
+ {
+  "crsCode": "COP",
+  "stationName": "Copplestone"
+ },
+ {
+  "crsCode": "COR",
+  "stationName": "Corby"
+ },
+ {
+  "crsCode": "COS",
+  "stationName": "Cosford"
+ },
+ {
+  "crsCode": "COT",
+  "stationName": "Cottingley"
+ },
+ {
+  "crsCode": "COV",
+  "stationName": "Coventry"
+ },
+ {
+  "crsCode": "COW",
+  "stationName": "Cowdenbeath"
+ },
+ {
+  "crsCode": "COY",
+  "stationName": "Coryton"
+ },
+ {
+  "crsCode": "CPA",
+  "stationName": "Corpach"
+ },
+ {
+  "crsCode": "CPH",
+  "stationName": "Caerphilly"
+ },
+ {
+  "crsCode": "CPK",
+  "stationName": "Carpenders Park"
+ },
+ {
+  "crsCode": "CPM",
+  "stationName": "Chippenham"
+ },
+ {
+  "crsCode": "CPN",
+  "stationName": "Chapelton (Devon)"
+ },
+ {
+  "crsCode": "CPT",
+  "stationName": "Clapton"
+ },
+ {
+  "crsCode": "CPU",
+  "stationName": "Capenhurst"
+ },
+ {
+  "crsCode": "CPW",
+  "stationName": "Chepstow"
+ },
+ {
+  "crsCode": "CPY",
+  "stationName": "Clapham (North Yorkshire)"
+ },
+ {
+  "crsCode": "CRA",
+  "stationName": "Cradley Heath"
+ },
+ {
+  "crsCode": "CRB",
+  "stationName": "Corbridge"
+ },
+ {
+  "crsCode": "CRD",
+  "stationName": "Chester Road"
+ },
+ {
+  "crsCode": "CRE",
+  "stationName": "Crewe"
+ },
+ {
+  "crsCode": "CRF",
+  "stationName": "Carfin"
+ },
+ {
+  "crsCode": "CRG",
+  "stationName": "Cross Gates"
+ },
+ {
+  "crsCode": "CRH",
+  "stationName": "Crouch Hill"
+ },
+ {
+  "crsCode": "CRI",
+  "stationName": "Cricklewood"
+ },
+ {
+  "crsCode": "CRK",
+  "stationName": "Chirk"
+ },
+ {
+  "crsCode": "CRL",
+  "stationName": "Chorley"
+ },
+ {
+  "crsCode": "CRM",
+  "stationName": "Cramlington"
+ },
+ {
+  "crsCode": "CRN",
+  "stationName": "Crowthorne"
+ },
+ {
+  "crsCode": "CRO",
+  "stationName": "Croy"
+ },
+ {
+  "crsCode": "CRR",
+  "stationName": "Corrour"
+ },
+ {
+  "crsCode": "CRS",
+  "stationName": "Carstairs"
+ },
+ {
+  "crsCode": "CRT",
+  "stationName": "Chartham"
+ },
+ {
+  "crsCode": "CRV",
+  "stationName": "Craven Arms"
+ },
+ {
+  "crsCode": "CRW",
+  "stationName": "Crawley"
+ },
+ {
+  "crsCode": "CRY",
+  "stationName": "Crayford"
+ },
+ {
+  "crsCode": "CSA",
+  "stationName": "Cosham"
+ },
+ {
+  "crsCode": "CSB",
+  "stationName": "Carshalton Beeches"
+ },
+ {
+  "crsCode": "CSD",
+  "stationName": "Cobham & Stoke d'Abernon"
+ },
+ {
+  "crsCode": "CSG",
+  "stationName": "Cressington"
+ },
+ {
+  "crsCode": "CSH",
+  "stationName": "Carshalton"
+ },
+ {
+  "crsCode": "CSK",
+  "stationName": "Calstock"
+ },
+ {
+  "crsCode": "CSL",
+  "stationName": "Codsall"
+ },
+ {
+  "crsCode": "CSM",
+  "stationName": "Castleton Moor"
+ },
+ {
+  "crsCode": "CSN",
+  "stationName": "Chessington North"
+ },
+ {
+  "crsCode": "CSO",
+  "stationName": "Croston"
+ },
+ {
+  "crsCode": "CSR",
+  "stationName": "Chassen Road"
+ },
+ {
+  "crsCode": "CSS",
+  "stationName": "Chessington South"
+ },
+ {
+  "crsCode": "CST",
+  "stationName": "London Cannon Street"
+ },
+ {
+  "crsCode": "CSW",
+  "stationName": "Chestfield & Swalecliffe"
+ },
+ {
+  "crsCode": "CSY",
+  "stationName": "Coseley"
+ },
+ {
+  "crsCode": "CTE",
+  "stationName": "Chatelherault"
+ },
+ {
+  "crsCode": "CTF",
+  "stationName": "Catford"
+ },
+ {
+  "crsCode": "CTH",
+  "stationName": "Chadwell Heath"
+ },
+ {
+  "crsCode": "CTK",
+  "stationName": "City Thameslink"
+ },
+ {
+  "crsCode": "CTL",
+  "stationName": "Cattal"
+ },
+ {
+  "crsCode": "CTM",
+  "stationName": "Chatham"
+ },
+ {
+  "crsCode": "CTN",
+  "stationName": "Charlton"
+ },
+ {
+  "crsCode": "CTO",
+  "stationName": "Carlton"
+ },
+ {
+  "crsCode": "CTR",
+  "stationName": "Chester"
+ },
+ {
+  "crsCode": "CTT",
+  "stationName": "Church Stretton"
+ },
+ {
+  "crsCode": "CTW",
+  "stationName": "Church & Oswaldtwistle"
+ },
+ {
+  "crsCode": "CUA",
+  "stationName": "Culrain"
+ },
+ {
+  "crsCode": "CUB",
+  "stationName": "Cumbernauld"
+ },
+ {
+  "crsCode": "CUD",
+  "stationName": "Cuddington"
+ },
+ {
+  "crsCode": "CUF",
+  "stationName": "Cuffley"
+ },
+ {
+  "crsCode": "CUH",
+  "stationName": "Curriehill"
+ },
+ {
+  "crsCode": "CUM",
+  "stationName": "Culham"
+ },
+ {
+  "crsCode": "CUP",
+  "stationName": "Cupar"
+ },
+ {
+  "crsCode": "CUS",
+  "stationName": "Custom House"
+ },
+ {
+  "crsCode": "CUW",
+  "stationName": "Clunderwen"
+ },
+ {
+  "crsCode": "CUX",
+  "stationName": "Cuxton"
+ },
+ {
+  "crsCode": "CWB",
+  "stationName": "Colwyn Bay"
+ },
+ {
+  "crsCode": "CWC",
+  "stationName": "Chappel & Wakes Colne"
+ },
+ {
+  "crsCode": "CWD",
+  "stationName": "Creswell"
+ },
+ {
+  "crsCode": "CWE",
+  "stationName": "Crowle"
+ },
+ {
+  "crsCode": "CWF",
+  "stationName": "Canary Wharf"
+ },
+ {
+  "crsCode": "CWH",
+  "stationName": "Crews Hill"
+ },
+ {
+  "crsCode": "CWL",
+  "stationName": "Colwall"
+ },
+ {
+  "crsCode": "CWM",
+  "stationName": "Cwmbran"
+ },
+ {
+  "crsCode": "CWN",
+  "stationName": "Cowden (Kent)"
+ },
+ {
+  "crsCode": "CWS",
+  "stationName": "Caersws"
+ },
+ {
+  "crsCode": "CWU",
+  "stationName": "Crowhurst"
+ },
+ {
+  "crsCode": "CYB",
+  "stationName": "Cefn-y-Bedd"
+ },
+ {
+  "crsCode": "CYK",
+  "stationName": "Clydebank"
+ },
+ {
+  "crsCode": "CYN",
+  "stationName": "Cynghordy"
+ },
+ {
+  "crsCode": "CYP",
+  "stationName": "Crystal Palace"
+ },
+ {
+  "crsCode": "CYS",
+  "stationName": "Cathays"
+ },
+ {
+  "crsCode": "CYT",
+  "stationName": "Cherry Tree"
+ },
+ {
+  "crsCode": "DAG",
+  "stationName": "Dalgety Bay"
+ },
+ {
+  "crsCode": "DAK",
+  "stationName": "Dalmarnock"
+ },
+ {
+  "crsCode": "DAL",
+  "stationName": "Dalmally"
+ },
+ {
+  "crsCode": "DAM",
+  "stationName": "Dalmeny"
+ },
+ {
+  "crsCode": "DAN",
+  "stationName": "Darnall"
+ },
+ {
+  "crsCode": "DAR",
+  "stationName": "Darlington"
+ },
+ {
+  "crsCode": "DAT",
+  "stationName": "Datchet"
+ },
+ {
+  "crsCode": "DBC",
+  "stationName": "Dumbarton Central"
+ },
+ {
+  "crsCode": "DBD",
+  "stationName": "Denby Dale"
+ },
+ {
+  "crsCode": "DBE",
+  "stationName": "Dumbarton East"
+ },
+ {
+  "crsCode": "DBG",
+  "stationName": "Mottisfont & Dunbridge"
+ },
+ {
+  "crsCode": "DBL",
+  "stationName": "Dunblane"
+ },
+ {
+  "crsCode": "DBR",
+  "stationName": "Derby Road (Ipswich)"
+ },
+ {
+  "crsCode": "DBY",
+  "stationName": "Derby"
+ },
+ {
+  "crsCode": "DCG",
+  "stationName": "Duncraig"
+ },
+ {
+  "crsCode": "DCH",
+  "stationName": "Dorchester South"
+ },
+ {
+  "crsCode": "DCT",
+  "stationName": "Danescourt"
+ },
+ {
+  "crsCode": "DCW",
+  "stationName": "Dorchester West"
+ },
+ {
+  "crsCode": "DDG",
+  "stationName": "Dorridge"
+ },
+ {
+  "crsCode": "DDK",
+  "stationName": "Dagenham Dock"
+ },
+ {
+  "crsCode": "DDP",
+  "stationName": "Dudley Port"
+ },
+ {
+  "crsCode": "DEA",
+  "stationName": "Deal"
+ },
+ {
+  "crsCode": "DEE",
+  "stationName": "Dundee"
+ },
+ {
+  "crsCode": "DEN",
+  "stationName": "Dean (Wilts)"
+ },
+ {
+  "crsCode": "DEP",
+  "stationName": "Deptford"
+ },
+ {
+  "crsCode": "DEW",
+  "stationName": "Dewsbury"
+ },
+ {
+  "crsCode": "DFD",
+  "stationName": "Dartford"
+ },
+ {
+  "crsCode": "DFE",
+  "stationName": "Dunfermline Town"
+ },
+ {
+  "crsCode": "DFI",
+  "stationName": "Duffield"
+ },
+ {
+  "crsCode": "DFL",
+  "stationName": "Dunfermline Queen Margaret"
+ },
+ {
+  "crsCode": "DFP",
+  "stationName": "Dublin Ferryport"
+ },
+ {
+  "crsCode": "DFR",
+  "stationName": "Drumfrochar"
+ },
+ {
+  "crsCode": "DGC",
+  "stationName": "Denham Golf Club"
+ },
+ {
+  "crsCode": "DGL",
+  "stationName": "Dingle Road"
+ },
+ {
+  "crsCode": "DGT",
+  "stationName": "Deansgate"
+ },
+ {
+  "crsCode": "DGY",
+  "stationName": "Deganwy"
+ },
+ {
+  "crsCode": "DHM",
+  "stationName": "Durham"
+ },
+ {
+  "crsCode": "DHN",
+  "stationName": "Deighton"
+ },
+ {
+  "crsCode": "DID",
+  "stationName": "Didcot Parkway"
+ },
+ {
+  "crsCode": "DIG",
+  "stationName": "Digby & Sowton"
+ },
+ {
+  "crsCode": "DIN",
+  "stationName": "Dingwall"
+ },
+ {
+  "crsCode": "DIS",
+  "stationName": "Diss"
+ },
+ {
+  "crsCode": "DKD",
+  "stationName": "Dunkeld & Birnam"
+ },
+ {
+  "crsCode": "DKG",
+  "stationName": "Dorking (Main)"
+ },
+ {
+  "crsCode": "DKT",
+  "stationName": "Dorking West"
+ },
+ {
+  "crsCode": "DLG",
+  "stationName": "Dolgarrog"
+ },
+ {
+  "crsCode": "DLH",
+  "stationName": "Doleham"
+ },
+ {
+  "crsCode": "DLJ",
+  "stationName": "Dalston Junction"
+ },
+ {
+  "crsCode": "DLK",
+  "stationName": "Dalston Kingsland"
+ },
+ {
+  "crsCode": "DLM",
+  "stationName": "Delamere"
+ },
+ {
+  "crsCode": "DLR",
+  "stationName": "Dalreoch"
+ },
+ {
+  "crsCode": "DLS",
+  "stationName": "Dalston (Cumbria)"
+ },
+ {
+  "crsCode": "DLT",
+  "stationName": "Dalton (Cumbria)"
+ },
+ {
+  "crsCode": "DLW",
+  "stationName": "Dalwhinnie"
+ },
+ {
+  "crsCode": "DLY",
+  "stationName": "Dalry"
+ },
+ {
+  "crsCode": "DMC",
+  "stationName": "Drumchapel"
+ },
+ {
+  "crsCode": "DMF",
+  "stationName": "Dumfries"
+ },
+ {
+  "crsCode": "DMG",
+  "stationName": "Dinas (Rhondda)"
+ },
+ {
+  "crsCode": "DMH",
+  "stationName": "Dilton Marsh"
+ },
+ {
+  "crsCode": "DMK",
+  "stationName": "Denmark Hill"
+ },
+ {
+  "crsCode": "DMP",
+  "stationName": "Dumpton Park"
+ },
+ {
+  "crsCode": "DMR",
+  "stationName": "Dalmuir"
+ },
+ {
+  "crsCode": "DMS",
+  "stationName": "Dormans"
+ },
+ {
+  "crsCode": "DMY",
+  "stationName": "Drumry"
+ },
+ {
+  "crsCode": "DND",
+  "stationName": "Dinsdale"
+ },
+ {
+  "crsCode": "DNG",
+  "stationName": "Dunton Green"
+ },
+ {
+  "crsCode": "DNL",
+  "stationName": "Dunlop"
+ },
+ {
+  "crsCode": "DNM",
+  "stationName": "Denham"
+ },
+ {
+  "crsCode": "DNO",
+  "stationName": "Dunrobin Castle"
+ },
+ {
+  "crsCode": "DNS",
+  "stationName": "Dinas Powys"
+ },
+ {
+  "crsCode": "DNT",
+  "stationName": "Dent"
+ },
+ {
+  "crsCode": "DNY",
+  "stationName": "Danby"
+ },
+ {
+  "crsCode": "DOC",
+  "stationName": "Dockyard (Devonport)"
+ },
+ {
+  "crsCode": "DOD",
+  "stationName": "Dodworth"
+ },
+ {
+  "crsCode": "DOL",
+  "stationName": "Dolau"
+ },
+ {
+  "crsCode": "DON",
+  "stationName": "Doncaster"
+ },
+ {
+  "crsCode": "DOR",
+  "stationName": "Dore & Totley"
+ },
+ {
+  "crsCode": "DOT",
+  "stationName": "Dunston"
+ },
+ {
+  "crsCode": "DOW",
+  "stationName": "Downham Market"
+ },
+ {
+  "crsCode": "DPD",
+  "stationName": "Dorking (Deepdene)"
+ },
+ {
+  "crsCode": "DPS",
+  "stationName": "Dublin Port - Stena"
+ },
+ {
+  "crsCode": "DPT",
+  "stationName": "Devonport"
+ },
+ {
+  "crsCode": "DRF",
+  "stationName": "Driffield"
+ },
+ {
+  "crsCode": "DRG",
+  "stationName": "Drayton Green"
+ },
+ {
+  "crsCode": "DRI",
+  "stationName": "Drigg"
+ },
+ {
+  "crsCode": "DRM",
+  "stationName": "Drem"
+ },
+ {
+  "crsCode": "DRN",
+  "stationName": "Duirinish"
+ },
+ {
+  "crsCode": "DRO",
+  "stationName": "Dronfield"
+ },
+ {
+  "crsCode": "DRT",
+  "stationName": "Darton"
+ },
+ {
+  "crsCode": "DRU",
+  "stationName": "Drumgelloch"
+ },
+ {
+  "crsCode": "DSL",
+  "stationName": "Disley"
+ },
+ {
+  "crsCode": "DSM",
+  "stationName": "Darsham"
+ },
+ {
+  "crsCode": "DST",
+  "stationName": "Duke Street"
+ },
+ {
+  "crsCode": "DSY",
+  "stationName": "Daisy Hill"
+ },
+ {
+  "crsCode": "DTG",
+  "stationName": "Dinting"
+ },
+ {
+  "crsCode": "DTN",
+  "stationName": "Denton"
+ },
+ {
+  "crsCode": "DTW",
+  "stationName": "Droitwich Spa"
+ },
+ {
+  "crsCode": "DUD",
+  "stationName": "Duddeston"
+ },
+ {
+  "crsCode": "DUL",
+  "stationName": "Dullingham"
+ },
+ {
+  "crsCode": "DUM",
+  "stationName": "Dumbreck"
+ },
+ {
+  "crsCode": "DUN",
+  "stationName": "Dunbar"
+ },
+ {
+  "crsCode": "DUR",
+  "stationName": "Durrington-on-Sea"
+ },
+ {
+  "crsCode": "DVC",
+  "stationName": "Dovercourt"
+ },
+ {
+  "crsCode": "DVH",
+  "stationName": "Dove Holes"
+ },
+ {
+  "crsCode": "DVN",
+  "stationName": "Davenport"
+ },
+ {
+  "crsCode": "DVP",
+  "stationName": "Dover Priory"
+ },
+ {
+  "crsCode": "DVY",
+  "stationName": "Dovey Junction"
+ },
+ {
+  "crsCode": "DWD",
+  "stationName": "Dolwyddelan"
+ },
+ {
+  "crsCode": "DWL",
+  "stationName": "Dawlish"
+ },
+ {
+  "crsCode": "DWN",
+  "stationName": "Darwen"
+ },
+ {
+  "crsCode": "DWW",
+  "stationName": "Dawlish Warren"
+ },
+ {
+  "crsCode": "DYC",
+  "stationName": "Dyce"
+ },
+ {
+  "crsCode": "DYF",
+  "stationName": "Dyffryn Ardudwy"
+ },
+ {
+  "crsCode": "DYP",
+  "stationName": "Drayton Park"
+ },
+ {
+  "crsCode": "DZY",
+  "stationName": "Danzey"
+ },
+ {
+  "crsCode": "EAD",
+  "stationName": "Earlsfield"
+ },
+ {
+  "crsCode": "EAG",
+  "stationName": "Eaglescliffe"
+ },
+ {
+  "crsCode": "EAL",
+  "stationName": "Ealing Broadway"
+ },
+ {
+  "crsCode": "EAR",
+  "stationName": "Earley"
+ },
+ {
+  "crsCode": "EBA",
+  "stationName": "Euxton Balshaw Lane"
+ },
+ {
+  "crsCode": "EBB",
+  "stationName": "Ebbw Vale Town"
+ },
+ {
+  "crsCode": "EBD",
+  "stationName": "Ebbsfleet International"
+ },
+ {
+  "crsCode": "EBK",
+  "stationName": "Eastbrook"
+ },
+ {
+  "crsCode": "EBN",
+  "stationName": "Eastbourne"
+ },
+ {
+  "crsCode": "EBR",
+  "stationName": "Edenbridge(Kent)"
+ },
+ {
+  "crsCode": "EBT",
+  "stationName": "Edenbridge Town"
+ },
+ {
+  "crsCode": "EBV",
+  "stationName": "Ebbw Vale Parkway"
+ },
+ {
+  "crsCode": "ECC",
+  "stationName": "Eccles (Manchester)"
+ },
+ {
+  "crsCode": "ECL",
+  "stationName": "Eccleston Park"
+ },
+ {
+  "crsCode": "ECP",
+  "stationName": "Energlyn & Churchill Park"
+ },
+ {
+  "crsCode": "ECR",
+  "stationName": "East Croydon"
+ },
+ {
+  "crsCode": "ECS",
+  "stationName": "Eccles Road"
+ },
+ {
+  "crsCode": "EDB",
+  "stationName": "Edinburgh"
+ },
+ {
+  "crsCode": "EDG",
+  "stationName": "Edge Hill"
+ },
+ {
+  "crsCode": "EDL",
+  "stationName": "Edale"
+ },
+ {
+  "crsCode": "EDN",
+  "stationName": "Eden Park"
+ },
+ {
+  "crsCode": "EDP",
+  "stationName": "Edinburgh Park"
+ },
+ {
+  "crsCode": "EDR",
+  "stationName": "Edmonton Green"
+ },
+ {
+  "crsCode": "EDW",
+  "stationName": "East Dulwich"
+ },
+ {
+  "crsCode": "EDY",
+  "stationName": "East Didsbury"
+ },
+ {
+  "crsCode": "EFF",
+  "stationName": "Effingham Junction"
+ },
+ {
+  "crsCode": "EFL",
+  "stationName": "East Farleigh"
+ },
+ {
+  "crsCode": "EGF",
+  "stationName": "East Garforth"
+ },
+ {
+  "crsCode": "EGG",
+  "stationName": "Eggesford"
+ },
+ {
+  "crsCode": "EGH",
+  "stationName": "Egham"
+ },
+ {
+  "crsCode": "EGN",
+  "stationName": "Eastrington"
+ },
+ {
+  "crsCode": "EGR",
+  "stationName": "East Grinstead"
+ },
+ {
+  "crsCode": "EGT",
+  "stationName": "Egton"
+ },
+ {
+  "crsCode": "EGY",
+  "stationName": "Edinburgh Gateway"
+ },
+ {
+  "crsCode": "EKB",
+  "stationName": "Eskbank"
+ },
+ {
+  "crsCode": "EKL",
+  "stationName": "East Kilbride"
+ },
+ {
+  "crsCode": "ELD",
+  "stationName": "Earlswood (Surrey)"
+ },
+ {
+  "crsCode": "ELE",
+  "stationName": "Elmers End"
+ },
+ {
+  "crsCode": "ELG",
+  "stationName": "Elgin"
+ },
+ {
+  "crsCode": "ELO",
+  "stationName": "Elton & Orston"
+ },
+ {
+  "crsCode": "ELP",
+  "stationName": "Ellesmere Port"
+ },
+ {
+  "crsCode": "ELR",
+  "stationName": "Elsecar"
+ },
+ {
+  "crsCode": "ELS",
+  "stationName": "Elstree & Borehamwood"
+ },
+ {
+  "crsCode": "ELW",
+  "stationName": "Eltham"
+ },
+ {
+  "crsCode": "ELY",
+  "stationName": "Ely"
+ },
+ {
+  "crsCode": "EMD",
+  "stationName": "East Midlands Parkway"
+ },
+ {
+  "crsCode": "EML",
+  "stationName": "East Malling"
+ },
+ {
+  "crsCode": "EMP",
+  "stationName": "Emerson Park"
+ },
+ {
+  "crsCode": "EMS",
+  "stationName": "Emsworth"
+ },
+ {
+  "crsCode": "ENC",
+  "stationName": "Enfield Chase"
+ },
+ {
+  "crsCode": "ENF",
+  "stationName": "Enfield Town"
+ },
+ {
+  "crsCode": "ENL",
+  "stationName": "Enfield Lock"
+ },
+ {
+  "crsCode": "ENT",
+  "stationName": "Entwistle"
+ },
+ {
+  "crsCode": "EPD",
+  "stationName": "Epsom Downs"
+ },
+ {
+  "crsCode": "EPH",
+  "stationName": "Elephant & Castle"
+ },
+ {
+  "crsCode": "EPS",
+  "stationName": "Epsom (Surrey)"
+ },
+ {
+  "crsCode": "ERA",
+  "stationName": "Eastham Rake"
+ },
+ {
+  "crsCode": "ERD",
+  "stationName": "Erdington"
+ },
+ {
+  "crsCode": "ERH",
+  "stationName": "Erith"
+ },
+ {
+  "crsCode": "ERI",
+  "stationName": "Eridge"
+ },
+ {
+  "crsCode": "ERL",
+  "stationName": "Earlestown"
+ },
+ {
+  "crsCode": "ESD",
+  "stationName": "Elmstead Woods"
+ },
+ {
+  "crsCode": "ESH",
+  "stationName": "Esher"
+ },
+ {
+  "crsCode": "ESL",
+  "stationName": "Eastleigh"
+ },
+ {
+  "crsCode": "ESM",
+  "stationName": "Elsenham (Essex)"
+ },
+ {
+  "crsCode": "EST",
+  "stationName": "Easterhouse"
+ },
+ {
+  "crsCode": "ESW",
+  "stationName": "Elmswell"
+ },
+ {
+  "crsCode": "ETC",
+  "stationName": "Etchingham"
+ },
+ {
+  "crsCode": "ETL",
+  "stationName": "East Tilbury"
+ },
+ {
+  "crsCode": "EUS",
+  "stationName": "London Euston"
+ },
+ {
+  "crsCode": "EVE",
+  "stationName": "Evesham"
+ },
+ {
+  "crsCode": "EWD",
+  "stationName": "Earlswood (West Midlands)"
+ },
+ {
+  "crsCode": "EWE",
+  "stationName": "Ewell East"
+ },
+ {
+  "crsCode": "EWR",
+  "stationName": "East Worthing"
+ },
+ {
+  "crsCode": "EWW",
+  "stationName": "Ewell West"
+ },
+ {
+  "crsCode": "EXC",
+  "stationName": "Exeter Central"
+ },
+ {
+  "crsCode": "EXD",
+  "stationName": "Exeter St David's"
+ },
+ {
+  "crsCode": "EXG",
+  "stationName": "Exhibition Centre (Glasgow)"
+ },
+ {
+  "crsCode": "EXM",
+  "stationName": "Exmouth"
+ },
+ {
+  "crsCode": "EXN",
+  "stationName": "Exton"
+ },
+ {
+  "crsCode": "EXR",
+  "stationName": "Essex Road"
+ },
+ {
+  "crsCode": "EXT",
+  "stationName": "Exeter St Thomas"
+ },
+ {
+  "crsCode": "EYN",
+  "stationName": "Eynsford"
+ },
+ {
+  "crsCode": "FAL",
+  "stationName": "Falmouth Docks"
+ },
+ {
+  "crsCode": "FAV",
+  "stationName": "Faversham"
+ },
+ {
+  "crsCode": "FAZ",
+  "stationName": "Fazakerley"
+ },
+ {
+  "crsCode": "FBY",
+  "stationName": "Formby"
+ },
+ {
+  "crsCode": "FCN",
+  "stationName": "Falconwood"
+ },
+ {
+  "crsCode": "FEA",
+  "stationName": "Featherstone"
+ },
+ {
+  "crsCode": "FEL",
+  "stationName": "Feltham"
+ },
+ {
+  "crsCode": "FEN",
+  "stationName": "Fenny Stratford"
+ },
+ {
+  "crsCode": "FER",
+  "stationName": "Fernhill"
+ },
+ {
+  "crsCode": "FFA",
+  "stationName": "Ffairfach"
+ },
+ {
+  "crsCode": "FFD",
+  "stationName": "Freshford"
+ },
+ {
+  "crsCode": "FGH",
+  "stationName": "Fishguard Harbour"
+ },
+ {
+  "crsCode": "FGT",
+  "stationName": "Faygate"
+ },
+ {
+  "crsCode": "FGW",
+  "stationName": "Fishguard & Goodwick"
+ },
+ {
+  "crsCode": "FIL",
+  "stationName": "Filey"
+ },
+ {
+  "crsCode": "FIN",
+  "stationName": "Finstock"
+ },
+ {
+  "crsCode": "FIT",
+  "stationName": "Filton Abbey Wood"
+ },
+ {
+  "crsCode": "FKC",
+  "stationName": "Folkestone Central"
+ },
+ {
+  "crsCode": "FKG",
+  "stationName": "Falkirk Grahamston"
+ },
+ {
+  "crsCode": "FKK",
+  "stationName": "Falkirk High"
+ },
+ {
+  "crsCode": "FKW",
+  "stationName": "Folkestone West"
+ },
+ {
+  "crsCode": "FLD",
+  "stationName": "Fauldhouse"
+ },
+ {
+  "crsCode": "FLE",
+  "stationName": "Fleet"
+ },
+ {
+  "crsCode": "FLF",
+  "stationName": "Flowery Field"
+ },
+ {
+  "crsCode": "FLI",
+  "stationName": "Flixton"
+ },
+ {
+  "crsCode": "FLM",
+  "stationName": "Flimby"
+ },
+ {
+  "crsCode": "FLN",
+  "stationName": "Flint"
+ },
+ {
+  "crsCode": "FLT",
+  "stationName": "Flitwick"
+ },
+ {
+  "crsCode": "FLW",
+  "stationName": "Fulwell"
+ },
+ {
+  "crsCode": "FLX",
+  "stationName": "Felixstowe"
+ },
+ {
+  "crsCode": "FML",
+  "stationName": "Frimley"
+ },
+ {
+  "crsCode": "FMR",
+  "stationName": "Falmer"
+ },
+ {
+  "crsCode": "FMT",
+  "stationName": "Falmouth Town"
+ },
+ {
+  "crsCode": "FNB",
+  "stationName": "Farnborough (Main)"
+ },
+ {
+  "crsCode": "FNC",
+  "stationName": "Farncombe"
+ },
+ {
+  "crsCode": "FNH",
+  "stationName": "Farnham"
+ },
+ {
+  "crsCode": "FNN",
+  "stationName": "Farnborough North"
+ },
+ {
+  "crsCode": "FNR",
+  "stationName": "Farningham Road"
+ },
+ {
+  "crsCode": "FNT",
+  "stationName": "Feniton"
+ },
+ {
+  "crsCode": "FNV",
+  "stationName": "Furness Vale"
+ },
+ {
+  "crsCode": "FNW",
+  "stationName": "Farnworth"
+ },
+ {
+  "crsCode": "FNY",
+  "stationName": "Finchley Road & Frognal"
+ },
+ {
+  "crsCode": "FOC",
+  "stationName": "Falls of Cruachan"
+ },
+ {
+  "crsCode": "FOD",
+  "stationName": "Ford"
+ },
+ {
+  "crsCode": "FOG",
+  "stationName": "Forest Gate"
+ },
+ {
+  "crsCode": "FOH",
+  "stationName": "Forest Hill"
+ },
+ {
+  "crsCode": "FOK",
+  "stationName": "Four Oaks"
+ },
+ {
+  "crsCode": "FOR",
+  "stationName": "Forres"
+ },
+ {
+  "crsCode": "FOX",
+  "stationName": "Foxfield"
+ },
+ {
+  "crsCode": "FPK",
+  "stationName": "Finsbury Park"
+ },
+ {
+  "crsCode": "FRB",
+  "stationName": "Fairbourne"
+ },
+ {
+  "crsCode": "FRD",
+  "stationName": "Frodsham"
+ },
+ {
+  "crsCode": "FRE",
+  "stationName": "Freshfield"
+ },
+ {
+  "crsCode": "FRF",
+  "stationName": "Fairfield"
+ },
+ {
+  "crsCode": "FRI",
+  "stationName": "Frinton-on-Sea"
+ },
+ {
+  "crsCode": "FRL",
+  "stationName": "Fairlie"
+ },
+ {
+  "crsCode": "FRM",
+  "stationName": "Fareham"
+ },
+ {
+  "crsCode": "FRN",
+  "stationName": "Fearn"
+ },
+ {
+  "crsCode": "FRO",
+  "stationName": "Frome"
+ },
+ {
+  "crsCode": "FRS",
+  "stationName": "Forsinard"
+ },
+ {
+  "crsCode": "FRT",
+  "stationName": "Frant"
+ },
+ {
+  "crsCode": "FRW",
+  "stationName": "Fairwater"
+ },
+ {
+  "crsCode": "FRY",
+  "stationName": "Ferriby"
+ },
+ {
+  "crsCode": "FSB",
+  "stationName": "Fishbourne (Sussex)"
+ },
+ {
+  "crsCode": "FSG",
+  "stationName": "Fishersgate"
+ },
+ {
+  "crsCode": "FSK",
+  "stationName": "Fiskerton"
+ },
+ {
+  "crsCode": "FST",
+  "stationName": "London Fenchurch Street"
+ },
+ {
+  "crsCode": "FTM",
+  "stationName": "Fort Matilda"
+ },
+ {
+  "crsCode": "FTN",
+  "stationName": "Fratton"
+ },
+ {
+  "crsCode": "FTW",
+  "stationName": "Fort William"
+ },
+ {
+  "crsCode": "FWY",
+  "stationName": "Five Ways"
+ },
+ {
+  "crsCode": "FXN",
+  "stationName": "Foxton"
+ },
+ {
+  "crsCode": "FYS",
+  "stationName": "Ferryside"
+ },
+ {
+  "crsCode": "FZH",
+  "stationName": "Frizinghall"
+ },
+ {
+  "crsCode": "FZP",
+  "stationName": "Furze Platt"
+ },
+ {
+  "crsCode": "FZW",
+  "stationName": "Fitzwilliam"
+ },
+ {
+  "crsCode": "GAL",
+  "stationName": "Galashiels"
+ },
+ {
+  "crsCode": "GAR",
+  "stationName": "Garrowhill"
+ },
+ {
+  "crsCode": "GBD",
+  "stationName": "Gilberdyke"
+ },
+ {
+  "crsCode": "GBG",
+  "stationName": "Gorebridge"
+ },
+ {
+  "crsCode": "GBK",
+  "stationName": "Greenbank"
+ },
+ {
+  "crsCode": "GBL",
+  "stationName": "Gainsborough Lea Road"
+ },
+ {
+  "crsCode": "GBS",
+  "stationName": "Goring-by-Sea"
+ },
+ {
+  "crsCode": "GCH",
+  "stationName": "Garelochhead"
+ },
+ {
+  "crsCode": "GCR",
+  "stationName": "Gloucester"
+ },
+ {
+  "crsCode": "GCT",
+  "stationName": "Great Coates"
+ },
+ {
+  "crsCode": "GCW",
+  "stationName": "Glan Conwy"
+ },
+ {
+  "crsCode": "GDH",
+  "stationName": "Gordon Hill"
+ },
+ {
+  "crsCode": "GDL",
+  "stationName": "Godley"
+ },
+ {
+  "crsCode": "GDN",
+  "stationName": "Godstone"
+ },
+ {
+  "crsCode": "GDP",
+  "stationName": "Gidea Park"
+ },
+ {
+  "crsCode": "GEA",
+  "stationName": "Gretna Green"
+ },
+ {
+  "crsCode": "GER",
+  "stationName": "Gerrards Cross"
+ },
+ {
+  "crsCode": "GFD",
+  "stationName": "Greenford"
+ },
+ {
+  "crsCode": "GFF",
+  "stationName": "Gilfach Fargoed"
+ },
+ {
+  "crsCode": "GFN",
+  "stationName": "Giffnock"
+ },
+ {
+  "crsCode": "GGJ",
+  "stationName": "Georgemas Junction"
+ },
+ {
+  "crsCode": "GGV",
+  "stationName": "Gargrave"
+ },
+ {
+  "crsCode": "GIG",
+  "stationName": "Giggleswick"
+ },
+ {
+  "crsCode": "GIL",
+  "stationName": "Gillingham (Dorset)"
+ },
+ {
+  "crsCode": "GIP",
+  "stationName": "Gipsy Hill"
+ },
+ {
+  "crsCode": "GIR",
+  "stationName": "Girvan"
+ },
+ {
+  "crsCode": "GKC",
+  "stationName": "Greenock Central"
+ },
+ {
+  "crsCode": "GKW",
+  "stationName": "Greenock West"
+ },
+ {
+  "crsCode": "GLC",
+  "stationName": "Glasgow Central"
+ },
+ {
+  "crsCode": "GLD",
+  "stationName": "Guildford"
+ },
+ {
+  "crsCode": "GLE",
+  "stationName": "Gleneagles"
+ },
+ {
+  "crsCode": "GLF",
+  "stationName": "Glenfinnan"
+ },
+ {
+  "crsCode": "GLG",
+  "stationName": "Glengarnock"
+ },
+ {
+  "crsCode": "GLH",
+  "stationName": "Glasshoughton"
+ },
+ {
+  "crsCode": "GLM",
+  "stationName": "Gillingham (Kent)"
+ },
+ {
+  "crsCode": "GLO",
+  "stationName": "Glossop"
+ },
+ {
+  "crsCode": "GLQ",
+  "stationName": "Glasgow Queen Street"
+ },
+ {
+  "crsCode": "GLS",
+  "stationName": "Glaisdale"
+ },
+ {
+  "crsCode": "GLT",
+  "stationName": "Glenrothes with Thornton"
+ },
+ {
+  "crsCode": "GLY",
+  "stationName": "Glynde"
+ },
+ {
+  "crsCode": "GLZ",
+  "stationName": "Glazebrook"
+ },
+ {
+  "crsCode": "GMB",
+  "stationName": "Grimsby Town"
+ },
+ {
+  "crsCode": "GMD",
+  "stationName": "Grimsby Docks"
+ },
+ {
+  "crsCode": "GMG",
+  "stationName": "Garth (Bridgend County)"
+ },
+ {
+  "crsCode": "GMN",
+  "stationName": "Great Missenden"
+ },
+ {
+  "crsCode": "GMT",
+  "stationName": "Grosmont"
+ },
+ {
+  "crsCode": "GMV",
+  "stationName": "Great Malvern"
+ },
+ {
+  "crsCode": "GMY",
+  "stationName": "Goodmayes"
+ },
+ {
+  "crsCode": "GNB",
+  "stationName": "Gainsborough Central"
+ },
+ {
+  "crsCode": "GNF",
+  "stationName": "Greenfield"
+ },
+ {
+  "crsCode": "GNH",
+  "stationName": "Greenhithe for Bluewater"
+ },
+ {
+  "crsCode": "GNL",
+  "stationName": "Green Lane"
+ },
+ {
+  "crsCode": "GNR",
+  "stationName": "Green Road"
+ },
+ {
+  "crsCode": "GNT",
+  "stationName": "Gunton"
+ },
+ {
+  "crsCode": "GNW",
+  "stationName": "Greenwich"
+ },
+ {
+  "crsCode": "GOB",
+  "stationName": "Gobowen"
+ },
+ {
+  "crsCode": "GOD",
+  "stationName": "Godalming"
+ },
+ {
+  "crsCode": "GOE",
+  "stationName": "Goldthorpe"
+ },
+ {
+  "crsCode": "GOF",
+  "stationName": "Golf Street"
+ },
+ {
+  "crsCode": "GOL",
+  "stationName": "Golspie"
+ },
+ {
+  "crsCode": "GOM",
+  "stationName": "Gomshall"
+ },
+ {
+  "crsCode": "GOO",
+  "stationName": "Goole"
+ },
+ {
+  "crsCode": "GOR",
+  "stationName": "Goring & Streatley"
+ },
+ {
+  "crsCode": "GOS",
+  "stationName": "Grange-over-Sands"
+ },
+ {
+  "crsCode": "GOX",
+  "stationName": "Goxhill"
+ },
+ {
+  "crsCode": "GPK",
+  "stationName": "Grange Park"
+ },
+ {
+  "crsCode": "GPO",
+  "stationName": "Gospel Oak"
+ },
+ {
+  "crsCode": "GRA",
+  "stationName": "Grantham"
+ },
+ {
+  "crsCode": "GRB",
+  "stationName": "Great Bentley"
+ },
+ {
+  "crsCode": "GRC",
+  "stationName": "Great Chesterford"
+ },
+ {
+  "crsCode": "GRF",
+  "stationName": "Garforth"
+ },
+ {
+  "crsCode": "GRH",
+  "stationName": "Gartcosh"
+ },
+ {
+  "crsCode": "GRK",
+  "stationName": "Gourock"
+ },
+ {
+  "crsCode": "GRL",
+  "stationName": "Greenfaulds"
+ },
+ {
+  "crsCode": "GRN",
+  "stationName": "Grindleford"
+ },
+ {
+  "crsCode": "GRP",
+  "stationName": "Grove Park"
+ },
+ {
+  "crsCode": "GRS",
+  "stationName": "Garscadden"
+ },
+ {
+  "crsCode": "GRT",
+  "stationName": "Grateley"
+ },
+ {
+  "crsCode": "GRV",
+  "stationName": "Gravesend"
+ },
+ {
+  "crsCode": "GRY",
+  "stationName": "Grays"
+ },
+ {
+  "crsCode": "GSC",
+  "stationName": "Gilshochill"
+ },
+ {
+  "crsCode": "GSD",
+  "stationName": "Garsdale"
+ },
+ {
+  "crsCode": "GSL",
+  "stationName": "Gunnislake"
+ },
+ {
+  "crsCode": "GSN",
+  "stationName": "Garston (Hertfordshire)"
+ },
+ {
+  "crsCode": "GST",
+  "stationName": "Gathurst"
+ },
+ {
+  "crsCode": "GSW",
+  "stationName": "Garswood"
+ },
+ {
+  "crsCode": "GSY",
+  "stationName": "Guiseley"
+ },
+ {
+  "crsCode": "GTA",
+  "stationName": "Great Ayton"
+ },
+ {
+  "crsCode": "GTH",
+  "stationName": "Garth (Powys)"
+ },
+ {
+  "crsCode": "GTN",
+  "stationName": "Grangetown (Cardiff)"
+ },
+ {
+  "crsCode": "GTO",
+  "stationName": "Gorton"
+ },
+ {
+  "crsCode": "GTR",
+  "stationName": "Goostrey"
+ },
+ {
+  "crsCode": "GTW",
+  "stationName": "Gatwick Airport"
+ },
+ {
+  "crsCode": "GTY",
+  "stationName": "Gatley"
+ },
+ {
+  "crsCode": "GUI",
+  "stationName": "Guide Bridge"
+ },
+ {
+  "crsCode": "GUN",
+  "stationName": "Gunnersbury"
+ },
+ {
+  "crsCode": "GVE",
+  "stationName": "Garve"
+ },
+ {
+  "crsCode": "GVH",
+  "stationName": "Gravelly Hill"
+ },
+ {
+  "crsCode": "GWE",
+  "stationName": "Gwersyllt"
+ },
+ {
+  "crsCode": "GWN",
+  "stationName": "Gowerton"
+ },
+ {
+  "crsCode": "GYM",
+  "stationName": "Great Yarmouth"
+ },
+ {
+  "crsCode": "GYP",
+  "stationName": "Gypsy Lane"
+ },
+ {
+  "crsCode": "HAB",
+  "stationName": "Habrough"
+ },
+ {
+  "crsCode": "HAC",
+  "stationName": "Hackney Downs"
+ },
+ {
+  "crsCode": "HAD",
+  "stationName": "Haddiscoe"
+ },
+ {
+  "crsCode": "HAF",
+  "stationName": "Heathrow Terminal 4 (Rail Station Only)"
+ },
+ {
+  "crsCode": "HAG",
+  "stationName": "Hagley"
+ },
+ {
+  "crsCode": "HAI",
+  "stationName": "Halling"
+ },
+ {
+  "crsCode": "HAL",
+  "stationName": "Hale (Manchester)"
+ },
+ {
+  "crsCode": "HAM",
+  "stationName": "Hamworthy"
+ },
+ {
+  "crsCode": "HAN",
+  "stationName": "Hanwell"
+ },
+ {
+  "crsCode": "HAP",
+  "stationName": "Hatfield Peverel"
+ },
+ {
+  "crsCode": "HAS",
+  "stationName": "Halesworth"
+ },
+ {
+  "crsCode": "HAT",
+  "stationName": "Hatfield (Herts)"
+ },
+ {
+  "crsCode": "HAV",
+  "stationName": "Havant"
+ },
+ {
+  "crsCode": "HAY",
+  "stationName": "Hayes & Harlington"
+ },
+ {
+  "crsCode": "HAZ",
+  "stationName": "Hazel Grove"
+ },
+ {
+  "crsCode": "HBB",
+  "stationName": "Hubberts Bridge"
+ },
+ {
+  "crsCode": "HBD",
+  "stationName": "Hebden Bridge"
+ },
+ {
+  "crsCode": "HBN",
+  "stationName": "Hollingbourne"
+ },
+ {
+  "crsCode": "HBP",
+  "stationName": "Hornbeam Park"
+ },
+ {
+  "crsCode": "HBY",
+  "stationName": "Hartlebury"
+ },
+ {
+  "crsCode": "HCB",
+  "stationName": "Hackbridge"
+ },
+ {
+  "crsCode": "HCH",
+  "stationName": "Holmes Chapel"
+ },
+ {
+  "crsCode": "HCN",
+  "stationName": "Headcorn"
+ },
+ {
+  "crsCode": "HCT",
+  "stationName": "Huncoat"
+ },
+ {
+  "crsCode": "HDB",
+  "stationName": "Haydon Bridge"
+ },
+ {
+  "crsCode": "HDE",
+  "stationName": "Hedge End"
+ },
+ {
+  "crsCode": "HDF",
+  "stationName": "Hadfield"
+ },
+ {
+  "crsCode": "HDG",
+  "stationName": "Heald Green"
+ },
+ {
+  "crsCode": "HDH",
+  "stationName": "Hampstead Heath"
+ },
+ {
+  "crsCode": "HDL",
+  "stationName": "Headstone Lane"
+ },
+ {
+  "crsCode": "HDM",
+  "stationName": "Haddenham & Thame Parkway"
+ },
+ {
+  "crsCode": "HDN",
+  "stationName": "Harlesden"
+ },
+ {
+  "crsCode": "HDW",
+  "stationName": "Hadley Wood"
+ },
+ {
+  "crsCode": "HDY",
+  "stationName": "Headingley"
+ },
+ {
+  "crsCode": "HEC",
+  "stationName": "Heckington"
+ },
+ {
+  "crsCode": "HED",
+  "stationName": "Halewood"
+ },
+ {
+  "crsCode": "HEI",
+  "stationName": "Heighington"
+ },
+ {
+  "crsCode": "HEL",
+  "stationName": "Hensall"
+ },
+ {
+  "crsCode": "HEN",
+  "stationName": "Hendon"
+ },
+ {
+  "crsCode": "HER",
+  "stationName": "Hersham"
+ },
+ {
+  "crsCode": "HES",
+  "stationName": "Hessle"
+ },
+ {
+  "crsCode": "HEV",
+  "stationName": "Hever"
+ },
+ {
+  "crsCode": "HEW",
+  "stationName": "Heworth"
+ },
+ {
+  "crsCode": "HEX",
+  "stationName": "Hexham"
+ },
+ {
+  "crsCode": "HFD",
+  "stationName": "Hereford"
+ },
+ {
+  "crsCode": "HFE",
+  "stationName": "Hertford East"
+ },
+ {
+  "crsCode": "HFN",
+  "stationName": "Hertford North"
+ },
+ {
+  "crsCode": "HFS",
+  "stationName": "Hatfield & Stainforth"
+ },
+ {
+  "crsCode": "HFX",
+  "stationName": "Halifax"
+ },
+ {
+  "crsCode": "HGD",
+  "stationName": "Hungerford"
+ },
+ {
+  "crsCode": "HGF",
+  "stationName": "Hag Fold"
+ },
+ {
+  "crsCode": "HGG",
+  "stationName": "Haggerston"
+ },
+ {
+  "crsCode": "HGM",
+  "stationName": "Higham"
+ },
+ {
+  "crsCode": "HGN",
+  "stationName": "Hough Green"
+ },
+ {
+  "crsCode": "HGR",
+  "stationName": "Hither Green"
+ },
+ {
+  "crsCode": "HGS",
+  "stationName": "Hastings"
+ },
+ {
+  "crsCode": "HGT",
+  "stationName": "Harrogate"
+ },
+ {
+  "crsCode": "HGY",
+  "stationName": "Harringay"
+ },
+ {
+  "crsCode": "HHB",
+  "stationName": "Heysham Port"
+ },
+ {
+  "crsCode": "HHD",
+  "stationName": "Holyhead"
+ },
+ {
+  "crsCode": "HHE",
+  "stationName": "Haywards Heath"
+ },
+ {
+  "crsCode": "HHL",
+  "stationName": "Heath High Level"
+ },
+ {
+  "crsCode": "HHY",
+  "stationName": "Highbury & Islington"
+ },
+ {
+  "crsCode": "HIA",
+  "stationName": "Hampton-in-Arden"
+ },
+ {
+  "crsCode": "HIB",
+  "stationName": "High Brooms"
+ },
+ {
+  "crsCode": "HID",
+  "stationName": "Hall-i'-th'-Wood"
+ },
+ {
+  "crsCode": "HIG",
+  "stationName": "Highbridge & Burnham"
+ },
+ {
+  "crsCode": "HIL",
+  "stationName": "Hillside"
+ },
+ {
+  "crsCode": "HIN",
+  "stationName": "Hindley"
+ },
+ {
+  "crsCode": "HIP",
+  "stationName": "Highams Park"
+ },
+ {
+  "crsCode": "HIR",
+  "stationName": "Horton-in-Ribblesdale"
+ },
+ {
+  "crsCode": "HIT",
+  "stationName": "Hitchin"
+ },
+ {
+  "crsCode": "HKC",
+  "stationName": "Hackney Central"
+ },
+ {
+  "crsCode": "HKH",
+  "stationName": "Hawkhead"
+ },
+ {
+  "crsCode": "HKM",
+  "stationName": "Hykeham"
+ },
+ {
+  "crsCode": "HKN",
+  "stationName": "Hucknall"
+ },
+ {
+  "crsCode": "HKW",
+  "stationName": "Hackney Wick"
+ },
+ {
+  "crsCode": "HLB",
+  "stationName": "Hildenborough"
+ },
+ {
+  "crsCode": "HLC",
+  "stationName": "Helensburgh Central"
+ },
+ {
+  "crsCode": "HLD",
+  "stationName": "Hellifield"
+ },
+ {
+  "crsCode": "HLE",
+  "stationName": "Hillington East"
+ },
+ {
+  "crsCode": "HLF",
+  "stationName": "Hillfoot"
+ },
+ {
+  "crsCode": "HLG",
+  "stationName": "Hall Green"
+ },
+ {
+  "crsCode": "HLI",
+  "stationName": "Healing"
+ },
+ {
+  "crsCode": "HLL",
+  "stationName": "Heath Low Level"
+ },
+ {
+  "crsCode": "HLM",
+  "stationName": "Holmwood"
+ },
+ {
+  "crsCode": "HLN",
+  "stationName": "Harlington (Bedfordshire)"
+ },
+ {
+  "crsCode": "HLR",
+  "stationName": "Hall Road"
+ },
+ {
+  "crsCode": "HLS",
+  "stationName": "Hilsea"
+ },
+ {
+  "crsCode": "HLU",
+  "stationName": "Helensburgh Upper"
+ },
+ {
+  "crsCode": "HLW",
+  "stationName": "Hillington West"
+ },
+ {
+  "crsCode": "HLY",
+  "stationName": "Holytown"
+ },
+ {
+  "crsCode": "HMC",
+  "stationName": "Hampton Court"
+ },
+ {
+  "crsCode": "HMD",
+  "stationName": "Hampden Park (Sussex)"
+ },
+ {
+  "crsCode": "HME",
+  "stationName": "Hamble"
+ },
+ {
+  "crsCode": "HML",
+  "stationName": "Hemel Hempstead"
+ },
+ {
+  "crsCode": "HMM",
+  "stationName": "Hammerton"
+ },
+ {
+  "crsCode": "HMN",
+  "stationName": "Homerton"
+ },
+ {
+  "crsCode": "HMP",
+  "stationName": "Hampton (London)"
+ },
+ {
+  "crsCode": "HMS",
+  "stationName": "Helmsdale"
+ },
+ {
+  "crsCode": "HMT",
+  "stationName": "Ham Street"
+ },
+ {
+  "crsCode": "HMW",
+  "stationName": "Hampton Wick"
+ },
+ {
+  "crsCode": "HMY",
+  "stationName": "Hairmyres"
+ },
+ {
+  "crsCode": "HNA",
+  "stationName": "Hinton Admiral"
+ },
+ {
+  "crsCode": "HNB",
+  "stationName": "Herne Bay"
+ },
+ {
+  "crsCode": "HNC",
+  "stationName": "Hamilton Central"
+ },
+ {
+  "crsCode": "HND",
+  "stationName": "Hanborough"
+ },
+ {
+  "crsCode": "HNF",
+  "stationName": "Hednesford"
+ },
+ {
+  "crsCode": "HNG",
+  "stationName": "Hengoed"
+ },
+ {
+  "crsCode": "HNH",
+  "stationName": "Herne Hill"
+ },
+ {
+  "crsCode": "HNK",
+  "stationName": "Hinckley (Leics)"
+ },
+ {
+  "crsCode": "HNL",
+  "stationName": "Henley-in-Arden"
+ },
+ {
+  "crsCode": "HNT",
+  "stationName": "Huntly"
+ },
+ {
+  "crsCode": "HNW",
+  "stationName": "Hamilton West"
+ },
+ {
+  "crsCode": "HNX",
+  "stationName": "Hunts Cross"
+ },
+ {
+  "crsCode": "HOC",
+  "stationName": "Hockley"
+ },
+ {
+  "crsCode": "HOH",
+  "stationName": "Harrow-on-the-Hill"
+ },
+ {
+  "crsCode": "HOK",
+  "stationName": "Hook"
+ },
+ {
+  "crsCode": "HOL",
+  "stationName": "Holton Heath"
+ },
+ {
+  "crsCode": "HON",
+  "stationName": "Honiton"
+ },
+ {
+  "crsCode": "HOO",
+  "stationName": "Hooton"
+ },
+ {
+  "crsCode": "HOP",
+  "stationName": "Hope (Derbyshire)"
+ },
+ {
+  "crsCode": "HOR",
+  "stationName": "Horley"
+ },
+ {
+  "crsCode": "HOT",
+  "stationName": "Henley-on-Thames"
+ },
+ {
+  "crsCode": "HOU",
+  "stationName": "Hounslow"
+ },
+ {
+  "crsCode": "HOV",
+  "stationName": "Hove"
+ },
+ {
+  "crsCode": "HOW",
+  "stationName": "Howden"
+ },
+ {
+  "crsCode": "HOX",
+  "stationName": "Hoxton"
+ },
+ {
+  "crsCode": "HOY",
+  "stationName": "Honley"
+ },
+ {
+  "crsCode": "HOZ",
+  "stationName": "Howwood (Renfrewshire)"
+ },
+ {
+  "crsCode": "HPA",
+  "stationName": "Honor Oak Park"
+ },
+ {
+  "crsCode": "HPD",
+  "stationName": "Harpenden"
+ },
+ {
+  "crsCode": "HPE",
+  "stationName": "Hope (Flintshire)"
+ },
+ {
+  "crsCode": "HPL",
+  "stationName": "Hartlepool"
+ },
+ {
+  "crsCode": "HPN",
+  "stationName": "Hapton"
+ },
+ {
+  "crsCode": "HPQ",
+  "stationName": "Harwich International"
+ },
+ {
+  "crsCode": "HPT",
+  "stationName": "Hopton Heath"
+ },
+ {
+  "crsCode": "HRD",
+  "stationName": "Harling Road"
+ },
+ {
+  "crsCode": "HRE",
+  "stationName": "Horden"
+ },
+ {
+  "crsCode": "HRH",
+  "stationName": "Horsham"
+ },
+ {
+  "crsCode": "HRL",
+  "stationName": "Harlech"
+ },
+ {
+  "crsCode": "HRM",
+  "stationName": "Harrietsham"
+ },
+ {
+  "crsCode": "HRN",
+  "stationName": "Hornsey"
+ },
+ {
+  "crsCode": "HRO",
+  "stationName": "Harold Wood"
+ },
+ {
+  "crsCode": "HRR",
+  "stationName": "Harrington"
+ },
+ {
+  "crsCode": "HRS",
+  "stationName": "Horsforth"
+ },
+ {
+  "crsCode": "HRW",
+  "stationName": "Harrow & Wealdstone"
+ },
+ {
+  "crsCode": "HRY",
+  "stationName": "Harringay Green Lanes"
+ },
+ {
+  "crsCode": "HSB",
+  "stationName": "Helsby"
+ },
+ {
+  "crsCode": "HSC",
+  "stationName": "Hoscar"
+ },
+ {
+  "crsCode": "HSD",
+  "stationName": "Hamstead (Birmingham)"
+ },
+ {
+  "crsCode": "HSG",
+  "stationName": "Hathersage"
+ },
+ {
+  "crsCode": "HSK",
+  "stationName": "Hassocks"
+ },
+ {
+  "crsCode": "HSL",
+  "stationName": "Haslemere"
+ },
+ {
+  "crsCode": "HST",
+  "stationName": "High Street (Glasgow)"
+ },
+ {
+  "crsCode": "HSW",
+  "stationName": "Heswall"
+ },
+ {
+  "crsCode": "HSY",
+  "stationName": "Horsley"
+ },
+ {
+  "crsCode": "HTC",
+  "stationName": "Heaton Chapel"
+ },
+ {
+  "crsCode": "HTE",
+  "stationName": "Hatch End"
+ },
+ {
+  "crsCode": "HTF",
+  "stationName": "Hartford (Cheshire)"
+ },
+ {
+  "crsCode": "HTH",
+  "stationName": "Handforth"
+ },
+ {
+  "crsCode": "HTN",
+  "stationName": "Hatton"
+ },
+ {
+  "crsCode": "HTO",
+  "stationName": "Hightown"
+ },
+ {
+  "crsCode": "HTW",
+  "stationName": "Hartwood"
+ },
+ {
+  "crsCode": "HTY",
+  "stationName": "Hattersley"
+ },
+ {
+  "crsCode": "HUB",
+  "stationName": "Hunmanby"
+ },
+ {
+  "crsCode": "HUD",
+  "stationName": "Huddersfield"
+ },
+ {
+  "crsCode": "HUL",
+  "stationName": "Hull"
+ },
+ {
+  "crsCode": "HUN",
+  "stationName": "Huntingdon"
+ },
+ {
+  "crsCode": "HUP",
+  "stationName": "Humphrey Park"
+ },
+ {
+  "crsCode": "HUR",
+  "stationName": "Hurst Green"
+ },
+ {
+  "crsCode": "HUT",
+  "stationName": "Hutton Cranswick"
+ },
+ {
+  "crsCode": "HUY",
+  "stationName": "Huyton"
+ },
+ {
+  "crsCode": "HVF",
+  "stationName": "Haverfordwest"
+ },
+ {
+  "crsCode": "HVN",
+  "stationName": "Havenhouse"
+ },
+ {
+  "crsCode": "HWB",
+  "stationName": "Hawarden Bridge"
+ },
+ {
+  "crsCode": "HWC",
+  "stationName": "Harwich Town"
+ },
+ {
+  "crsCode": "HWD",
+  "stationName": "Hawarden"
+ },
+ {
+  "crsCode": "HWH",
+  "stationName": "Haltwhistle"
+ },
+ {
+  "crsCode": "HWI",
+  "stationName": "Horwich Parkway"
+ },
+ {
+  "crsCode": "HWM",
+  "stationName": "Harlow Mill"
+ },
+ {
+  "crsCode": "HWN",
+  "stationName": "Harlow Town"
+ },
+ {
+  "crsCode": "HWV",
+  "stationName": "Heathrow Terminal 5 (Rail Station Only)"
+ },
+ {
+  "crsCode": "HWW",
+  "stationName": "How Wood (Hertfordshire)"
+ },
+ {
+  "crsCode": "HWY",
+  "stationName": "High Wycombe"
+ },
+ {
+  "crsCode": "HXM",
+  "stationName": "Hoveton & Wroxham"
+ },
+ {
+  "crsCode": "HXX",
+  "stationName": "Heathrow Terminals 2 & 3 (Rail Station Only)"
+ },
+ {
+  "crsCode": "HYB",
+  "stationName": "Honeybourne"
+ },
+ {
+  "crsCode": "HYC",
+  "stationName": "Hyde Central"
+ },
+ {
+  "crsCode": "HYD",
+  "stationName": "Heyford"
+ },
+ {
+  "crsCode": "HYH",
+  "stationName": "Hythe (Essex)"
+ },
+ {
+  "crsCode": "HYK",
+  "stationName": "Hoylake"
+ },
+ {
+  "crsCode": "HYL",
+  "stationName": "Hayle"
+ },
+ {
+  "crsCode": "HYM",
+  "stationName": "Haymarket"
+ },
+ {
+  "crsCode": "HYN",
+  "stationName": "Hyndland"
+ },
+ {
+  "crsCode": "HYR",
+  "stationName": "Haydons Road"
+ },
+ {
+  "crsCode": "HYS",
+  "stationName": "Hayes (Kent)"
+ },
+ {
+  "crsCode": "HYT",
+  "stationName": "Hyde North"
+ },
+ {
+  "crsCode": "HYW",
+  "stationName": "Hinchley Wood"
+ },
+ {
+  "crsCode": "IBM",
+  "stationName": "IBM"
+ },
+ {
+  "crsCode": "IFD",
+  "stationName": "Ilford"
+ },
+ {
+  "crsCode": "IFI",
+  "stationName": "Ifield"
+ },
+ {
+  "crsCode": "IGD",
+  "stationName": "Invergordon"
+ },
+ {
+  "crsCode": "ILK",
+  "stationName": "Ilkley"
+ },
+ {
+  "crsCode": "ILN",
+  "stationName": "Ilkeston"
+ },
+ {
+  "crsCode": "IMW",
+  "stationName": "Imperial Wharf"
+ },
+ {
+  "crsCode": "INC",
+  "stationName": "Ince (Manchester)"
+ },
+ {
+  "crsCode": "INE",
+  "stationName": "Ince & Elton (Cheshire)"
+ },
+ {
+  "crsCode": "ING",
+  "stationName": "Invergowrie"
+ },
+ {
+  "crsCode": "INH",
+  "stationName": "Invershin"
+ },
+ {
+  "crsCode": "INK",
+  "stationName": "Inverkeithing"
+ },
+ {
+  "crsCode": "INP",
+  "stationName": "Inverkip"
+ },
+ {
+  "crsCode": "INR",
+  "stationName": "Inverurie"
+ },
+ {
+  "crsCode": "INS",
+  "stationName": "Insch"
+ },
+ {
+  "crsCode": "INT",
+  "stationName": "Ingatestone"
+ },
+ {
+  "crsCode": "INV",
+  "stationName": "Inverness"
+ },
+ {
+  "crsCode": "IPS",
+  "stationName": "Ipswich"
+ },
+ {
+  "crsCode": "IRL",
+  "stationName": "Irlam"
+ },
+ {
+  "crsCode": "IRV",
+  "stationName": "Irvine"
+ },
+ {
+  "crsCode": "ISL",
+  "stationName": "Isleworth"
+ },
+ {
+  "crsCode": "ISP",
+  "stationName": "Islip"
+ },
+ {
+  "crsCode": "IVR",
+  "stationName": "Iver"
+ },
+ {
+  "crsCode": "IVY",
+  "stationName": "Ivybridge"
+ },
+ {
+  "crsCode": "JCH",
+  "stationName": "James Cook University Hospital"
+ },
+ {
+  "crsCode": "JEQ",
+  "stationName": "Jewellery Quarter"
+ },
+ {
+  "crsCode": "JHN",
+  "stationName": "Johnstone (Renfrewshire)"
+ },
+ {
+  "crsCode": "JOH",
+  "stationName": "Johnston (Pembs)"
+ },
+ {
+  "crsCode": "JOR",
+  "stationName": "Jordanhill"
+ },
+ {
+  "crsCode": "KBC",
+  "stationName": "Kinbrace"
+ },
+ {
+  "crsCode": "KBF",
+  "stationName": "Kirkby-in-Furness"
+ },
+ {
+  "crsCode": "KBK",
+  "stationName": "Kents Bank"
+ },
+ {
+  "crsCode": "KBN",
+  "stationName": "Kilburn High Road"
+ },
+ {
+  "crsCode": "KBW",
+  "stationName": "Knebworth"
+ },
+ {
+  "crsCode": "KBX",
+  "stationName": "Kirby Cross"
+ },
+ {
+  "crsCode": "KCK",
+  "stationName": "Knockholt"
+ },
+ {
+  "crsCode": "KDB",
+  "stationName": "Kidbrooke"
+ },
+ {
+  "crsCode": "KDG",
+  "stationName": "Kidsgrove"
+ },
+ {
+  "crsCode": "KDY",
+  "stationName": "Kirkcaldy"
+ },
+ {
+  "crsCode": "KEH",
+  "stationName": "Keith"
+ },
+ {
+  "crsCode": "KEI",
+  "stationName": "Keighley"
+ },
+ {
+  "crsCode": "KEL",
+  "stationName": "Kelvedon"
+ },
+ {
+  "crsCode": "KEM",
+  "stationName": "Kemble"
+ },
+ {
+  "crsCode": "KEN",
+  "stationName": "Kendal"
+ },
+ {
+  "crsCode": "KET",
+  "stationName": "Kettering"
+ },
+ {
+  "crsCode": "KEY",
+  "stationName": "Keyham"
+ },
+ {
+  "crsCode": "KGE",
+  "stationName": "Kingsknowe"
+ },
+ {
+  "crsCode": "KGH",
+  "stationName": "Kinghorn"
+ },
+ {
+  "crsCode": "KGL",
+  "stationName": "Kings Langley"
+ },
+ {
+  "crsCode": "KGM",
+  "stationName": "Kingham"
+ },
+ {
+  "crsCode": "KGN",
+  "stationName": "Kings Nympton"
+ },
+ {
+  "crsCode": "KGP",
+  "stationName": "Kings Park"
+ },
+ {
+  "crsCode": "KGS",
+  "stationName": "Kings Sutton"
+ },
+ {
+  "crsCode": "KGT",
+  "stationName": "Kilgetty"
+ },
+ {
+  "crsCode": "KGX",
+  "stationName": "London Kings Cross"
+ },
+ {
+  "crsCode": "KID",
+  "stationName": "Kidderminster"
+ },
+ {
+  "crsCode": "KIL",
+  "stationName": "Kildonan"
+ },
+ {
+  "crsCode": "KIN",
+  "stationName": "Kingussie"
+ },
+ {
+  "crsCode": "KIR",
+  "stationName": "Kirkby (Merseyside)"
+ },
+ {
+  "crsCode": "KIT",
+  "stationName": "Kintbury"
+ },
+ {
+  "crsCode": "KIV",
+  "stationName": "Kiveton Bridge"
+ },
+ {
+  "crsCode": "KKB",
+  "stationName": "Kirkby-in-Ashfield"
+ },
+ {
+  "crsCode": "KKD",
+  "stationName": "Kirkdale"
+ },
+ {
+  "crsCode": "KKH",
+  "stationName": "Kirkhill"
+ },
+ {
+  "crsCode": "KKM",
+  "stationName": "Kirkham & Wesham"
+ },
+ {
+  "crsCode": "KKN",
+  "stationName": "Kirknewton"
+ },
+ {
+  "crsCode": "KKS",
+  "stationName": "Kirk Sandall"
+ },
+ {
+  "crsCode": "KLD",
+  "stationName": "Kildale"
+ },
+ {
+  "crsCode": "KLF",
+  "stationName": "Kirkstall Forge"
+ },
+ {
+  "crsCode": "KLM",
+  "stationName": "Kilmaurs"
+ },
+ {
+  "crsCode": "KLN",
+  "stationName": "Kings Lynn"
+ },
+ {
+  "crsCode": "KLY",
+  "stationName": "Kenley"
+ },
+ {
+  "crsCode": "KMH",
+  "stationName": "Kempston Hardwick"
+ },
+ {
+  "crsCode": "KMK",
+  "stationName": "Kilmarnock"
+ },
+ {
+  "crsCode": "KML",
+  "stationName": "Kemsley"
+ },
+ {
+  "crsCode": "KMP",
+  "stationName": "Kempton Park Racecourse"
+ },
+ {
+  "crsCode": "KMS",
+  "stationName": "Kemsing"
+ },
+ {
+  "crsCode": "KNA",
+  "stationName": "Knaresborough"
+ },
+ {
+  "crsCode": "KND",
+  "stationName": "Kingswood"
+ },
+ {
+  "crsCode": "KNE",
+  "stationName": "Kennett"
+ },
+ {
+  "crsCode": "KNF",
+  "stationName": "Knutsford"
+ },
+ {
+  "crsCode": "KNG",
+  "stationName": "Kingston"
+ },
+ {
+  "crsCode": "KNI",
+  "stationName": "Knighton"
+ },
+ {
+  "crsCode": "KNL",
+  "stationName": "Kensal Green"
+ },
+ {
+  "crsCode": "KNN",
+  "stationName": "Kings Norton"
+ },
+ {
+  "crsCode": "KNO",
+  "stationName": "Knottingley"
+ },
+ {
+  "crsCode": "KNR",
+  "stationName": "Kensal Rise"
+ },
+ {
+  "crsCode": "KNS",
+  "stationName": "Kennishead"
+ },
+ {
+  "crsCode": "KNT",
+  "stationName": "Kenton"
+ },
+ {
+  "crsCode": "KNU",
+  "stationName": "Knucklas"
+ },
+ {
+  "crsCode": "KNW",
+  "stationName": "Kenilworth"
+ },
+ {
+  "crsCode": "KPA",
+  "stationName": "Kensington Olympia"
+ },
+ {
+  "crsCode": "KPT",
+  "stationName": "Kilpatrick"
+ },
+ {
+  "crsCode": "KRK",
+  "stationName": "Kirkconnel"
+ },
+ {
+  "crsCode": "KSL",
+  "stationName": "Kearsley (Manchester)"
+ },
+ {
+  "crsCode": "KSN",
+  "stationName": "Kearsney (Kent)"
+ },
+ {
+  "crsCode": "KSW",
+  "stationName": "Kirkby Stephen"
+ },
+ {
+  "crsCode": "KTH",
+  "stationName": "Kent House"
+ },
+ {
+  "crsCode": "KTL",
+  "stationName": "Kirton Lindsey"
+ },
+ {
+  "crsCode": "KTN",
+  "stationName": "Kentish Town"
+ },
+ {
+  "crsCode": "KTR",
+  "stationName": "Kintore"
+ },
+ {
+  "crsCode": "KTW",
+  "stationName": "Kentish Town West"
+ },
+ {
+  "crsCode": "KVD",
+  "stationName": "Kelvindale"
+ },
+ {
+  "crsCode": "KVP",
+  "stationName": "Kiveton Park"
+ },
+ {
+  "crsCode": "KWB",
+  "stationName": "Kew Bridge"
+ },
+ {
+  "crsCode": "KWD",
+  "stationName": "Kirkwood"
+ },
+ {
+  "crsCode": "KWG",
+  "stationName": "Kew Gardens"
+ },
+ {
+  "crsCode": "KWL",
+  "stationName": "Kidwelly"
+ },
+ {
+  "crsCode": "KWN",
+  "stationName": "Kilwinning"
+ },
+ {
+  "crsCode": "KYL",
+  "stationName": "Kyle of Lochalsh"
+ },
+ {
+  "crsCode": "KYN",
+  "stationName": "Keynsham"
+ },
+ {
+  "crsCode": "LAC",
+  "stationName": "Lancing"
+ },
+ {
+  "crsCode": "LAD",
+  "stationName": "Ladywell"
+ },
+ {
+  "crsCode": "LAG",
+  "stationName": "Langwith-Whaley Thorns"
+ },
+ {
+  "crsCode": "LAI",
+  "stationName": "Laindon"
+ },
+ {
+  "crsCode": "LAK",
+  "stationName": "Lakenheath"
+ },
+ {
+  "crsCode": "LAM",
+  "stationName": "Lamphey"
+ },
+ {
+  "crsCode": "LAN",
+  "stationName": "Lancaster"
+ },
+ {
+  "crsCode": "LAP",
+  "stationName": "Lapford"
+ },
+ {
+  "crsCode": "LAR",
+  "stationName": "Largs"
+ },
+ {
+  "crsCode": "LAS",
+  "stationName": "Llansamlet"
+ },
+ {
+  "crsCode": "LAU",
+  "stationName": "Laurencekirk"
+ },
+ {
+  "crsCode": "LAW",
+  "stationName": "Landywood"
+ },
+ {
+  "crsCode": "LAY",
+  "stationName": "Layton (Lancs)"
+ },
+ {
+  "crsCode": "LBG",
+  "stationName": "London Bridge"
+ },
+ {
+  "crsCode": "LBK",
+  "stationName": "Long Buckby"
+ },
+ {
+  "crsCode": "LBO",
+  "stationName": "Loughborough"
+ },
+ {
+  "crsCode": "LBR",
+  "stationName": "Llanbedr"
+ },
+ {
+  "crsCode": "LBT",
+  "stationName": "Larbert"
+ },
+ {
+  "crsCode": "LBZ",
+  "stationName": "Leighton Buzzard"
+ },
+ {
+  "crsCode": "LCC",
+  "stationName": "Lochluichart"
+ },
+ {
+  "crsCode": "LCG",
+  "stationName": "Lochgelly"
+ },
+ {
+  "crsCode": "LCK",
+  "stationName": "Lockwood"
+ },
+ {
+  "crsCode": "LCL",
+  "stationName": "Lochailort"
+ },
+ {
+  "crsCode": "LCN",
+  "stationName": "Lincoln"
+ },
+ {
+  "crsCode": "LCS",
+  "stationName": "Locheilside"
+ },
+ {
+  "crsCode": "LDN",
+  "stationName": "Llandanwg"
+ },
+ {
+  "crsCode": "LDS",
+  "stationName": "Leeds"
+ },
+ {
+  "crsCode": "LDY",
+  "stationName": "Ladybank"
+ },
+ {
+  "crsCode": "LEA",
+  "stationName": "Leagrave"
+ },
+ {
+  "crsCode": "LEB",
+  "stationName": "Lea Bridge"
+ },
+ {
+  "crsCode": "LED",
+  "stationName": "Ledbury"
+ },
+ {
+  "crsCode": "LEE",
+  "stationName": "Lee (London)"
+ },
+ {
+  "crsCode": "LEG",
+  "stationName": "Lea Green"
+ },
+ {
+  "crsCode": "LEH",
+  "stationName": "Lea Hall"
+ },
+ {
+  "crsCode": "LEI",
+  "stationName": "Leicester"
+ },
+ {
+  "crsCode": "LEL",
+  "stationName": "Lelant"
+ },
+ {
+  "crsCode": "LEM",
+  "stationName": "Leyton Midland Road"
+ },
+ {
+  "crsCode": "LEN",
+  "stationName": "Lenham"
+ },
+ {
+  "crsCode": "LEO",
+  "stationName": "Leominster"
+ },
+ {
+  "crsCode": "LER",
+  "stationName": "Leytonstone High Road"
+ },
+ {
+  "crsCode": "LES",
+  "stationName": "Leigh-on-Sea"
+ },
+ {
+  "crsCode": "LET",
+  "stationName": "Letchworth Garden City"
+ },
+ {
+  "crsCode": "LEU",
+  "stationName": "Leuchars (for St. Andrews)"
+ },
+ {
+  "crsCode": "LEW",
+  "stationName": "Lewisham"
+ },
+ {
+  "crsCode": "LEY",
+  "stationName": "Leyland"
+ },
+ {
+  "crsCode": "LFD",
+  "stationName": "Lingfield"
+ },
+ {
+  "crsCode": "LGB",
+  "stationName": "Langbank"
+ },
+ {
+  "crsCode": "LGD",
+  "stationName": "Lingwood"
+ },
+ {
+  "crsCode": "LGE",
+  "stationName": "Long Eaton"
+ },
+ {
+  "crsCode": "LGF",
+  "stationName": "Longfield"
+ },
+ {
+  "crsCode": "LGG",
+  "stationName": "Langley Green"
+ },
+ {
+  "crsCode": "LGJ",
+  "stationName": "Loughborough Junction"
+ },
+ {
+  "crsCode": "LGK",
+  "stationName": "Longbeck"
+ },
+ {
+  "crsCode": "LGM",
+  "stationName": "Langley Mill"
+ },
+ {
+  "crsCode": "LGN",
+  "stationName": "Longton"
+ },
+ {
+  "crsCode": "LGO",
+  "stationName": "Llangynllo"
+ },
+ {
+  "crsCode": "LGS",
+  "stationName": "Langside"
+ },
+ {
+  "crsCode": "LGW",
+  "stationName": "Langwathby"
+ },
+ {
+  "crsCode": "LHA",
+  "stationName": "Loch Awe"
+ },
+ {
+  "crsCode": "LHD",
+  "stationName": "Leatherhead"
+ },
+ {
+  "crsCode": "LHE",
+  "stationName": "Loch Eil Outward Bound"
+ },
+ {
+  "crsCode": "LHM",
+  "stationName": "Lealholm"
+ },
+ {
+  "crsCode": "LHO",
+  "stationName": "Langho"
+ },
+ {
+  "crsCode": "LHS",
+  "stationName": "Limehouse"
+ },
+ {
+  "crsCode": "LHW",
+  "stationName": "Lochwinnoch"
+ },
+ {
+  "crsCode": "LIC",
+  "stationName": "Lichfield City"
+ },
+ {
+  "crsCode": "LID",
+  "stationName": "Lidlington"
+ },
+ {
+  "crsCode": "LIH",
+  "stationName": "Leigh (Kent)"
+ },
+ {
+  "crsCode": "LIN",
+  "stationName": "Linlithgow"
+ },
+ {
+  "crsCode": "LIP",
+  "stationName": "Liphook"
+ },
+ {
+  "crsCode": "LIS",
+  "stationName": "Liss"
+ },
+ {
+  "crsCode": "LIT",
+  "stationName": "Littlehampton"
+ },
+ {
+  "crsCode": "LIV",
+  "stationName": "Liverpool Lime Street"
+ },
+ {
+  "crsCode": "LKE",
+  "stationName": "Lake"
+ },
+ {
+  "crsCode": "LLA",
+  "stationName": "Llanaber"
+ },
+ {
+  "crsCode": "LLC",
+  "stationName": "Llandecwyn"
+ },
+ {
+  "crsCode": "LLD",
+  "stationName": "Llandudno"
+ },
+ {
+  "crsCode": "LLE",
+  "stationName": "Llanelli"
+ },
+ {
+  "crsCode": "LLF",
+  "stationName": "Llanfairfechan"
+ },
+ {
+  "crsCode": "LLG",
+  "stationName": "Llangadog"
+ },
+ {
+  "crsCode": "LLH",
+  "stationName": "Llangennech"
+ },
+ {
+  "crsCode": "LLI",
+  "stationName": "Llandybie"
+ },
+ {
+  "crsCode": "LLJ",
+  "stationName": "Llandudno Junction"
+ },
+ {
+  "crsCode": "LLL",
+  "stationName": "Llandeilo"
+ },
+ {
+  "crsCode": "LLM",
+  "stationName": "Llangammarch"
+ },
+ {
+  "crsCode": "LLN",
+  "stationName": "Llandaf"
+ },
+ {
+  "crsCode": "LLO",
+  "stationName": "Llandrindod"
+ },
+ {
+  "crsCode": "LLR",
+  "stationName": "Llanharan"
+ },
+ {
+  "crsCode": "LLS",
+  "stationName": "Llanishen"
+ },
+ {
+  "crsCode": "LLT",
+  "stationName": "Llanbister Road"
+ },
+ {
+  "crsCode": "LLV",
+  "stationName": "Llandovery"
+ },
+ {
+  "crsCode": "LLW",
+  "stationName": "Llwyngwril"
+ },
+ {
+  "crsCode": "LLY",
+  "stationName": "Llwynypia"
+ },
+ {
+  "crsCode": "LMR",
+  "stationName": "Low Moor"
+ },
+ {
+  "crsCode": "LMS",
+  "stationName": "Leamington Spa"
+ },
+ {
+  "crsCode": "LNB",
+  "stationName": "Llanbradach"
+ },
+ {
+  "crsCode": "LND",
+  "stationName": "Longniddry"
+ },
+ {
+  "crsCode": "LNG",
+  "stationName": "Longcross"
+ },
+ {
+  "crsCode": "LNK",
+  "stationName": "Lanark"
+ },
+ {
+  "crsCode": "LNR",
+  "stationName": "Llanwrda"
+ },
+ {
+  "crsCode": "LNW",
+  "stationName": "Llanwrtyd"
+ },
+ {
+  "crsCode": "LNY",
+  "stationName": "Langley (Berks)"
+ },
+ {
+  "crsCode": "LNZ",
+  "stationName": "Lenzie"
+ },
+ {
+  "crsCode": "LOB",
+  "stationName": "Longbridge"
+ },
+ {
+  "crsCode": "LOC",
+  "stationName": "Lockerbie"
+ },
+ {
+  "crsCode": "LOF",
+  "stationName": "London Fields"
+ },
+ {
+  "crsCode": "LOH",
+  "stationName": "Lostock Hall"
+ },
+ {
+  "crsCode": "LOO",
+  "stationName": "Looe"
+ },
+ {
+  "crsCode": "LOS",
+  "stationName": "Lostwithiel"
+ },
+ {
+  "crsCode": "LOT",
+  "stationName": "Lostock"
+ },
+ {
+  "crsCode": "LOW",
+  "stationName": "Lowdham"
+ },
+ {
+  "crsCode": "LPG",
+  "stationName": "Llanfairpwll"
+ },
+ {
+  "crsCode": "LPR",
+  "stationName": "Long Preston"
+ },
+ {
+  "crsCode": "LPT",
+  "stationName": "Longport"
+ },
+ {
+  "crsCode": "LPW",
+  "stationName": "Lapworth"
+ },
+ {
+  "crsCode": "LPY",
+  "stationName": "Liverpool South Parkway"
+ },
+ {
+  "crsCode": "LRB",
+  "stationName": "London Road (Brighton)"
+ },
+ {
+  "crsCode": "LRD",
+  "stationName": "London Road (Guildford)"
+ },
+ {
+  "crsCode": "LRG",
+  "stationName": "Lairg"
+ },
+ {
+  "crsCode": "LRH",
+  "stationName": "Larkhall"
+ },
+ {
+  "crsCode": "LSK",
+  "stationName": "Liskeard"
+ },
+ {
+  "crsCode": "LSN",
+  "stationName": "Livingston North"
+ },
+ {
+  "crsCode": "LST",
+  "stationName": "London Liverpool Street"
+ },
+ {
+  "crsCode": "LSW",
+  "stationName": "Leasowe"
+ },
+ {
+  "crsCode": "LSY",
+  "stationName": "Lower Sydenham"
+ },
+ {
+  "crsCode": "LTG",
+  "stationName": "Lostock Gralam"
+ },
+ {
+  "crsCode": "LTH",
+  "stationName": "Llanhilleth"
+ },
+ {
+  "crsCode": "LTK",
+  "stationName": "Little Kimble"
+ },
+ {
+  "crsCode": "LTL",
+  "stationName": "Littleborough"
+ },
+ {
+  "crsCode": "LTM",
+  "stationName": "Lytham"
+ },
+ {
+  "crsCode": "LTN",
+  "stationName": "Luton Airport Parkway"
+ },
+ {
+  "crsCode": "LTP",
+  "stationName": "Littleport"
+ },
+ {
+  "crsCode": "LTS",
+  "stationName": "Lelant Saltings"
+ },
+ {
+  "crsCode": "LTT",
+  "stationName": "Little Sutton"
+ },
+ {
+  "crsCode": "LTV",
+  "stationName": "Lichfield Trent Valley"
+ },
+ {
+  "crsCode": "LUD",
+  "stationName": "Ludlow"
+ },
+ {
+  "crsCode": "LUT",
+  "stationName": "Luton"
+ },
+ {
+  "crsCode": "LUX",
+  "stationName": "Luxulyan"
+ },
+ {
+  "crsCode": "LVC",
+  "stationName": "Liverpool Central"
+ },
+ {
+  "crsCode": "LVG",
+  "stationName": "Livingston South"
+ },
+ {
+  "crsCode": "LVJ",
+  "stationName": "Liverpool James Street"
+ },
+ {
+  "crsCode": "LVM",
+  "stationName": "Levenshulme"
+ },
+ {
+  "crsCode": "LVN",
+  "stationName": "Littlehaven"
+ },
+ {
+  "crsCode": "LVT",
+  "stationName": "Lisvane & Thornhill"
+ },
+ {
+  "crsCode": "LWH",
+  "stationName": "Lawrence Hill"
+ },
+ {
+  "crsCode": "LWM",
+  "stationName": "Llantwit Major"
+ },
+ {
+  "crsCode": "LWR",
+  "stationName": "Llanrwst"
+ },
+ {
+  "crsCode": "LWS",
+  "stationName": "Lewes"
+ },
+ {
+  "crsCode": "LWT",
+  "stationName": "Lowestoft"
+ },
+ {
+  "crsCode": "LYC",
+  "stationName": "Lympstone Commando"
+ },
+ {
+  "crsCode": "LYD",
+  "stationName": "Lydney"
+ },
+ {
+  "crsCode": "LYE",
+  "stationName": "Lye (West Midlands)"
+ },
+ {
+  "crsCode": "LYM",
+  "stationName": "Lympstone Village"
+ },
+ {
+  "crsCode": "LYP",
+  "stationName": "Lymington Pier"
+ },
+ {
+  "crsCode": "LYT",
+  "stationName": "Lymington Town"
+ },
+ {
+  "crsCode": "LZB",
+  "stationName": "Lazonby & Kirkoswald"
+ },
+ {
+  "crsCode": "MAC",
+  "stationName": "Macclesfield"
+ },
+ {
+  "crsCode": "MAG",
+  "stationName": "Maghull"
+ },
+ {
+  "crsCode": "MAI",
+  "stationName": "Maidenhead"
+ },
+ {
+  "crsCode": "MAL",
+  "stationName": "Malden Manor"
+ },
+ {
+  "crsCode": "MAN",
+  "stationName": "Manchester Piccadilly"
+ },
+ {
+  "crsCode": "MAO",
+  "stationName": "Martins Heron"
+ },
+ {
+  "crsCode": "MAR",
+  "stationName": "Margate"
+ },
+ {
+  "crsCode": "MAS",
+  "stationName": "Manors"
+ },
+ {
+  "crsCode": "MAT",
+  "stationName": "Matlock"
+ },
+ {
+  "crsCode": "MAU",
+  "stationName": "Mauldeth Road"
+ },
+ {
+  "crsCode": "MAX",
+  "stationName": "Maxwell Park"
+ },
+ {
+  "crsCode": "MAY",
+  "stationName": "Maybole"
+ },
+ {
+  "crsCode": "MBK",
+  "stationName": "Millbrook (Hants)"
+ },
+ {
+  "crsCode": "MBR",
+  "stationName": "Middlesbrough"
+ },
+ {
+  "crsCode": "MCB",
+  "stationName": "Moulsecoomb"
+ },
+ {
+  "crsCode": "MCE",
+  "stationName": "MetroCentre"
+ },
+ {
+  "crsCode": "MCH",
+  "stationName": "March"
+ },
+ {
+  "crsCode": "MCM",
+  "stationName": "Morecambe"
+ },
+ {
+  "crsCode": "MCN",
+  "stationName": "Machynlleth"
+ },
+ {
+  "crsCode": "MCO",
+  "stationName": "Manchester Oxford Road"
+ },
+ {
+  "crsCode": "MCV",
+  "stationName": "Manchester Victoria"
+ },
+ {
+  "crsCode": "MDB",
+  "stationName": "Maidstone Barracks"
+ },
+ {
+  "crsCode": "MDE",
+  "stationName": "Maidstone East"
+ },
+ {
+  "crsCode": "MDG",
+  "stationName": "Midgham"
+ },
+ {
+  "crsCode": "MDL",
+  "stationName": "Middlewood"
+ },
+ {
+  "crsCode": "MDN",
+  "stationName": "Maiden Newton"
+ },
+ {
+  "crsCode": "MDS",
+  "stationName": "Morden South"
+ },
+ {
+  "crsCode": "MDW",
+  "stationName": "Maidstone West"
+ },
+ {
+  "crsCode": "MEC",
+  "stationName": "Meols Cop"
+ },
+ {
+  "crsCode": "MEL",
+  "stationName": "Meldreth"
+ },
+ {
+  "crsCode": "MEN",
+  "stationName": "Menheniot"
+ },
+ {
+  "crsCode": "MEO",
+  "stationName": "Meols"
+ },
+ {
+  "crsCode": "MEP",
+  "stationName": "Meopham"
+ },
+ {
+  "crsCode": "MER",
+  "stationName": "Merthyr Tydfil"
+ },
+ {
+  "crsCode": "MES",
+  "stationName": "Melton (Suffolk)"
+ },
+ {
+  "crsCode": "MEV",
+  "stationName": "Merthyr Vale"
+ },
+ {
+  "crsCode": "MEW",
+  "stationName": "Maesteg (Ewenny Road)"
+ },
+ {
+  "crsCode": "MEX",
+  "stationName": "Mexborough"
+ },
+ {
+  "crsCode": "MEY",
+  "stationName": "Merryton"
+ },
+ {
+  "crsCode": "MFA",
+  "stationName": "Morfa Mawddach"
+ },
+ {
+  "crsCode": "MFF",
+  "stationName": "Minffordd"
+ },
+ {
+  "crsCode": "MFH",
+  "stationName": "Milford Haven"
+ },
+ {
+  "crsCode": "MFL",
+  "stationName": "Mount Florida"
+ },
+ {
+  "crsCode": "MFT",
+  "stationName": "Mansfield"
+ },
+ {
+  "crsCode": "MGM",
+  "stationName": "Metheringham"
+ },
+ {
+  "crsCode": "MGN",
+  "stationName": "Marston Green"
+ },
+ {
+  "crsCode": "MHM",
+  "stationName": "Merstham"
+ },
+ {
+  "crsCode": "MHR",
+  "stationName": "Market Harborough"
+ },
+ {
+  "crsCode": "MHS",
+  "stationName": "Meadowhall"
+ },
+ {
+  "crsCode": "MIA",
+  "stationName": "Manchester Airport"
+ },
+ {
+  "crsCode": "MIC",
+  "stationName": "Micheldever"
+ },
+ {
+  "crsCode": "MIH",
+  "stationName": "Mills Hill (Manchester)"
+ },
+ {
+  "crsCode": "MIJ",
+  "stationName": "Mitcham Junction"
+ },
+ {
+  "crsCode": "MIK",
+  "stationName": "Micklefield"
+ },
+ {
+  "crsCode": "MIL",
+  "stationName": "Mill Hill Broadway"
+ },
+ {
+  "crsCode": "MIM",
+  "stationName": "Moreton-in-Marsh"
+ },
+ {
+  "crsCode": "MIN",
+  "stationName": "Milliken Park"
+ },
+ {
+  "crsCode": "MIR",
+  "stationName": "Mirfield"
+ },
+ {
+  "crsCode": "MIS",
+  "stationName": "Mistley"
+ },
+ {
+  "crsCode": "MKC",
+  "stationName": "Milton Keynes Central"
+ },
+ {
+  "crsCode": "MKM",
+  "stationName": "Melksham"
+ },
+ {
+  "crsCode": "MKR",
+  "stationName": "Market Rasen"
+ },
+ {
+  "crsCode": "MKT",
+  "stationName": "Marks Tey"
+ },
+ {
+  "crsCode": "MLB",
+  "stationName": "Millbrook (Bedfordshire)"
+ },
+ {
+  "crsCode": "MLD",
+  "stationName": "Mouldsworth"
+ },
+ {
+  "crsCode": "MLF",
+  "stationName": "Milford (Surrey)"
+ },
+ {
+  "crsCode": "MLG",
+  "stationName": "Mallaig"
+ },
+ {
+  "crsCode": "MLH",
+  "stationName": "Mill Hill (Lancs)"
+ },
+ {
+  "crsCode": "MLM",
+  "stationName": "Millom"
+ },
+ {
+  "crsCode": "MLN",
+  "stationName": "Milngavie"
+ },
+ {
+  "crsCode": "MLT",
+  "stationName": "Malton"
+ },
+ {
+  "crsCode": "MLW",
+  "stationName": "Marlow"
+ },
+ {
+  "crsCode": "MLY",
+  "stationName": "Morley"
+ },
+ {
+  "crsCode": "MMO",
+  "stationName": "Melton Mowbray"
+ },
+ {
+  "crsCode": "MNC",
+  "stationName": "Markinch"
+ },
+ {
+  "crsCode": "MNE",
+  "stationName": "Manea"
+ },
+ {
+  "crsCode": "MNG",
+  "stationName": "Manningtree"
+ },
+ {
+  "crsCode": "MNN",
+  "stationName": "Menston"
+ },
+ {
+  "crsCode": "MNP",
+  "stationName": "Manor Park"
+ },
+ {
+  "crsCode": "MNR",
+  "stationName": "Manor Road"
+ },
+ {
+  "crsCode": "MNS",
+  "stationName": "Maghull North"
+ },
+ {
+  "crsCode": "MOB",
+  "stationName": "Mobberley"
+ },
+ {
+  "crsCode": "MOG",
+  "stationName": "Moorgate"
+ },
+ {
+  "crsCode": "MON",
+  "stationName": "Monifieth"
+ },
+ {
+  "crsCode": "MOO",
+  "stationName": "Muir of Ord"
+ },
+ {
+  "crsCode": "MOR",
+  "stationName": "Mortimer"
+ },
+ {
+  "crsCode": "MOS",
+  "stationName": "Moss Side"
+ },
+ {
+  "crsCode": "MOT",
+  "stationName": "Motspur Park"
+ },
+ {
+  "crsCode": "MPK",
+  "stationName": "Mosspark"
+ },
+ {
+  "crsCode": "MPL",
+  "stationName": "Marple"
+ },
+ {
+  "crsCode": "MPT",
+  "stationName": "Morpeth"
+ },
+ {
+  "crsCode": "MRB",
+  "stationName": "Manorbier"
+ },
+ {
+  "crsCode": "MRD",
+  "stationName": "Morchard Road"
+ },
+ {
+  "crsCode": "MRF",
+  "stationName": "Moorfields"
+ },
+ {
+  "crsCode": "MRN",
+  "stationName": "Marden (Kent)"
+ },
+ {
+  "crsCode": "MRP",
+  "stationName": "Moorthorpe"
+ },
+ {
+  "crsCode": "MRR",
+  "stationName": "Morar"
+ },
+ {
+  "crsCode": "MRS",
+  "stationName": "Monks Risborough"
+ },
+ {
+  "crsCode": "MRT",
+  "stationName": "Moreton (Merseyside)"
+ },
+ {
+  "crsCode": "MRW",
+  "stationName": "Meridian Water"
+ },
+ {
+  "crsCode": "MRY",
+  "stationName": "Maryport"
+ },
+ {
+  "crsCode": "MSD",
+  "stationName": "Moorside"
+ },
+ {
+  "crsCode": "MSH",
+  "stationName": "Mossley Hill"
+ },
+ {
+  "crsCode": "MSK",
+  "stationName": "Marske"
+ },
+ {
+  "crsCode": "MSL",
+  "stationName": "Mossley (Manchester)"
+ },
+ {
+  "crsCode": "MSN",
+  "stationName": "Marsden (Yorks)"
+ },
+ {
+  "crsCode": "MSO",
+  "stationName": "Moston"
+ },
+ {
+  "crsCode": "MSR",
+  "stationName": "Minster"
+ },
+ {
+  "crsCode": "MSS",
+  "stationName": "Moses Gate"
+ },
+ {
+  "crsCode": "MST",
+  "stationName": "Maesteg"
+ },
+ {
+  "crsCode": "MSW",
+  "stationName": "Mansfield Woodhouse"
+ },
+ {
+  "crsCode": "MTA",
+  "stationName": "Mountain Ash"
+ },
+ {
+  "crsCode": "MTB",
+  "stationName": "Matlock Bath"
+ },
+ {
+  "crsCode": "MTC",
+  "stationName": "Mitcham Eastfields"
+ },
+ {
+  "crsCode": "MTG",
+  "stationName": "Mottingham"
+ },
+ {
+  "crsCode": "MTH",
+  "stationName": "Motherwell"
+ },
+ {
+  "crsCode": "MTL",
+  "stationName": "Mortlake"
+ },
+ {
+  "crsCode": "MTM",
+  "stationName": "Martin Mill"
+ },
+ {
+  "crsCode": "MTN",
+  "stationName": "Moreton (Dorset)"
+ },
+ {
+  "crsCode": "MTO",
+  "stationName": "Marton"
+ },
+ {
+  "crsCode": "MTP",
+  "stationName": "Montpelier"
+ },
+ {
+  "crsCode": "MTS",
+  "stationName": "Montrose"
+ },
+ {
+  "crsCode": "MTV",
+  "stationName": "Mount Vernon"
+ },
+ {
+  "crsCode": "MUB",
+  "stationName": "Musselburgh"
+ },
+ {
+  "crsCode": "MUF",
+  "stationName": "Manchester United Football Ground"
+ },
+ {
+  "crsCode": "MUI",
+  "stationName": "Muirend"
+ },
+ {
+  "crsCode": "MVL",
+  "stationName": "Malvern Link"
+ },
+ {
+  "crsCode": "MYB",
+  "stationName": "London Marylebone"
+ },
+ {
+  "crsCode": "MYH",
+  "stationName": "Maryhill"
+ },
+ {
+  "crsCode": "MYL",
+  "stationName": "Maryland"
+ },
+ {
+  "crsCode": "MYT",
+  "stationName": "Mytholmroyd"
+ },
+ {
+  "crsCode": "MZH",
+  "stationName": "Maze Hill"
+ },
+ {
+  "crsCode": "NAN",
+  "stationName": "Nantwich"
+ },
+ {
+  "crsCode": "NAR",
+  "stationName": "Narberth"
+ },
+ {
+  "crsCode": "NAY",
+  "stationName": "Newton Aycliffe"
+ },
+ {
+  "crsCode": "NBA",
+  "stationName": "New Barnet"
+ },
+ {
+  "crsCode": "NBC",
+  "stationName": "New Beckenham"
+ },
+ {
+  "crsCode": "NBE",
+  "stationName": "Newbridge"
+ },
+ {
+  "crsCode": "NBN",
+  "stationName": "New Brighton"
+ },
+ {
+  "crsCode": "NBR",
+  "stationName": "Narborough"
+ },
+ {
+  "crsCode": "NBT",
+  "stationName": "Norbiton"
+ },
+ {
+  "crsCode": "NBW",
+  "stationName": "North Berwick"
+ },
+ {
+  "crsCode": "NBY",
+  "stationName": "Newbury"
+ },
+ {
+  "crsCode": "NCE",
+  "stationName": "New Clee"
+ },
+ {
+  "crsCode": "NCK",
+  "stationName": "New Cumnock"
+ },
+ {
+  "crsCode": "NCL",
+  "stationName": "Newcastle"
+ },
+ {
+  "crsCode": "NCM",
+  "stationName": "North Camp"
+ },
+ {
+  "crsCode": "NCO",
+  "stationName": "Newcourt"
+ },
+ {
+  "crsCode": "NCT",
+  "stationName": "Newark Castle"
+ },
+ {
+  "crsCode": "NDL",
+  "stationName": "North Dulwich"
+ },
+ {
+  "crsCode": "NEG",
+  "stationName": "Newtongrange"
+ },
+ {
+  "crsCode": "NEH",
+  "stationName": "New Eltham"
+ },
+ {
+  "crsCode": "NEI",
+  "stationName": "Neilston"
+ },
+ {
+  "crsCode": "NEL",
+  "stationName": "Nelson"
+ },
+ {
+  "crsCode": "NEM",
+  "stationName": "New Malden"
+ },
+ {
+  "crsCode": "NES",
+  "stationName": "Neston"
+ },
+ {
+  "crsCode": "NET",
+  "stationName": "Netherfield"
+ },
+ {
+  "crsCode": "NEW",
+  "stationName": "Newcraighall"
+ },
+ {
+  "crsCode": "NFA",
+  "stationName": "North Fambridge"
+ },
+ {
+  "crsCode": "NFD",
+  "stationName": "Northfield"
+ },
+ {
+  "crsCode": "NFL",
+  "stationName": "Northfleet"
+ },
+ {
+  "crsCode": "NFN",
+  "stationName": "Nafferton"
+ },
+ {
+  "crsCode": "NGT",
+  "stationName": "Newington"
+ },
+ {
+  "crsCode": "NHD",
+  "stationName": "Nunhead"
+ },
+ {
+  "crsCode": "NHE",
+  "stationName": "New Hythe"
+ },
+ {
+  "crsCode": "NHL",
+  "stationName": "New Holland"
+ },
+ {
+  "crsCode": "NIT",
+  "stationName": "Nitshill"
+ },
+ {
+  "crsCode": "NLN",
+  "stationName": "New Lane"
+ },
+ {
+  "crsCode": "NLR",
+  "stationName": "North Llanrwst"
+ },
+ {
+  "crsCode": "NLS",
+  "stationName": "Nailsea & Backwell"
+ },
+ {
+  "crsCode": "NLT",
+  "stationName": "Northolt Park"
+ },
+ {
+  "crsCode": "NLW",
+  "stationName": "Newton-le-Willows"
+ },
+ {
+  "crsCode": "NMC",
+  "stationName": "New Mills Central"
+ },
+ {
+  "crsCode": "NMK",
+  "stationName": "Newmarket"
+ },
+ {
+  "crsCode": "NMN",
+  "stationName": "New Mills Newtown"
+ },
+ {
+  "crsCode": "NMP",
+  "stationName": "Northampton"
+ },
+ {
+  "crsCode": "NMT",
+  "stationName": "Needham Market"
+ },
+ {
+  "crsCode": "NNG",
+  "stationName": "Newark North Gate"
+ },
+ {
+  "crsCode": "NNP",
+  "stationName": "Ninian Park"
+ },
+ {
+  "crsCode": "NNT",
+  "stationName": "Nunthorpe"
+ },
+ {
+  "crsCode": "NOA",
+  "stationName": "Newton-on-Ayr"
+ },
+ {
+  "crsCode": "NOR",
+  "stationName": "Normanton"
+ },
+ {
+  "crsCode": "NOT",
+  "stationName": "Nottingham"
+ },
+ {
+  "crsCode": "NPD",
+  "stationName": "New Pudsey"
+ },
+ {
+  "crsCode": "NQU",
+  "stationName": "North Queensferry"
+ },
+ {
+  "crsCode": "NQY",
+  "stationName": "Newquay"
+ },
+ {
+  "crsCode": "NRB",
+  "stationName": "Norbury"
+ },
+ {
+  "crsCode": "NRC",
+  "stationName": "Newbury Racecourse"
+ },
+ {
+  "crsCode": "NRD",
+  "stationName": "North Road (Darlington)"
+ },
+ {
+  "crsCode": "NRN",
+  "stationName": "Nairn"
+ },
+ {
+  "crsCode": "NRT",
+  "stationName": "Nethertown"
+ },
+ {
+  "crsCode": "NRW",
+  "stationName": "Norwich"
+ },
+ {
+  "crsCode": "NSB",
+  "stationName": "Normans Bay"
+ },
+ {
+  "crsCode": "NSD",
+  "stationName": "Newstead"
+ },
+ {
+  "crsCode": "NSG",
+  "stationName": "New Southgate"
+ },
+ {
+  "crsCode": "NSH",
+  "stationName": "North Sheen"
+ },
+ {
+  "crsCode": "NTA",
+  "stationName": "Newton Abbot"
+ },
+ {
+  "crsCode": "NTB",
+  "stationName": "Norton Bridge"
+ },
+ {
+  "crsCode": "NTC",
+  "stationName": "Newton St Cyres"
+ },
+ {
+  "crsCode": "NTH",
+  "stationName": "Neath"
+ },
+ {
+  "crsCode": "NTL",
+  "stationName": "Netley"
+ },
+ {
+  "crsCode": "NTN",
+  "stationName": "Newton (Lanark)"
+ },
+ {
+  "crsCode": "NTR",
+  "stationName": "Northallerton"
+ },
+ {
+  "crsCode": "NUF",
+  "stationName": "Nutfield"
+ },
+ {
+  "crsCode": "NUM",
+  "stationName": "Northumberland Park"
+ },
+ {
+  "crsCode": "NUN",
+  "stationName": "Nuneaton"
+ },
+ {
+  "crsCode": "NUT",
+  "stationName": "Nutbourne"
+ },
+ {
+  "crsCode": "NVH",
+  "stationName": "Newhaven Harbour"
+ },
+ {
+  "crsCode": "NVN",
+  "stationName": "Newhaven Town"
+ },
+ {
+  "crsCode": "NVR",
+  "stationName": "Navigation Road"
+ },
+ {
+  "crsCode": "NWA",
+  "stationName": "North Walsham"
+ },
+ {
+  "crsCode": "NWB",
+  "stationName": "North Wembley"
+ },
+ {
+  "crsCode": "NWD",
+  "stationName": "Norwood Junction"
+ },
+ {
+  "crsCode": "NWE",
+  "stationName": "Newport (Essex)"
+ },
+ {
+  "crsCode": "NWI",
+  "stationName": "Northwich"
+ },
+ {
+  "crsCode": "NWM",
+  "stationName": "New Milton"
+ },
+ {
+  "crsCode": "NWN",
+  "stationName": "Newton for Hyde"
+ },
+ {
+  "crsCode": "NWP",
+  "stationName": "Newport (South Wales)"
+ },
+ {
+  "crsCode": "NWR",
+  "stationName": "Newtonmore"
+ },
+ {
+  "crsCode": "NWT",
+  "stationName": "Newtown (Powys)"
+ },
+ {
+  "crsCode": "NWX",
+  "stationName": "New Cross"
+ },
+ {
+  "crsCode": "NXG",
+  "stationName": "New Cross Gate"
+ },
+ {
+  "crsCode": "OBN",
+  "stationName": "Oban"
+ },
+ {
+  "crsCode": "OCK",
+  "stationName": "Ockendon"
+ },
+ {
+  "crsCode": "OHL",
+  "stationName": "Old Hill"
+ },
+ {
+  "crsCode": "OKE",
+  "stationName": "Okehampton"
+ },
+ {
+  "crsCode": "OKL",
+  "stationName": "Oakleigh Park"
+ },
+ {
+  "crsCode": "OKM",
+  "stationName": "Oakham"
+ },
+ {
+  "crsCode": "OKN",
+  "stationName": "Oakengates"
+ },
+ {
+  "crsCode": "OLD",
+  "stationName": "Old Street"
+ },
+ {
+  "crsCode": "OLF",
+  "stationName": "Oldfield Park"
+ },
+ {
+  "crsCode": "OLT",
+  "stationName": "Olton"
+ },
+ {
+  "crsCode": "OLY",
+  "stationName": "Ockley"
+ },
+ {
+  "crsCode": "OMS",
+  "stationName": "Ormskirk"
+ },
+ {
+  "crsCode": "OPK",
+  "stationName": "Orrell Park"
+ },
+ {
+  "crsCode": "ORE",
+  "stationName": "Ore"
+ },
+ {
+  "crsCode": "ORN",
+  "stationName": "Old Roan"
+ },
+ {
+  "crsCode": "ORP",
+  "stationName": "Orpington"
+ },
+ {
+  "crsCode": "ORR",
+  "stationName": "Orrell"
+ },
+ {
+  "crsCode": "OTF",
+  "stationName": "Otford"
+ },
+ {
+  "crsCode": "OUN",
+  "stationName": "Oulton Broad North"
+ },
+ {
+  "crsCode": "OUS",
+  "stationName": "Oulton Broad South"
+ },
+ {
+  "crsCode": "OUT",
+  "stationName": "Outwood"
+ },
+ {
+  "crsCode": "OVE",
+  "stationName": "Overpool"
+ },
+ {
+  "crsCode": "OVR",
+  "stationName": "Overton"
+ },
+ {
+  "crsCode": "OXF",
+  "stationName": "Oxford"
+ },
+ {
+  "crsCode": "OXN",
+  "stationName": "Oxenholme Lake District"
+ },
+ {
+  "crsCode": "OXP",
+  "stationName": "Oxford Parkway"
+ },
+ {
+  "crsCode": "OXS",
+  "stationName": "Oxshott"
+ },
+ {
+  "crsCode": "OXT",
+  "stationName": "Oxted"
+ },
+ {
+  "crsCode": "PAD",
+  "stationName": "London Paddington"
+ },
+ {
+  "crsCode": "PAL",
+  "stationName": "Palmers Green"
+ },
+ {
+  "crsCode": "PAN",
+  "stationName": "Pangbourne"
+ },
+ {
+  "crsCode": "PAR",
+  "stationName": "Par"
+ },
+ {
+  "crsCode": "PAT",
+  "stationName": "Patricroft"
+ },
+ {
+  "crsCode": "PBL",
+  "stationName": "Parbold"
+ },
+ {
+  "crsCode": "PBO",
+  "stationName": "Peterborough"
+ },
+ {
+  "crsCode": "PBR",
+  "stationName": "Potters Bar"
+ },
+ {
+  "crsCode": "PBY",
+  "stationName": "Pembrey & Burry Port"
+ },
+ {
+  "crsCode": "PCD",
+  "stationName": "Pencoed"
+ },
+ {
+  "crsCode": "PCN",
+  "stationName": "Paisley Canal"
+ },
+ {
+  "crsCode": "PDG",
+  "stationName": "Padgate"
+ },
+ {
+  "crsCode": "PDW",
+  "stationName": "Paddock Wood"
+ },
+ {
+  "crsCode": "PEA",
+  "stationName": "Peartree"
+ },
+ {
+  "crsCode": "PEB",
+  "stationName": "Pevensey Bay"
+ },
+ {
+  "crsCode": "PEG",
+  "stationName": "Pegswood"
+ },
+ {
+  "crsCode": "PEM",
+  "stationName": "Pemberton"
+ },
+ {
+  "crsCode": "PEN",
+  "stationName": "Penarth"
+ },
+ {
+  "crsCode": "PER",
+  "stationName": "Penrhiwceiber"
+ },
+ {
+  "crsCode": "PES",
+  "stationName": "Pensarn (Gwynedd)"
+ },
+ {
+  "crsCode": "PET",
+  "stationName": "Petts Wood"
+ },
+ {
+  "crsCode": "PEV",
+  "stationName": "Pevensey & Westham"
+ },
+ {
+  "crsCode": "PEW",
+  "stationName": "Pewsey"
+ },
+ {
+  "crsCode": "PFL",
+  "stationName": "Purfleet"
+ },
+ {
+  "crsCode": "PFM",
+  "stationName": "Pontefract Monkhill"
+ },
+ {
+  "crsCode": "PFR",
+  "stationName": "Pontefract Baghill"
+ },
+ {
+  "crsCode": "PFY",
+  "stationName": "Poulton-le-Fylde"
+ },
+ {
+  "crsCode": "PGM",
+  "stationName": "Pengam"
+ },
+ {
+  "crsCode": "PGN",
+  "stationName": "Paignton"
+ },
+ {
+  "crsCode": "PHG",
+  "stationName": "Penhelig"
+ },
+ {
+  "crsCode": "PHR",
+  "stationName": "Penshurst"
+ },
+ {
+  "crsCode": "PIL",
+  "stationName": "Pilning"
+ },
+ {
+  "crsCode": "PIN",
+  "stationName": "Pinhoe"
+ },
+ {
+  "crsCode": "PIT",
+  "stationName": "Pitlochry"
+ },
+ {
+  "crsCode": "PKG",
+  "stationName": "Penkridge"
+ },
+ {
+  "crsCode": "PKS",
+  "stationName": "Parkstone (Dorset)"
+ },
+ {
+  "crsCode": "PKT",
+  "stationName": "Park Street"
+ },
+ {
+  "crsCode": "PLC",
+  "stationName": "Pluckley"
+ },
+ {
+  "crsCode": "PLD",
+  "stationName": "Portslade"
+ },
+ {
+  "crsCode": "PLE",
+  "stationName": "Pollokshields East"
+ },
+ {
+  "crsCode": "PLG",
+  "stationName": "Polegate"
+ },
+ {
+  "crsCode": "PLK",
+  "stationName": "Plockton"
+ },
+ {
+  "crsCode": "PLM",
+  "stationName": "Plumley"
+ },
+ {
+  "crsCode": "PLN",
+  "stationName": "Portlethen"
+ },
+ {
+  "crsCode": "PLS",
+  "stationName": "Pleasington"
+ },
+ {
+  "crsCode": "PLT",
+  "stationName": "Pontlottyn"
+ },
+ {
+  "crsCode": "PLU",
+  "stationName": "Plumstead"
+ },
+ {
+  "crsCode": "PLW",
+  "stationName": "Pollokshields West"
+ },
+ {
+  "crsCode": "PLY",
+  "stationName": "Plymouth"
+ },
+ {
+  "crsCode": "PMA",
+  "stationName": "Portsmouth Arms"
+ },
+ {
+  "crsCode": "PMB",
+  "stationName": "Pembroke"
+ },
+ {
+  "crsCode": "PMD",
+  "stationName": "Pembroke Dock"
+ },
+ {
+  "crsCode": "PMH",
+  "stationName": "Portsmouth Harbour"
+ },
+ {
+  "crsCode": "PMP",
+  "stationName": "Plumpton"
+ },
+ {
+  "crsCode": "PMR",
+  "stationName": "Peckham Rye"
+ },
+ {
+  "crsCode": "PMS",
+  "stationName": "Portsmouth & Southsea"
+ },
+ {
+  "crsCode": "PMT",
+  "stationName": "Polmont"
+ },
+ {
+  "crsCode": "PMW",
+  "stationName": "Penmaenmawr"
+ },
+ {
+  "crsCode": "PNA",
+  "stationName": "Penally"
+ },
+ {
+  "crsCode": "PNC",
+  "stationName": "Penychain"
+ },
+ {
+  "crsCode": "PNE",
+  "stationName": "Penge East"
+ },
+ {
+  "crsCode": "PNF",
+  "stationName": "Penyffordd"
+ },
+ {
+  "crsCode": "PNL",
+  "stationName": "Pannal"
+ },
+ {
+  "crsCode": "PNM",
+  "stationName": "Penmere"
+ },
+ {
+  "crsCode": "PNR",
+  "stationName": "Penrith (North Lakes)"
+ },
+ {
+  "crsCode": "PNS",
+  "stationName": "Penistone"
+ },
+ {
+  "crsCode": "PNW",
+  "stationName": "Penge West"
+ },
+ {
+  "crsCode": "PNY",
+  "stationName": "Pen-y-Bont (Mid Wales)"
+ },
+ {
+  "crsCode": "PNZ",
+  "stationName": "Penzance"
+ },
+ {
+  "crsCode": "POK",
+  "stationName": "Pokesdown"
+ },
+ {
+  "crsCode": "POL",
+  "stationName": "Polsloe Bridge"
+ },
+ {
+  "crsCode": "PON",
+  "stationName": "Ponders End"
+ },
+ {
+  "crsCode": "POO",
+  "stationName": "Poole"
+ },
+ {
+  "crsCode": "POP",
+  "stationName": "Poppleton"
+ },
+ {
+  "crsCode": "POR",
+  "stationName": "Porth"
+ },
+ {
+  "crsCode": "POT",
+  "stationName": "Pontefract Tanshelf"
+ },
+ {
+  "crsCode": "PPD",
+  "stationName": "Pontypridd"
+ },
+ {
+  "crsCode": "PPK",
+  "stationName": "Possilpark & Parkhouse"
+ },
+ {
+  "crsCode": "PPL",
+  "stationName": "Pontypool & New Inn"
+ },
+ {
+  "crsCode": "PRA",
+  "stationName": "Prestwick International Airport"
+ },
+ {
+  "crsCode": "PRB",
+  "stationName": "Prestbury"
+ },
+ {
+  "crsCode": "PRE",
+  "stationName": "Preston (Lancs)"
+ },
+ {
+  "crsCode": "PRH",
+  "stationName": "Penrhyndeudraeth"
+ },
+ {
+  "crsCode": "PRL",
+  "stationName": "Prittlewell"
+ },
+ {
+  "crsCode": "PRN",
+  "stationName": "Parton"
+ },
+ {
+  "crsCode": "PRP",
+  "stationName": "Preston Park"
+ },
+ {
+  "crsCode": "PRR",
+  "stationName": "Princes Risborough"
+ },
+ {
+  "crsCode": "PRS",
+  "stationName": "Prees"
+ },
+ {
+  "crsCode": "PRT",
+  "stationName": "Prestatyn"
+ },
+ {
+  "crsCode": "PRU",
+  "stationName": "Prudhoe"
+ },
+ {
+  "crsCode": "PRW",
+  "stationName": "Perranwell"
+ },
+ {
+  "crsCode": "PRY",
+  "stationName": "Perry Barr"
+ },
+ {
+  "crsCode": "PSC",
+  "stationName": "Prescot"
+ },
+ {
+  "crsCode": "PSE",
+  "stationName": "Pitsea"
+ },
+ {
+  "crsCode": "PSH",
+  "stationName": "Pershore"
+ },
+ {
+  "crsCode": "PSL",
+  "stationName": "Port Sunlight"
+ },
+ {
+  "crsCode": "PSN",
+  "stationName": "Parson Street"
+ },
+ {
+  "crsCode": "PST",
+  "stationName": "Prestonpans"
+ },
+ {
+  "crsCode": "PSW",
+  "stationName": "Polesworth"
+ },
+ {
+  "crsCode": "PTA",
+  "stationName": "Port Talbot Parkway"
+ },
+ {
+  "crsCode": "PTB",
+  "stationName": "Pentre-Bach"
+ },
+ {
+  "crsCode": "PTC",
+  "stationName": "Portchester"
+ },
+ {
+  "crsCode": "PTD",
+  "stationName": "Pontarddulais"
+ },
+ {
+  "crsCode": "PTF",
+  "stationName": "Pantyffynnon"
+ },
+ {
+  "crsCode": "PTG",
+  "stationName": "Port Glasgow"
+ },
+ {
+  "crsCode": "PTH",
+  "stationName": "Perth"
+ },
+ {
+  "crsCode": "PTK",
+  "stationName": "Partick"
+ },
+ {
+  "crsCode": "PTL",
+  "stationName": "Priesthill & Darnley"
+ },
+ {
+  "crsCode": "PTM",
+  "stationName": "Porthmadog"
+ },
+ {
+  "crsCode": "PTR",
+  "stationName": "Petersfield"
+ },
+ {
+  "crsCode": "PTT",
+  "stationName": "Patterton"
+ },
+ {
+  "crsCode": "PTW",
+  "stationName": "Prestwick Town"
+ },
+ {
+  "crsCode": "PUL",
+  "stationName": "Pulborough"
+ },
+ {
+  "crsCode": "PUO",
+  "stationName": "Purley Oaks"
+ },
+ {
+  "crsCode": "PUR",
+  "stationName": "Purley"
+ },
+ {
+  "crsCode": "PUT",
+  "stationName": "Putney"
+ },
+ {
+  "crsCode": "PWE",
+  "stationName": "Pollokshaws East"
+ },
+ {
+  "crsCode": "PWL",
+  "stationName": "Pwllheli"
+ },
+ {
+  "crsCode": "PWW",
+  "stationName": "Pollokshaws West"
+ },
+ {
+  "crsCode": "PWY",
+  "stationName": "Patchway"
+ },
+ {
+  "crsCode": "PYC",
+  "stationName": "Pontyclun"
+ },
+ {
+  "crsCode": "PYE",
+  "stationName": "Pye Corner"
+ },
+ {
+  "crsCode": "PYG",
+  "stationName": "Paisley Gilmour Street"
+ },
+ {
+  "crsCode": "PYJ",
+  "stationName": "Paisley St James"
+ },
+ {
+  "crsCode": "PYL",
+  "stationName": "Pyle"
+ },
+ {
+  "crsCode": "PYN",
+  "stationName": "Penryn (Cornwall)"
+ },
+ {
+  "crsCode": "PYP",
+  "stationName": "Pont-y-Pant"
+ },
+ {
+  "crsCode": "PYT",
+  "stationName": "Poynton"
+ },
+ {
+  "crsCode": "QBR",
+  "stationName": "Queenborough"
+ },
+ {
+  "crsCode": "QPK",
+  "stationName": "Queens Park (Glasgow)"
+ },
+ {
+  "crsCode": "QPW",
+  "stationName": "Queens Park (London)"
+ },
+ {
+  "crsCode": "QRB",
+  "stationName": "Queenstown Road (Battersea)"
+ },
+ {
+  "crsCode": "QRP",
+  "stationName": "Queens Road (Peckham)"
+ },
+ {
+  "crsCode": "QUI",
+  "stationName": "Quintrell Downs"
+ },
+ {
+  "crsCode": "QYD",
+  "stationName": "Quakers Yard"
+ },
+ {
+  "crsCode": "RAD",
+  "stationName": "Radley"
+ },
+ {
+  "crsCode": "RAI",
+  "stationName": "Rainham (Kent)"
+ },
+ {
+  "crsCode": "RAM",
+  "stationName": "Ramsgate"
+ },
+ {
+  "crsCode": "RAN",
+  "stationName": "Rannoch"
+ },
+ {
+  "crsCode": "RAU",
+  "stationName": "Rauceby"
+ },
+ {
+  "crsCode": "RAV",
+  "stationName": "Ravenglass for Eskdale"
+ },
+ {
+  "crsCode": "RAY",
+  "stationName": "Raynes Park"
+ },
+ {
+  "crsCode": "RBR",
+  "stationName": "Robertsbridge"
+ },
+ {
+  "crsCode": "RBS",
+  "stationName": "Redcar British Steel"
+ },
+ {
+  "crsCode": "RCA",
+  "stationName": "Risca & Pontymister"
+ },
+ {
+  "crsCode": "RCC",
+  "stationName": "Redcar Central"
+ },
+ {
+  "crsCode": "RCD",
+  "stationName": "Rochdale"
+ },
+ {
+  "crsCode": "RCE",
+  "stationName": "Redcar East"
+ },
+ {
+  "crsCode": "RDA",
+  "stationName": "Redland"
+ },
+ {
+  "crsCode": "RDB",
+  "stationName": "Redbridge"
+ },
+ {
+  "crsCode": "RDC",
+  "stationName": "Redditch"
+ },
+ {
+  "crsCode": "RDD",
+  "stationName": "Riddlesdown"
+ },
+ {
+  "crsCode": "RDF",
+  "stationName": "Radcliffe (Nottinghamshire)"
+ },
+ {
+  "crsCode": "RDG",
+  "stationName": "Reading"
+ },
+ {
+  "crsCode": "RDH",
+  "stationName": "Redhill"
+ },
+ {
+  "crsCode": "RDM",
+  "stationName": "Riding Mill"
+ },
+ {
+  "crsCode": "RDN",
+  "stationName": "Reddish North"
+ },
+ {
+  "crsCode": "RDR",
+  "stationName": "Radyr"
+ },
+ {
+  "crsCode": "RDS",
+  "stationName": "Reddish South"
+ },
+ {
+  "crsCode": "RDT",
+  "stationName": "Radlett"
+ },
+ {
+  "crsCode": "RDW",
+  "stationName": "Reading West"
+ },
+ {
+  "crsCode": "REC",
+  "stationName": "Rectory Road"
+ },
+ {
+  "crsCode": "RED",
+  "stationName": "Redruth"
+ },
+ {
+  "crsCode": "REE",
+  "stationName": "Reedham (Norfolk)"
+ },
+ {
+  "crsCode": "REI",
+  "stationName": "Reigate"
+ },
+ {
+  "crsCode": "RET",
+  "stationName": "Retford"
+ },
+ {
+  "crsCode": "RFD",
+  "stationName": "Rochford"
+ },
+ {
+  "crsCode": "RFY",
+  "stationName": "Rock Ferry"
+ },
+ {
+  "crsCode": "RGL",
+  "stationName": "Rugeley Trent Valley"
+ },
+ {
+  "crsCode": "RGT",
+  "stationName": "Rugeley Town"
+ },
+ {
+  "crsCode": "RGW",
+  "stationName": "Ramsgreave & Wilpshire"
+ },
+ {
+  "crsCode": "RHD",
+  "stationName": "Ribblehead"
+ },
+ {
+  "crsCode": "RHI",
+  "stationName": "Rhiwbina"
+ },
+ {
+  "crsCode": "RHL",
+  "stationName": "Rhyl"
+ },
+ {
+  "crsCode": "RHM",
+  "stationName": "Reedham (London)"
+ },
+ {
+  "crsCode": "RHO",
+  "stationName": "Rhosneigr"
+ },
+ {
+  "crsCode": "RHY",
+  "stationName": "Rhymney"
+ },
+ {
+  "crsCode": "RIA",
+  "stationName": "Rhoose Cardiff International Airport"
+ },
+ {
+  "crsCode": "RIC",
+  "stationName": "Rickmansworth"
+ },
+ {
+  "crsCode": "RID",
+  "stationName": "Ridgmont"
+ },
+ {
+  "crsCode": "RIL",
+  "stationName": "Rice Lane"
+ },
+ {
+  "crsCode": "RIS",
+  "stationName": "Rishton"
+ },
+ {
+  "crsCode": "RKT",
+  "stationName": "Ruskington"
+ },
+ {
+  "crsCode": "RLG",
+  "stationName": "Rayleigh"
+ },
+ {
+  "crsCode": "RLN",
+  "stationName": "Rowlands Castle"
+ },
+ {
+  "crsCode": "RMB",
+  "stationName": "Roman Bridge"
+ },
+ {
+  "crsCode": "RMC",
+  "stationName": "Rotherham Central"
+ },
+ {
+  "crsCode": "RMD",
+  "stationName": "Richmond (London)"
+ },
+ {
+  "crsCode": "RMF",
+  "stationName": "Romford"
+ },
+ {
+  "crsCode": "RML",
+  "stationName": "Romiley"
+ },
+ {
+  "crsCode": "RNF",
+  "stationName": "Rainford"
+ },
+ {
+  "crsCode": "RNH",
+  "stationName": "Rainhill"
+ },
+ {
+  "crsCode": "RNM",
+  "stationName": "Rainham (Essex)"
+ },
+ {
+  "crsCode": "RNR",
+  "stationName": "Roughton Road"
+ },
+ {
+  "crsCode": "ROB",
+  "stationName": "Roby"
+ },
+ {
+  "crsCode": "ROC",
+  "stationName": "Roche"
+ },
+ {
+  "crsCode": "ROE",
+  "stationName": "Rotherhithe"
+ },
+ {
+  "crsCode": "ROG",
+  "stationName": "Rogart"
+ },
+ {
+  "crsCode": "ROL",
+  "stationName": "Rolleston"
+ },
+ {
+  "crsCode": "ROM",
+  "stationName": "Romsey"
+ },
+ {
+  "crsCode": "ROO",
+  "stationName": "Roose"
+ },
+ {
+  "crsCode": "ROR",
+  "stationName": "Rogerstone"
+ },
+ {
+  "crsCode": "ROS",
+  "stationName": "Rosyth"
+ },
+ {
+  "crsCode": "ROW",
+  "stationName": "Rowley Regis"
+ },
+ {
+  "crsCode": "RRB",
+  "stationName": "Ryder Brow"
+ },
+ {
+  "crsCode": "RRN",
+  "stationName": "Robroyston"
+ },
+ {
+  "crsCode": "RSG",
+  "stationName": "Rose Grove"
+ },
+ {
+  "crsCode": "RSH",
+  "stationName": "Rose Hill Marple"
+ },
+ {
+  "crsCode": "RTN",
+  "stationName": "Renton"
+ },
+ {
+  "crsCode": "RTR",
+  "stationName": "Rochester"
+ },
+ {
+  "crsCode": "RUA",
+  "stationName": "Ruabon"
+ },
+ {
+  "crsCode": "RUE",
+  "stationName": "Runcorn East"
+ },
+ {
+  "crsCode": "RUF",
+  "stationName": "Rufford"
+ },
+ {
+  "crsCode": "RUG",
+  "stationName": "Rugby"
+ },
+ {
+  "crsCode": "RUN",
+  "stationName": "Runcorn"
+ },
+ {
+  "crsCode": "RUS",
+  "stationName": "Ruswarp"
+ },
+ {
+  "crsCode": "RUT",
+  "stationName": "Rutherglen"
+ },
+ {
+  "crsCode": "RVB",
+  "stationName": "Ravensbourne"
+ },
+ {
+  "crsCode": "RVN",
+  "stationName": "Ravensthorpe"
+ },
+ {
+  "crsCode": "RWC",
+  "stationName": "Rawcliffe"
+ },
+ {
+  "crsCode": "RYB",
+  "stationName": "Roy Bridge"
+ },
+ {
+  "crsCode": "RYD",
+  "stationName": "Ryde Esplanade"
+ },
+ {
+  "crsCode": "RYE",
+  "stationName": "Rye (Sussex)"
+ },
+ {
+  "crsCode": "RYH",
+  "stationName": "Rye House"
+ },
+ {
+  "crsCode": "RYN",
+  "stationName": "Roydon"
+ },
+ {
+  "crsCode": "RYP",
+  "stationName": "Ryde Pier Head"
+ },
+ {
+  "crsCode": "RYR",
+  "stationName": "Ryde St Johns Road"
+ },
+ {
+  "crsCode": "RYS",
+  "stationName": "Royston"
+ },
+ {
+  "crsCode": "SAA",
+  "stationName": "St Albans Abbey"
+ },
+ {
+  "crsCode": "SAB",
+  "stationName": "Smallbrook Junction"
+ },
+ {
+  "crsCode": "SAC",
+  "stationName": "St Albans City"
+ },
+ {
+  "crsCode": "SAD",
+  "stationName": "Sandwell & Dudley"
+ },
+ {
+  "crsCode": "SAE",
+  "stationName": "Saltaire"
+ },
+ {
+  "crsCode": "SAF",
+  "stationName": "Salfords (Surrey)"
+ },
+ {
+  "crsCode": "SAH",
+  "stationName": "Salhouse"
+ },
+ {
+  "crsCode": "SAJ",
+  "stationName": "St Johns (London)"
+ },
+ {
+  "crsCode": "SAL",
+  "stationName": "Salisbury"
+ },
+ {
+  "crsCode": "SAM",
+  "stationName": "Saltmarshe"
+ },
+ {
+  "crsCode": "SAN",
+  "stationName": "Sandown"
+ },
+ {
+  "crsCode": "SAR",
+  "stationName": "St Andrews Road"
+ },
+ {
+  "crsCode": "SAS",
+  "stationName": "St Annes-on-the-Sea"
+ },
+ {
+  "crsCode": "SAT",
+  "stationName": "South Acton"
+ },
+ {
+  "crsCode": "SAU",
+  "stationName": "St Austell"
+ },
+ {
+  "crsCode": "SAV",
+  "stationName": "Stratford-upon-Avon"
+ },
+ {
+  "crsCode": "SAW",
+  "stationName": "Sawbridgeworth"
+ },
+ {
+  "crsCode": "SAX",
+  "stationName": "Saxmundham"
+ },
+ {
+  "crsCode": "SAY",
+  "stationName": "Swanley"
+ },
+ {
+  "crsCode": "SBE",
+  "stationName": "Starbeck"
+ },
+ {
+  "crsCode": "SBF",
+  "stationName": "St Budeaux Ferry Road"
+ },
+ {
+  "crsCode": "SBJ",
+  "stationName": "Stourbridge Junction"
+ },
+ {
+  "crsCode": "SBK",
+  "stationName": "South Bank"
+ },
+ {
+  "crsCode": "SBM",
+  "stationName": "South Bermondsey"
+ },
+ {
+  "crsCode": "SBP",
+  "stationName": "Stonebridge Park"
+ },
+ {
+  "crsCode": "SBR",
+  "stationName": "Spean Bridge"
+ },
+ {
+  "crsCode": "SBS",
+  "stationName": "St Bees"
+ },
+ {
+  "crsCode": "SBT",
+  "stationName": "Stourbridge Town"
+ },
+ {
+  "crsCode": "SBU",
+  "stationName": "Southbury"
+ },
+ {
+  "crsCode": "SBV",
+  "stationName": "St Budeaux Victoria Road"
+ },
+ {
+  "crsCode": "SBY",
+  "stationName": "Selby"
+ },
+ {
+  "crsCode": "SCA",
+  "stationName": "Scarborough"
+ },
+ {
+  "crsCode": "SCF",
+  "stationName": "Stechford"
+ },
+ {
+  "crsCode": "SCG",
+  "stationName": "Stone Crossing"
+ },
+ {
+  "crsCode": "SCH",
+  "stationName": "Scotstounhill"
+ },
+ {
+  "crsCode": "SCR",
+  "stationName": "St Columb Road"
+ },
+ {
+  "crsCode": "SCS",
+  "stationName": "Starcross"
+ },
+ {
+  "crsCode": "SCT",
+  "stationName": "Scotscalder"
+ },
+ {
+  "crsCode": "SCU",
+  "stationName": "Scunthorpe"
+ },
+ {
+  "crsCode": "SCY",
+  "stationName": "South Croydon"
+ },
+ {
+  "crsCode": "SDA",
+  "stationName": "Snodland"
+ },
+ {
+  "crsCode": "SDB",
+  "stationName": "Sandbach"
+ },
+ {
+  "crsCode": "SDC",
+  "stationName": "Shoreditch High Street"
+ },
+ {
+  "crsCode": "SDE",
+  "stationName": "Shadwell"
+ },
+ {
+  "crsCode": "SDF",
+  "stationName": "Saundersfoot"
+ },
+ {
+  "crsCode": "SDG",
+  "stationName": "Sandling"
+ },
+ {
+  "crsCode": "SDH",
+  "stationName": "Sudbury Hill Harrow"
+ },
+ {
+  "crsCode": "SDL",
+  "stationName": "Sandhills"
+ },
+ {
+  "crsCode": "SDM",
+  "stationName": "Shieldmuir"
+ },
+ {
+  "crsCode": "SDN",
+  "stationName": "St Denys"
+ },
+ {
+  "crsCode": "SDP",
+  "stationName": "Sandplace"
+ },
+ {
+  "crsCode": "SDR",
+  "stationName": "Saunderton"
+ },
+ {
+  "crsCode": "SDW",
+  "stationName": "Sandwich"
+ },
+ {
+  "crsCode": "SDY",
+  "stationName": "Sandy"
+ },
+ {
+  "crsCode": "SEA",
+  "stationName": "Seaham"
+ },
+ {
+  "crsCode": "SEC",
+  "stationName": "Seaton Carew"
+ },
+ {
+  "crsCode": "SED",
+  "stationName": "Shelford (Cambs)"
+ },
+ {
+  "crsCode": "SEE",
+  "stationName": "Southease"
+ },
+ {
+  "crsCode": "SEF",
+  "stationName": "Seaford (Sussex)"
+ },
+ {
+  "crsCode": "SEG",
+  "stationName": "Selling"
+ },
+ {
+  "crsCode": "SEH",
+  "stationName": "Shoreham (Kent)"
+ },
+ {
+  "crsCode": "SEL",
+  "stationName": "Sellafield"
+ },
+ {
+  "crsCode": "SEM",
+  "stationName": "Seamer"
+ },
+ {
+  "crsCode": "SEN",
+  "stationName": "Shenstone"
+ },
+ {
+  "crsCode": "SER",
+  "stationName": "St Erth"
+ },
+ {
+  "crsCode": "SES",
+  "stationName": "South Elmsall"
+ },
+ {
+  "crsCode": "SET",
+  "stationName": "Settle"
+ },
+ {
+  "crsCode": "SEV",
+  "stationName": "Sevenoaks"
+ },
+ {
+  "crsCode": "SFA",
+  "stationName": "Stratford International"
+ },
+ {
+  "crsCode": "SFD",
+  "stationName": "Salford Central"
+ },
+ {
+  "crsCode": "SFI",
+  "stationName": "Shawfair"
+ },
+ {
+  "crsCode": "SFL",
+  "stationName": "Seaforth & Litherland"
+ },
+ {
+  "crsCode": "SFN",
+  "stationName": "Shifnal"
+ },
+ {
+  "crsCode": "SFO",
+  "stationName": "Stanford-le-Hope"
+ },
+ {
+  "crsCode": "SFR",
+  "stationName": "Shalford (Surrey)"
+ },
+ {
+  "crsCode": "SGB",
+  "stationName": "Smethwick Galton Bridge"
+ },
+ {
+  "crsCode": "SGL",
+  "stationName": "South Gyle"
+ },
+ {
+  "crsCode": "SGM",
+  "stationName": "St Germans"
+ },
+ {
+  "crsCode": "SGN",
+  "stationName": "South Greenford"
+ },
+ {
+  "crsCode": "SGR",
+  "stationName": "Slade Green"
+ },
+ {
+  "crsCode": "SHB",
+  "stationName": "Shirebrook"
+ },
+ {
+  "crsCode": "SHC",
+  "stationName": "Streethouse"
+ },
+ {
+  "crsCode": "SHD",
+  "stationName": "Shildon"
+ },
+ {
+  "crsCode": "SHE",
+  "stationName": "Sherborne"
+ },
+ {
+  "crsCode": "SHF",
+  "stationName": "Sheffield"
+ },
+ {
+  "crsCode": "SHH",
+  "stationName": "Shirehampton"
+ },
+ {
+  "crsCode": "SHI",
+  "stationName": "Shiplake"
+ },
+ {
+  "crsCode": "SHJ",
+  "stationName": "St Helens Junction"
+ },
+ {
+  "crsCode": "SHL",
+  "stationName": "Shawlands"
+ },
+ {
+  "crsCode": "SHM",
+  "stationName": "Sheringham"
+ },
+ {
+  "crsCode": "SHN",
+  "stationName": "Shanklin"
+ },
+ {
+  "crsCode": "SHO",
+  "stationName": "Sholing"
+ },
+ {
+  "crsCode": "SHP",
+  "stationName": "Shepperton"
+ },
+ {
+  "crsCode": "SHR",
+  "stationName": "Shrewsbury"
+ },
+ {
+  "crsCode": "SHS",
+  "stationName": "Shotts"
+ },
+ {
+  "crsCode": "SHT",
+  "stationName": "Shotton"
+ },
+ {
+  "crsCode": "SHU",
+  "stationName": "Stonehouse"
+ },
+ {
+  "crsCode": "SHW",
+  "stationName": "Shawford"
+ },
+ {
+  "crsCode": "SHY",
+  "stationName": "Shipley (Yorks)"
+ },
+ {
+  "crsCode": "SIA",
+  "stationName": "Southend Airport"
+ },
+ {
+  "crsCode": "SIC",
+  "stationName": "Silecroft"
+ },
+ {
+  "crsCode": "SID",
+  "stationName": "Sidcup"
+ },
+ {
+  "crsCode": "SIE",
+  "stationName": "Sherburn-in-Elmet"
+ },
+ {
+  "crsCode": "SIH",
+  "stationName": "St Helier (London)"
+ },
+ {
+  "crsCode": "SIL",
+  "stationName": "Sileby"
+ },
+ {
+  "crsCode": "SIN",
+  "stationName": "Singer"
+ },
+ {
+  "crsCode": "SIP",
+  "stationName": "Shipton"
+ },
+ {
+  "crsCode": "SIT",
+  "stationName": "Sittingbourne"
+ },
+ {
+  "crsCode": "SIV",
+  "stationName": "St Ives (Cornwall)"
+ },
+ {
+  "crsCode": "SJP",
+  "stationName": "St James Park (Exeter)"
+ },
+ {
+  "crsCode": "SJS",
+  "stationName": "St James Street (Walthamstow)"
+ },
+ {
+  "crsCode": "SKE",
+  "stationName": "Skewen"
+ },
+ {
+  "crsCode": "SKG",
+  "stationName": "Skegness"
+ },
+ {
+  "crsCode": "SKI",
+  "stationName": "Skipton"
+ },
+ {
+  "crsCode": "SKM",
+  "stationName": "Stoke Mandeville"
+ },
+ {
+  "crsCode": "SKN",
+  "stationName": "St Keyne Wishing Well Halt"
+ },
+ {
+  "crsCode": "SKS",
+  "stationName": "Stocksfield"
+ },
+ {
+  "crsCode": "SKW",
+  "stationName": "Stoke Newington"
+ },
+ {
+  "crsCode": "SLA",
+  "stationName": "Slateford"
+ },
+ {
+  "crsCode": "SLB",
+  "stationName": "Saltburn"
+ },
+ {
+  "crsCode": "SLD",
+  "stationName": "Salford Crescent"
+ },
+ {
+  "crsCode": "SLH",
+  "stationName": "Sleights"
+ },
+ {
+  "crsCode": "SLK",
+  "stationName": "Silkstone Common"
+ },
+ {
+  "crsCode": "SLL",
+  "stationName": "Stallingborough"
+ },
+ {
+  "crsCode": "SLO",
+  "stationName": "Slough"
+ },
+ {
+  "crsCode": "SLQ",
+  "stationName": "St Leonards Warrior Square"
+ },
+ {
+  "crsCode": "SLR",
+  "stationName": "Sleaford"
+ },
+ {
+  "crsCode": "SLS",
+  "stationName": "Shettleston"
+ },
+ {
+  "crsCode": "SLT",
+  "stationName": "Saltcoats"
+ },
+ {
+  "crsCode": "SLV",
+  "stationName": "Silver Street"
+ },
+ {
+  "crsCode": "SLW",
+  "stationName": "Salwick"
+ },
+ {
+  "crsCode": "SLY",
+  "stationName": "Selly Oak"
+ },
+ {
+  "crsCode": "SMA",
+  "stationName": "Small Heath"
+ },
+ {
+  "crsCode": "SMB",
+  "stationName": "Smithy Bridge"
+ },
+ {
+  "crsCode": "SMC",
+  "stationName": "Sampford Courtenay"
+ },
+ {
+  "crsCode": "SMD",
+  "stationName": "Stamford (Lincs)"
+ },
+ {
+  "crsCode": "SMG",
+  "stationName": "St Margarets (London)"
+ },
+ {
+  "crsCode": "SMH",
+  "stationName": "Stamford Hill"
+ },
+ {
+  "crsCode": "SMK",
+  "stationName": "Stowmarket"
+ },
+ {
+  "crsCode": "SML",
+  "stationName": "Sea Mills"
+ },
+ {
+  "crsCode": "SMN",
+  "stationName": "Southminster"
+ },
+ {
+  "crsCode": "SMO",
+  "stationName": "South Merton"
+ },
+ {
+  "crsCode": "SMR",
+  "stationName": "Smethwick Rolfe Street"
+ },
+ {
+  "crsCode": "SMT",
+  "stationName": "St Margarets (Herts)"
+ },
+ {
+  "crsCode": "SMY",
+  "stationName": "St Mary Cray"
+ },
+ {
+  "crsCode": "SNA",
+  "stationName": "Sandal & Agbrigg"
+ },
+ {
+  "crsCode": "SND",
+  "stationName": "Sandhurst (Berks)"
+ },
+ {
+  "crsCode": "SNE",
+  "stationName": "Stone (Staffs)"
+ },
+ {
+  "crsCode": "SNF",
+  "stationName": "Shenfield"
+ },
+ {
+  "crsCode": "SNG",
+  "stationName": "Sunningdale"
+ },
+ {
+  "crsCode": "SNH",
+  "stationName": "St Helens Central"
+ },
+ {
+  "crsCode": "SNI",
+  "stationName": "Snaith"
+ },
+ {
+  "crsCode": "SNK",
+  "stationName": "Sankey for Penketh"
+ },
+ {
+  "crsCode": "SNL",
+  "stationName": "Stoneleigh"
+ },
+ {
+  "crsCode": "SNN",
+  "stationName": "Swinton (Manchester)"
+ },
+ {
+  "crsCode": "SNO",
+  "stationName": "St Neots"
+ },
+ {
+  "crsCode": "SNR",
+  "stationName": "Sanderstead"
+ },
+ {
+  "crsCode": "SNS",
+  "stationName": "Staines"
+ },
+ {
+  "crsCode": "SNT",
+  "stationName": "Stanlow & Thornton"
+ },
+ {
+  "crsCode": "SNW",
+  "stationName": "Swanwick"
+ },
+ {
+  "crsCode": "SNY",
+  "stationName": "Sunnymeads"
+ },
+ {
+  "crsCode": "SOA",
+  "stationName": "Southampton Airport Parkway"
+ },
+ {
+  "crsCode": "SOB",
+  "stationName": "Southbourne"
+ },
+ {
+  "crsCode": "SOC",
+  "stationName": "Southend Central"
+ },
+ {
+  "crsCode": "SOE",
+  "stationName": "Southend East"
+ },
+ {
+  "crsCode": "SOF",
+  "stationName": "South Woodham Ferrers"
+ },
+ {
+  "crsCode": "SOG",
+  "stationName": "Stonegate"
+ },
+ {
+  "crsCode": "SOH",
+  "stationName": "South Hampstead"
+ },
+ {
+  "crsCode": "SOI",
+  "stationName": "Stow"
+ },
+ {
+  "crsCode": "SOK",
+  "stationName": "South Kenton"
+ },
+ {
+  "crsCode": "SOL",
+  "stationName": "Solihull"
+ },
+ {
+  "crsCode": "SOM",
+  "stationName": "South Milford"
+ },
+ {
+  "crsCode": "SON",
+  "stationName": "Steeton & Silsden"
+ },
+ {
+  "crsCode": "SOO",
+  "stationName": "Strood (Kent)"
+ },
+ {
+  "crsCode": "SOP",
+  "stationName": "Southport"
+ },
+ {
+  "crsCode": "SOR",
+  "stationName": "Sole Street"
+ },
+ {
+  "crsCode": "SOT",
+  "stationName": "Stoke-on-Trent"
+ },
+ {
+  "crsCode": "SOU",
+  "stationName": "Southampton Central"
+ },
+ {
+  "crsCode": "SOV",
+  "stationName": "Southend Victoria"
+ },
+ {
+  "crsCode": "SOW",
+  "stationName": "Sowerby Bridge"
+ },
+ {
+  "crsCode": "SPA",
+  "stationName": "Spalding"
+ },
+ {
+  "crsCode": "SPB",
+  "stationName": "Shepherd's Bush"
+ },
+ {
+  "crsCode": "SPF",
+  "stationName": "Springfield"
+ },
+ {
+  "crsCode": "SPH",
+  "stationName": "Shepherds Well"
+ },
+ {
+  "crsCode": "SPI",
+  "stationName": "Spital"
+ },
+ {
+  "crsCode": "SPK",
+  "stationName": "Sutton Parkway"
+ },
+ {
+  "crsCode": "SPN",
+  "stationName": "Spooner Row"
+ },
+ {
+  "crsCode": "SPO",
+  "stationName": "Spondon"
+ },
+ {
+  "crsCode": "SPP",
+  "stationName": "Shippea Hill"
+ },
+ {
+  "crsCode": "SPR",
+  "stationName": "Springburn"
+ },
+ {
+  "crsCode": "SPS",
+  "stationName": "Stepps"
+ },
+ {
+  "crsCode": "SPT",
+  "stationName": "Stockport"
+ },
+ {
+  "crsCode": "SPU",
+  "stationName": "Staplehurst"
+ },
+ {
+  "crsCode": "SPX",
+  "stationName": "London St Pancras (Intl)"
+ },
+ {
+  "crsCode": "SPY",
+  "stationName": "Shepley"
+ },
+ {
+  "crsCode": "SQE",
+  "stationName": "Surrey Quays"
+ },
+ {
+  "crsCode": "SQH",
+  "stationName": "Sanquhar"
+ },
+ {
+  "crsCode": "SQU",
+  "stationName": "Squires Gate"
+ },
+ {
+  "crsCode": "SRA",
+  "stationName": "Stratford (London)"
+ },
+ {
+  "crsCode": "SRC",
+  "stationName": "Streatham Common"
+ },
+ {
+  "crsCode": "SRD",
+  "stationName": "Stapleton Road"
+ },
+ {
+  "crsCode": "SRG",
+  "stationName": "Seer Green"
+ },
+ {
+  "crsCode": "SRH",
+  "stationName": "Streatham Hill"
+ },
+ {
+  "crsCode": "SRI",
+  "stationName": "Spring Road"
+ },
+ {
+  "crsCode": "SRL",
+  "stationName": "Shirley"
+ },
+ {
+  "crsCode": "SRN",
+  "stationName": "Strines"
+ },
+ {
+  "crsCode": "SRO",
+  "stationName": "Shireoaks"
+ },
+ {
+  "crsCode": "SRR",
+  "stationName": "Sarn"
+ },
+ {
+  "crsCode": "SRS",
+  "stationName": "Selhurst"
+ },
+ {
+  "crsCode": "SRT",
+  "stationName": "Shortlands"
+ },
+ {
+  "crsCode": "SRU",
+  "stationName": "South Ruislip"
+ },
+ {
+  "crsCode": "SRY",
+  "stationName": "Shoeburyness"
+ },
+ {
+  "crsCode": "SSC",
+  "stationName": "Seascale"
+ },
+ {
+  "crsCode": "SSD",
+  "stationName": "Stansted Airport"
+ },
+ {
+  "crsCode": "SSE",
+  "stationName": "Shoreham-by-Sea"
+ },
+ {
+  "crsCode": "SSM",
+  "stationName": "Stocksmoor"
+ },
+ {
+  "crsCode": "SSS",
+  "stationName": "Sheerness-on-Sea"
+ },
+ {
+  "crsCode": "SST",
+  "stationName": "Stansted Mountfitchet"
+ },
+ {
+  "crsCode": "STA",
+  "stationName": "Stafford"
+ },
+ {
+  "crsCode": "STC",
+  "stationName": "Strathcarron"
+ },
+ {
+  "crsCode": "STD",
+  "stationName": "Stroud (Gloucs)"
+ },
+ {
+  "crsCode": "STE",
+  "stationName": "Streatham (Greater London)"
+ },
+ {
+  "crsCode": "STF",
+  "stationName": "Stromeferry"
+ },
+ {
+  "crsCode": "STG",
+  "stationName": "Stirling"
+ },
+ {
+  "crsCode": "STH",
+  "stationName": "Shepreth"
+ },
+ {
+  "crsCode": "STJ",
+  "stationName": "Severn Tunnel Junction"
+ },
+ {
+  "crsCode": "STK",
+  "stationName": "Stockton"
+ },
+ {
+  "crsCode": "STL",
+  "stationName": "Southall"
+ },
+ {
+  "crsCode": "STM",
+  "stationName": "St Michaels"
+ },
+ {
+  "crsCode": "STN",
+  "stationName": "Stonehaven"
+ },
+ {
+  "crsCode": "STO",
+  "stationName": "South Tottenham"
+ },
+ {
+  "crsCode": "STP",
+  "stationName": "London St Pancras International"
+ },
+ {
+  "crsCode": "STR",
+  "stationName": "Stranraer"
+ },
+ {
+  "crsCode": "STS",
+  "stationName": "Saltash"
+ },
+ {
+  "crsCode": "STT",
+  "stationName": "Stewarton"
+ },
+ {
+  "crsCode": "STU",
+  "stationName": "Sturry"
+ },
+ {
+  "crsCode": "STV",
+  "stationName": "Stevenston"
+ },
+ {
+  "crsCode": "STW",
+  "stationName": "Strawberry Hill"
+ },
+ {
+  "crsCode": "STY",
+  "stationName": "Stratford-upon-Avon Parkway"
+ },
+ {
+  "crsCode": "SUC",
+  "stationName": "Sutton Common"
+ },
+ {
+  "crsCode": "SUD",
+  "stationName": "Sudbury & Harrow Road"
+ },
+ {
+  "crsCode": "SUG",
+  "stationName": "Sugar Loaf"
+ },
+ {
+  "crsCode": "SUM",
+  "stationName": "Summerston"
+ },
+ {
+  "crsCode": "SUN",
+  "stationName": "Sunderland"
+ },
+ {
+  "crsCode": "SUO",
+  "stationName": "Sutton (London)"
+ },
+ {
+  "crsCode": "SUP",
+  "stationName": "Sundridge Park"
+ },
+ {
+  "crsCode": "SUR",
+  "stationName": "Surbiton"
+ },
+ {
+  "crsCode": "SUT",
+  "stationName": "Sutton Coldfield"
+ },
+ {
+  "crsCode": "SUU",
+  "stationName": "Sunbury"
+ },
+ {
+  "crsCode": "SUY",
+  "stationName": "Sudbury (Suffolk)"
+ },
+ {
+  "crsCode": "SVB",
+  "stationName": "Severn Beach"
+ },
+ {
+  "crsCode": "SVG",
+  "stationName": "Stevenage"
+ },
+ {
+  "crsCode": "SVK",
+  "stationName": "Seven Kings"
+ },
+ {
+  "crsCode": "SVL",
+  "stationName": "Staveley (Cumbria)"
+ },
+ {
+  "crsCode": "SVR",
+  "stationName": "Silverdale"
+ },
+ {
+  "crsCode": "SVS",
+  "stationName": "Seven Sisters"
+ },
+ {
+  "crsCode": "SWA",
+  "stationName": "Swansea"
+ },
+ {
+  "crsCode": "SWD",
+  "stationName": "Swinderby"
+ },
+ {
+  "crsCode": "SWE",
+  "stationName": "Swineshead"
+ },
+ {
+  "crsCode": "SWG",
+  "stationName": "Swaythling"
+ },
+ {
+  "crsCode": "SWI",
+  "stationName": "Swindon (Wilts)"
+ },
+ {
+  "crsCode": "SWK",
+  "stationName": "Southwick"
+ },
+ {
+  "crsCode": "SWL",
+  "stationName": "Swale"
+ },
+ {
+  "crsCode": "SWM",
+  "stationName": "Swanscombe"
+ },
+ {
+  "crsCode": "SWN",
+  "stationName": "Swinton (South Yorks)"
+ },
+ {
+  "crsCode": "SWO",
+  "stationName": "Snowdown"
+ },
+ {
+  "crsCode": "SWR",
+  "stationName": "Stewartby"
+ },
+ {
+  "crsCode": "SWS",
+  "stationName": "South Wigston"
+ },
+ {
+  "crsCode": "SWT",
+  "stationName": "Slaithwaite"
+ },
+ {
+  "crsCode": "SWY",
+  "stationName": "Sway"
+ },
+ {
+  "crsCode": "SXY",
+  "stationName": "Saxilby"
+ },
+ {
+  "crsCode": "SYA",
+  "stationName": "Styal"
+ },
+ {
+  "crsCode": "SYB",
+  "stationName": "Stalybridge"
+ },
+ {
+  "crsCode": "SYD",
+  "stationName": "Sydenham (London)"
+ },
+ {
+  "crsCode": "SYH",
+  "stationName": "Sydenham Hill"
+ },
+ {
+  "crsCode": "SYL",
+  "stationName": "Syon Lane"
+ },
+ {
+  "crsCode": "SYS",
+  "stationName": "Syston"
+ },
+ {
+  "crsCode": "SYT",
+  "stationName": "Somerleyton"
+ },
+ {
+  "crsCode": "TAB",
+  "stationName": "Tame Bridge Parkway"
+ },
+ {
+  "crsCode": "TAC",
+  "stationName": "Tackley"
+ },
+ {
+  "crsCode": "TAD",
+  "stationName": "Tadworth"
+ },
+ {
+  "crsCode": "TAF",
+  "stationName": "Taffs Well"
+ },
+ {
+  "crsCode": "TAI",
+  "stationName": "Tain"
+ },
+ {
+  "crsCode": "TAL",
+  "stationName": "Talsarnau"
+ },
+ {
+  "crsCode": "TAM",
+  "stationName": "Tamworth"
+ },
+ {
+  "crsCode": "TAP",
+  "stationName": "Taplow"
+ },
+ {
+  "crsCode": "TAT",
+  "stationName": "Tattenham Corner"
+ },
+ {
+  "crsCode": "TAU",
+  "stationName": "Taunton"
+ },
+ {
+  "crsCode": "TAY",
+  "stationName": "Taynuilt"
+ },
+ {
+  "crsCode": "TBD",
+  "stationName": "Three Bridges"
+ },
+ {
+  "crsCode": "TBW",
+  "stationName": "Tunbridge Wells"
+ },
+ {
+  "crsCode": "TBY",
+  "stationName": "Thornaby"
+ },
+ {
+  "crsCode": "TCR",
+  "stationName": "Tottenham Court Road"
+ },
+ {
+  "crsCode": "TDU",
+  "stationName": "Tondu"
+ },
+ {
+  "crsCode": "TEA",
+  "stationName": "Teesside Airport"
+ },
+ {
+  "crsCode": "TED",
+  "stationName": "Teddington"
+ },
+ {
+  "crsCode": "TEN",
+  "stationName": "Tenby"
+ },
+ {
+  "crsCode": "TEO",
+  "stationName": "Theobalds Grove"
+ },
+ {
+  "crsCode": "TEY",
+  "stationName": "Teynham"
+ },
+ {
+  "crsCode": "TFC",
+  "stationName": "Telford Central"
+ },
+ {
+  "crsCode": "TGM",
+  "stationName": "Teignmouth"
+ },
+ {
+  "crsCode": "TGS",
+  "stationName": "Ty Glas"
+ },
+ {
+  "crsCode": "THA",
+  "stationName": "Thatcham"
+ },
+ {
+  "crsCode": "THB",
+  "stationName": "Thornliebank"
+ },
+ {
+  "crsCode": "THC",
+  "stationName": "Thurnscoe"
+ },
+ {
+  "crsCode": "THD",
+  "stationName": "Thames Ditton"
+ },
+ {
+  "crsCode": "THE",
+  "stationName": "Theale"
+ },
+ {
+  "crsCode": "THH",
+  "stationName": "Thatto Heath"
+ },
+ {
+  "crsCode": "THI",
+  "stationName": "Thirsk"
+ },
+ {
+  "crsCode": "THL",
+  "stationName": "Tile Hill"
+ },
+ {
+  "crsCode": "THO",
+  "stationName": "Thornford"
+ },
+ {
+  "crsCode": "THS",
+  "stationName": "Thurso"
+ },
+ {
+  "crsCode": "THT",
+  "stationName": "Thorntonhall"
+ },
+ {
+  "crsCode": "THU",
+  "stationName": "Thurgarton"
+ },
+ {
+  "crsCode": "THW",
+  "stationName": "The Hawthorns"
+ },
+ {
+  "crsCode": "TIL",
+  "stationName": "Tilbury Town"
+ },
+ {
+  "crsCode": "TIP",
+  "stationName": "Tipton"
+ },
+ {
+  "crsCode": "TIR",
+  "stationName": "Tir-Phil"
+ },
+ {
+  "crsCode": "TIS",
+  "stationName": "Tisbury"
+ },
+ {
+  "crsCode": "TLB",
+  "stationName": "Talybont"
+ },
+ {
+  "crsCode": "TLC",
+  "stationName": "Tal-y-Cafn"
+ },
+ {
+  "crsCode": "TLH",
+  "stationName": "Tilehurst"
+ },
+ {
+  "crsCode": "TLK",
+  "stationName": "The Lakes (Warks)"
+ },
+ {
+  "crsCode": "TLS",
+  "stationName": "Thorpe-le-Soken"
+ },
+ {
+  "crsCode": "TMC",
+  "stationName": "Templecombe"
+ },
+ {
+  "crsCode": "TNA",
+  "stationName": "Thornton Abbey"
+ },
+ {
+  "crsCode": "TNF",
+  "stationName": "Tonfanau"
+ },
+ {
+  "crsCode": "TNN",
+  "stationName": "Thorne North"
+ },
+ {
+  "crsCode": "TNP",
+  "stationName": "Tonypandy"
+ },
+ {
+  "crsCode": "TNS",
+  "stationName": "Thorne South"
+ },
+ {
+  "crsCode": "TOD",
+  "stationName": "Todmorden"
+ },
+ {
+  "crsCode": "TOK",
+  "stationName": "Three Oaks"
+ },
+ {
+  "crsCode": "TOL",
+  "stationName": "Tolworth"
+ },
+ {
+  "crsCode": "TOM",
+  "stationName": "Tottenham Hale"
+ },
+ {
+  "crsCode": "TON",
+  "stationName": "Tonbridge"
+ },
+ {
+  "crsCode": "TOO",
+  "stationName": "Tooting"
+ },
+ {
+  "crsCode": "TOP",
+  "stationName": "Topsham"
+ },
+ {
+  "crsCode": "TOT",
+  "stationName": "Totnes"
+ },
+ {
+  "crsCode": "TPB",
+  "stationName": "Thorpe Bay"
+ },
+ {
+  "crsCode": "TPC",
+  "stationName": "Thorpe Culvert"
+ },
+ {
+  "crsCode": "TPN",
+  "stationName": "Ton Pentre"
+ },
+ {
+  "crsCode": "TQY",
+  "stationName": "Torquay"
+ },
+ {
+  "crsCode": "TRA",
+  "stationName": "Trafford Park"
+ },
+ {
+  "crsCode": "TRB",
+  "stationName": "Treherbert"
+ },
+ {
+  "crsCode": "TRD",
+  "stationName": "Troed-y-rhiw"
+ },
+ {
+  "crsCode": "TRE",
+  "stationName": "Trefforest Estate"
+ },
+ {
+  "crsCode": "TRF",
+  "stationName": "Trefforest"
+ },
+ {
+  "crsCode": "TRH",
+  "stationName": "Trehafod"
+ },
+ {
+  "crsCode": "TRI",
+  "stationName": "Tring"
+ },
+ {
+  "crsCode": "TRM",
+  "stationName": "Trimley"
+ },
+ {
+  "crsCode": "TRN",
+  "stationName": "Troon"
+ },
+ {
+  "crsCode": "TRO",
+  "stationName": "Trowbridge"
+ },
+ {
+  "crsCode": "TRR",
+  "stationName": "Torre"
+ },
+ {
+  "crsCode": "TRS",
+  "stationName": "Thurston"
+ },
+ {
+  "crsCode": "TRU",
+  "stationName": "Truro"
+ },
+ {
+  "crsCode": "TRY",
+  "stationName": "Treorchy"
+ },
+ {
+  "crsCode": "TTF",
+  "stationName": "Thetford"
+ },
+ {
+  "crsCode": "TTH",
+  "stationName": "Thornton Heath"
+ },
+ {
+  "crsCode": "TTN",
+  "stationName": "Totton"
+ },
+ {
+  "crsCode": "TUH",
+  "stationName": "Tulse Hill"
+ },
+ {
+  "crsCode": "TUL",
+  "stationName": "Tulloch"
+ },
+ {
+  "crsCode": "TUR",
+  "stationName": "Turkey Street"
+ },
+ {
+  "crsCode": "TUT",
+  "stationName": "Tutbury & Hatton"
+ },
+ {
+  "crsCode": "TVP",
+  "stationName": "Tiverton Parkway"
+ },
+ {
+  "crsCode": "TWB",
+  "stationName": "Tweedbank"
+ },
+ {
+  "crsCode": "TWI",
+  "stationName": "Twickenham"
+ },
+ {
+  "crsCode": "TWN",
+  "stationName": "Town Green"
+ },
+ {
+  "crsCode": "TWY",
+  "stationName": "Twyford"
+ },
+ {
+  "crsCode": "TYC",
+  "stationName": "Ty Croes"
+ },
+ {
+  "crsCode": "TYG",
+  "stationName": "Tygwyn"
+ },
+ {
+  "crsCode": "TYL",
+  "stationName": "Tyndrum Lower"
+ },
+ {
+  "crsCode": "TYS",
+  "stationName": "Tyseley"
+ },
+ {
+  "crsCode": "TYW",
+  "stationName": "Tywyn"
+ },
+ {
+  "crsCode": "UCK",
+  "stationName": "Uckfield"
+ },
+ {
+  "crsCode": "UDD",
+  "stationName": "Uddingston"
+ },
+ {
+  "crsCode": "UHA",
+  "stationName": "Uphall"
+ },
+ {
+  "crsCode": "UHL",
+  "stationName": "Upper Holloway"
+ },
+ {
+  "crsCode": "ULC",
+  "stationName": "Ulceby"
+ },
+ {
+  "crsCode": "ULL",
+  "stationName": "Ulleskelf"
+ },
+ {
+  "crsCode": "ULV",
+  "stationName": "Ulverston"
+ },
+ {
+  "crsCode": "UMB",
+  "stationName": "Umberleigh"
+ },
+ {
+  "crsCode": "UNI",
+  "stationName": "University (Birmingham)"
+ },
+ {
+  "crsCode": "UPH",
+  "stationName": "Upper Halliford"
+ },
+ {
+  "crsCode": "UPL",
+  "stationName": "Upholland"
+ },
+ {
+  "crsCode": "UPM",
+  "stationName": "Upminster"
+ },
+ {
+  "crsCode": "UPT",
+  "stationName": "Upton (Merseyside)"
+ },
+ {
+  "crsCode": "UPW",
+  "stationName": "Upwey"
+ },
+ {
+  "crsCode": "URM",
+  "stationName": "Urmston"
+ },
+ {
+  "crsCode": "UTT",
+  "stationName": "Uttoxeter"
+ },
+ {
+  "crsCode": "UTY",
+  "stationName": "Upper Tyndrum"
+ },
+ {
+  "crsCode": "UWL",
+  "stationName": "Upper Warlingham"
+ },
+ {
+  "crsCode": "VAL",
+  "stationName": "Valley"
+ },
+ {
+  "crsCode": "VIC",
+  "stationName": "London Victoria"
+ },
+ {
+  "crsCode": "VIR",
+  "stationName": "Virginia Water"
+ },
+ {
+  "crsCode": "VXH",
+  "stationName": "Vauxhall"
+ },
+ {
+  "crsCode": "WAC",
+  "stationName": "Warrington Central"
+ },
+ {
+  "crsCode": "WAD",
+  "stationName": "Wadhurst"
+ },
+ {
+  "crsCode": "WAE",
+  "stationName": "London Waterloo East"
+ },
+ {
+  "crsCode": "WAF",
+  "stationName": "Wallyford"
+ },
+ {
+  "crsCode": "WAL",
+  "stationName": "Walton-on-Thames"
+ },
+ {
+  "crsCode": "WAM",
+  "stationName": "Walmer"
+ },
+ {
+  "crsCode": "WAN",
+  "stationName": "Wanborough"
+ },
+ {
+  "crsCode": "WAO",
+  "stationName": "Walton (Merseyside)"
+ },
+ {
+  "crsCode": "WAR",
+  "stationName": "Ware (Herts)"
+ },
+ {
+  "crsCode": "WAS",
+  "stationName": "Watton-at-Stone"
+ },
+ {
+  "crsCode": "WAT",
+  "stationName": "London Waterloo"
+ },
+ {
+  "crsCode": "WAV",
+  "stationName": "Wavertree Technology Park"
+ },
+ {
+  "crsCode": "WAW",
+  "stationName": "Warrington West"
+ },
+ {
+  "crsCode": "WBC",
+  "stationName": "Waterbeach"
+ },
+ {
+  "crsCode": "WBD",
+  "stationName": "Whitley Bridge"
+ },
+ {
+  "crsCode": "WBL",
+  "stationName": "Warblington"
+ },
+ {
+  "crsCode": "WBO",
+  "stationName": "Wimbledon Chase"
+ },
+ {
+  "crsCode": "WBP",
+  "stationName": "West Brompton"
+ },
+ {
+  "crsCode": "WBQ",
+  "stationName": "Warrington Bank Quay"
+ },
+ {
+  "crsCode": "WBR",
+  "stationName": "Whaley Bridge"
+ },
+ {
+  "crsCode": "WBY",
+  "stationName": "West Byfleet"
+ },
+ {
+  "crsCode": "WCB",
+  "stationName": "Westcombe Park"
+ },
+ {
+  "crsCode": "WCF",
+  "stationName": "Westcliff"
+ },
+ {
+  "crsCode": "WCH",
+  "stationName": "Whitchurch (Hampshire)"
+ },
+ {
+  "crsCode": "WCK",
+  "stationName": "Wick"
+ },
+ {
+  "crsCode": "WCL",
+  "stationName": "West Calder"
+ },
+ {
+  "crsCode": "WCM",
+  "stationName": "Wickham Market"
+ },
+ {
+  "crsCode": "WCP",
+  "stationName": "Worcester Park"
+ },
+ {
+  "crsCode": "WCR",
+  "stationName": "Whitecraigs"
+ },
+ {
+  "crsCode": "WCX",
+  "stationName": "Wembley Stadium"
+ },
+ {
+  "crsCode": "WCY",
+  "stationName": "West Croydon"
+ },
+ {
+  "crsCode": "WDB",
+  "stationName": "Woodbridge"
+ },
+ {
+  "crsCode": "WDD",
+  "stationName": "Widdrington"
+ },
+ {
+  "crsCode": "WDE",
+  "stationName": "Wood End"
+ },
+ {
+  "crsCode": "WDH",
+  "stationName": "Woodhouse"
+ },
+ {
+  "crsCode": "WDL",
+  "stationName": "Woodhall"
+ },
+ {
+  "crsCode": "WDM",
+  "stationName": "Windermere"
+ },
+ {
+  "crsCode": "WDN",
+  "stationName": "Walsden"
+ },
+ {
+  "crsCode": "WDO",
+  "stationName": "Waddon"
+ },
+ {
+  "crsCode": "WDS",
+  "stationName": "Woodlesford"
+ },
+ {
+  "crsCode": "WDT",
+  "stationName": "West Drayton"
+ },
+ {
+  "crsCode": "WDU",
+  "stationName": "West Dulwich"
+ },
+ {
+  "crsCode": "WEA",
+  "stationName": "West Ealing"
+ },
+ {
+  "crsCode": "WED",
+  "stationName": "Wedgwood"
+ },
+ {
+  "crsCode": "WEE",
+  "stationName": "Weeley"
+ },
+ {
+  "crsCode": "WEH",
+  "stationName": "West Ham"
+ },
+ {
+  "crsCode": "WEL",
+  "stationName": "Wellingborough"
+ },
+ {
+  "crsCode": "WEM",
+  "stationName": "Wem"
+ },
+ {
+  "crsCode": "WES",
+  "stationName": "Westerton"
+ },
+ {
+  "crsCode": "WET",
+  "stationName": "Weeton"
+ },
+ {
+  "crsCode": "WEY",
+  "stationName": "Weymouth"
+ },
+ {
+  "crsCode": "WFF",
+  "stationName": "Whifflet"
+ },
+ {
+  "crsCode": "WFH",
+  "stationName": "Watford High Street"
+ },
+ {
+  "crsCode": "WFI",
+  "stationName": "Westerfield"
+ },
+ {
+  "crsCode": "WFJ",
+  "stationName": "Watford Junction"
+ },
+ {
+  "crsCode": "WFL",
+  "stationName": "Wainfleet"
+ },
+ {
+  "crsCode": "WFN",
+  "stationName": "Watford North"
+ },
+ {
+  "crsCode": "WGA",
+  "stationName": "Westgate-on-Sea"
+ },
+ {
+  "crsCode": "WGC",
+  "stationName": "Welwyn Garden City"
+ },
+ {
+  "crsCode": "WGN",
+  "stationName": "Wigan North Western"
+ },
+ {
+  "crsCode": "WGR",
+  "stationName": "Woodgrange Park"
+ },
+ {
+  "crsCode": "WGT",
+  "stationName": "Wigton"
+ },
+ {
+  "crsCode": "WGV",
+  "stationName": "Wargrave"
+ },
+ {
+  "crsCode": "WGW",
+  "stationName": "Wigan Wallgate"
+ },
+ {
+  "crsCode": "WHA",
+  "stationName": "Westenhanger"
+ },
+ {
+  "crsCode": "WHC",
+  "stationName": "Walthamstow Central"
+ },
+ {
+  "crsCode": "WHD",
+  "stationName": "West Hampstead"
+ },
+ {
+  "crsCode": "WHE",
+  "stationName": "Whalley (Lancashire)"
+ },
+ {
+  "crsCode": "WHG",
+  "stationName": "Westhoughton"
+ },
+ {
+  "crsCode": "WHI",
+  "stationName": "Whitstable"
+ },
+ {
+  "crsCode": "WHL",
+  "stationName": "White Hart Lane"
+ },
+ {
+  "crsCode": "WHM",
+  "stationName": "Whimple"
+ },
+ {
+  "crsCode": "WHN",
+  "stationName": "Whiston"
+ },
+ {
+  "crsCode": "WHP",
+  "stationName": "West Hampstead Thameslink"
+ },
+ {
+  "crsCode": "WHR",
+  "stationName": "West Horndon"
+ },
+ {
+  "crsCode": "WHS",
+  "stationName": "Whyteleafe South"
+ },
+ {
+  "crsCode": "WHT",
+  "stationName": "Whitchurch (Cardiff)"
+ },
+ {
+  "crsCode": "WHY",
+  "stationName": "Whyteleafe"
+ },
+ {
+  "crsCode": "WIC",
+  "stationName": "Wickford"
+ },
+ {
+  "crsCode": "WID",
+  "stationName": "Widnes"
+ },
+ {
+  "crsCode": "WIH",
+  "stationName": "Winchmore Hill"
+ },
+ {
+  "crsCode": "WIJ",
+  "stationName": "Willesden Junction"
+ },
+ {
+  "crsCode": "WIL",
+  "stationName": "Willington"
+ },
+ {
+  "crsCode": "WIM",
+  "stationName": "Wimbledon"
+ },
+ {
+  "crsCode": "WIN",
+  "stationName": "Winchester"
+ },
+ {
+  "crsCode": "WIV",
+  "stationName": "Wivenhoe"
+ },
+ {
+  "crsCode": "WKB",
+  "stationName": "West Kilbride"
+ },
+ {
+  "crsCode": "WKD",
+  "stationName": "Walkden"
+ },
+ {
+  "crsCode": "WKF",
+  "stationName": "Wakefield Westgate"
+ },
+ {
+  "crsCode": "WKG",
+  "stationName": "Workington"
+ },
+ {
+  "crsCode": "WKI",
+  "stationName": "West Kirby"
+ },
+ {
+  "crsCode": "WKK",
+  "stationName": "Wakefield Kirkgate"
+ },
+ {
+  "crsCode": "WKM",
+  "stationName": "Wokingham"
+ },
+ {
+  "crsCode": "WLC",
+  "stationName": "Waltham Cross"
+ },
+ {
+  "crsCode": "WLD",
+  "stationName": "West St Leonards"
+ },
+ {
+  "crsCode": "WLE",
+  "stationName": "Whittlesea"
+ },
+ {
+  "crsCode": "WLF",
+  "stationName": "Whittlesford Parkway"
+ },
+ {
+  "crsCode": "WLG",
+  "stationName": "Wallasey Grove Road"
+ },
+ {
+  "crsCode": "WLI",
+  "stationName": "Welling"
+ },
+ {
+  "crsCode": "WLM",
+  "stationName": "Williamwood"
+ },
+ {
+  "crsCode": "WLN",
+  "stationName": "Wellington (Shropshire)"
+ },
+ {
+  "crsCode": "WLO",
+  "stationName": "Waterloo (Merseyside)"
+ },
+ {
+  "crsCode": "WLP",
+  "stationName": "Welshpool"
+ },
+ {
+  "crsCode": "WLS",
+  "stationName": "Woolston"
+ },
+ {
+  "crsCode": "WLT",
+  "stationName": "Wallington"
+ },
+ {
+  "crsCode": "WLV",
+  "stationName": "Wallasey Village"
+ },
+ {
+  "crsCode": "WLW",
+  "stationName": "Welwyn North"
+ },
+ {
+  "crsCode": "WLY",
+  "stationName": "Woodley"
+ },
+ {
+  "crsCode": "WMA",
+  "stationName": "West Malling"
+ },
+ {
+  "crsCode": "WMB",
+  "stationName": "Wembley Central"
+ },
+ {
+  "crsCode": "WMC",
+  "stationName": "Wilmcote"
+ },
+ {
+  "crsCode": "WMD",
+  "stationName": "Wymondham"
+ },
+ {
+  "crsCode": "WME",
+  "stationName": "Woodmansterne"
+ },
+ {
+  "crsCode": "WMG",
+  "stationName": "Welham Green"
+ },
+ {
+  "crsCode": "WMI",
+  "stationName": "Wildmill"
+ },
+ {
+  "crsCode": "WML",
+  "stationName": "Wilmslow"
+ },
+ {
+  "crsCode": "WMN",
+  "stationName": "Warminster"
+ },
+ {
+  "crsCode": "WMR",
+  "stationName": "Widney Manor"
+ },
+ {
+  "crsCode": "WMS",
+  "stationName": "Wemyss Bay"
+ },
+ {
+  "crsCode": "WMW",
+  "stationName": "Walthamstow Queen's Road"
+ },
+ {
+  "crsCode": "WNC",
+  "stationName": "Windsor & Eton Central"
+ },
+ {
+  "crsCode": "WND",
+  "stationName": "Wendover"
+ },
+ {
+  "crsCode": "WNE",
+  "stationName": "Wilnecote (Staffs)"
+ },
+ {
+  "crsCode": "WNF",
+  "stationName": "Winchfield"
+ },
+ {
+  "crsCode": "WNG",
+  "stationName": "Waun-Gron Park"
+ },
+ {
+  "crsCode": "WNH",
+  "stationName": "Warnham"
+ },
+ {
+  "crsCode": "WNL",
+  "stationName": "Whinhill"
+ },
+ {
+  "crsCode": "WNM",
+  "stationName": "Weston Milton"
+ },
+ {
+  "crsCode": "WNN",
+  "stationName": "Wennington"
+ },
+ {
+  "crsCode": "WNP",
+  "stationName": "Wanstead Park"
+ },
+ {
+  "crsCode": "WNR",
+  "stationName": "Windsor & Eton Riverside"
+ },
+ {
+  "crsCode": "WNS",
+  "stationName": "Winnersh"
+ },
+ {
+  "crsCode": "WNT",
+  "stationName": "Wandsworth Town"
+ },
+ {
+  "crsCode": "WNW",
+  "stationName": "West Norwood"
+ },
+ {
+  "crsCode": "WNY",
+  "stationName": "White Notley"
+ },
+ {
+  "crsCode": "WOB",
+  "stationName": "Woburn Sands"
+ },
+ {
+  "crsCode": "WOF",
+  "stationName": "Worcester Foregate Street"
+ },
+ {
+  "crsCode": "WOH",
+  "stationName": "Woldingham"
+ },
+ {
+  "crsCode": "WOK",
+  "stationName": "Woking"
+ },
+ {
+  "crsCode": "WOL",
+  "stationName": "Wolverton"
+ },
+ {
+  "crsCode": "WOM",
+  "stationName": "Wombwell"
+ },
+ {
+  "crsCode": "WON",
+  "stationName": "Walton-on-the-Naze"
+ },
+ {
+  "crsCode": "WOO",
+  "stationName": "Wool"
+ },
+ {
+  "crsCode": "WOP",
+  "stationName": "Worcestershire Parkway"
+ },
+ {
+  "crsCode": "WOR",
+  "stationName": "Worle"
+ },
+ {
+  "crsCode": "WOS",
+  "stationName": "Worcester Shrub Hill"
+ },
+ {
+  "crsCode": "WOW",
+  "stationName": "Woolwich"
+ },
+ {
+  "crsCode": "WPE",
+  "stationName": "Wapping"
+ },
+ {
+  "crsCode": "WPL",
+  "stationName": "Worplesdon"
+ },
+ {
+  "crsCode": "WRB",
+  "stationName": "Wrabness"
+ },
+ {
+  "crsCode": "WRE",
+  "stationName": "Wrenbury"
+ },
+ {
+  "crsCode": "WRH",
+  "stationName": "Worthing"
+ },
+ {
+  "crsCode": "WRK",
+  "stationName": "Worksop"
+ },
+ {
+  "crsCode": "WRL",
+  "stationName": "Wetheral"
+ },
+ {
+  "crsCode": "WRM",
+  "stationName": "Wareham (Dorset)"
+ },
+ {
+  "crsCode": "WRN",
+  "stationName": "West Runton"
+ },
+ {
+  "crsCode": "WRP",
+  "stationName": "Warwick Parkway"
+ },
+ {
+  "crsCode": "WRS",
+  "stationName": "Wressle"
+ },
+ {
+  "crsCode": "WRT",
+  "stationName": "Worstead"
+ },
+ {
+  "crsCode": "WRU",
+  "stationName": "West Ruislip"
+ },
+ {
+  "crsCode": "WRW",
+  "stationName": "Warwick"
+ },
+ {
+  "crsCode": "WRX",
+  "stationName": "Wrexham General"
+ },
+ {
+  "crsCode": "WRY",
+  "stationName": "Wraysbury"
+ },
+ {
+  "crsCode": "WSA",
+  "stationName": "West Allerton"
+ },
+ {
+  "crsCode": "WSB",
+  "stationName": "Westbury"
+ },
+ {
+  "crsCode": "WSE",
+  "stationName": "Winchelsea"
+ },
+ {
+  "crsCode": "WSF",
+  "stationName": "Winsford"
+ },
+ {
+  "crsCode": "WSH",
+  "stationName": "Wishaw"
+ },
+ {
+  "crsCode": "WSL",
+  "stationName": "Walsall"
+ },
+ {
+  "crsCode": "WSM",
+  "stationName": "Weston-super-Mare"
+ },
+ {
+  "crsCode": "WSR",
+  "stationName": "Woodsmoor"
+ },
+ {
+  "crsCode": "WST",
+  "stationName": "Wood Street"
+ },
+ {
+  "crsCode": "WSU",
+  "stationName": "West Sutton"
+ },
+ {
+  "crsCode": "WSW",
+  "stationName": "Wandsworth Common"
+ },
+ {
+  "crsCode": "WTA",
+  "stationName": "Wester Hailes"
+ },
+ {
+  "crsCode": "WTB",
+  "stationName": "Whitby"
+ },
+ {
+  "crsCode": "WTC",
+  "stationName": "Whitchurch (Shropshire)"
+ },
+ {
+  "crsCode": "WTE",
+  "stationName": "Whitlocks End"
+ },
+ {
+  "crsCode": "WTG",
+  "stationName": "Watlington"
+ },
+ {
+  "crsCode": "WTH",
+  "stationName": "Whitehaven"
+ },
+ {
+  "crsCode": "WTI",
+  "stationName": "Winnersh Triangle"
+ },
+ {
+  "crsCode": "WTL",
+  "stationName": "Whitland"
+ },
+ {
+  "crsCode": "WTM",
+  "stationName": "Witham"
+ },
+ {
+  "crsCode": "WTN",
+  "stationName": "Whitton (London)"
+ },
+ {
+  "crsCode": "WTO",
+  "stationName": "Water Orton"
+ },
+ {
+  "crsCode": "WTR",
+  "stationName": "Wateringbury"
+ },
+ {
+  "crsCode": "WTS",
+  "stationName": "Whatstandwell"
+ },
+ {
+  "crsCode": "WTT",
+  "stationName": "Witton (West Midlands)"
+ },
+ {
+  "crsCode": "WTY",
+  "stationName": "Witley"
+ },
+ {
+  "crsCode": "WVF",
+  "stationName": "Wivelsfield"
+ },
+ {
+  "crsCode": "WVH",
+  "stationName": "Wolverhampton"
+ },
+ {
+  "crsCode": "WWA",
+  "stationName": "Woolwich Arsenal"
+ },
+ {
+  "crsCode": "WWD",
+  "stationName": "Woolwich Dockyard"
+ },
+ {
+  "crsCode": "WWI",
+  "stationName": "West Wickham"
+ },
+ {
+  "crsCode": "WWL",
+  "stationName": "Whitwell (Derbyshire)"
+ },
+ {
+  "crsCode": "WWO",
+  "stationName": "West Worthing"
+ },
+ {
+  "crsCode": "WWR",
+  "stationName": "Wandsworth Road"
+ },
+ {
+  "crsCode": "WWW",
+  "stationName": "Wootton Wawen"
+ },
+ {
+  "crsCode": "WXC",
+  "stationName": "Wrexham Central"
+ },
+ {
+  "crsCode": "WYB",
+  "stationName": "Weybridge"
+ },
+ {
+  "crsCode": "WYE",
+  "stationName": "Wye"
+ },
+ {
+  "crsCode": "WYL",
+  "stationName": "Wylde Green"
+ },
+ {
+  "crsCode": "WYM",
+  "stationName": "Wylam"
+ },
+ {
+  "crsCode": "WYT",
+  "stationName": "Wythall"
+ },
+ {
+  "crsCode": "YAE",
+  "stationName": "Yate"
+ },
+ {
+  "crsCode": "YAL",
+  "stationName": "Yalding"
+ },
+ {
+  "crsCode": "YAT",
+  "stationName": "Yatton"
+ },
+ {
+  "crsCode": "YEO",
+  "stationName": "Yeoford"
+ },
+ {
+  "crsCode": "YET",
+  "stationName": "Yetminster"
+ },
+ {
+  "crsCode": "YNW",
+  "stationName": "Ynyswen"
+ },
+ {
+  "crsCode": "YOK",
+  "stationName": "Yoker"
+ },
+ {
+  "crsCode": "YRD",
+  "stationName": "Yardley Wood"
+ },
+ {
+  "crsCode": "YRK",
+  "stationName": "York"
+ },
+ {
+  "crsCode": "YRM",
+  "stationName": "Yarm"
+ },
+ {
+  "crsCode": "YRT",
+  "stationName": "Yorton"
+ },
+ {
+  "crsCode": "YSM",
+  "stationName": "Ystrad Mynach"
+ },
+ {
+  "crsCode": "YSR",
+  "stationName": "Ystrad Rhondda"
+ },
+ {
+  "crsCode": "YVJ",
+  "stationName": "Yeovil Junction"
+ },
+ {
+  "crsCode": "YVP",
+  "stationName": "Yeovil Pen Mill"
+ },
+ {
+  "crsCode": "ZCW",
+  "stationName": "Canada Water"
+ },
+ {
+  "crsCode": "ZFD",
+  "stationName": "Farringdon"
+ },
+ {
+  "crsCode": "ZLW",
+  "stationName": "Whitechapel"
+ }
+]
