@@ -100,12 +100,7 @@ myChangeHandler = (event) => {
   
   }
 
-  sendSelectedArrival () {
-   
-   
-
-
-    
+  sendSelectedArrival () {   
       let data = {
          
             "Train_id": this.state.trainId,
@@ -144,6 +139,13 @@ myChangeHandler = (event) => {
       console.log(error);
     });
     
+
+   
+
+
+
+
+
   }
   componentDidMount = ()  => {
    
@@ -173,7 +175,7 @@ myChangeHandler = (event) => {
       )) }</select>  
       </label> 
       <input 
-        type='submit' value='submit'
+        type='submit' value='Search Station'
 
       />
       
@@ -195,14 +197,14 @@ myChangeHandler = (event) => {
                  
                 <form onSubmit={this.saveArrival} onChange={this.savedArrival}  >
                 
-               {<select> value={this.state.arrivals.map(arrival => (
+               {<select>  value={this.state.arrivals.map(arrival =>  (
                    <option  key={arrival.train_uid}  id={arrival.train_uid}> {arrival.aimed_arrival_time} : {arrival.origin_name} Status: {arrival.status} Expected time: {arrival.expected_arrival_time}</option>
                   
                  )) }</select>  } 
                  
                 
                   <p>select arrival to save</p>
-                  <input type='submit'  />
+                  <input type='submit' value='Save arrival' />
                   
                   </form> 
 
