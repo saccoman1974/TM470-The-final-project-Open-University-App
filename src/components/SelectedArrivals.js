@@ -5,12 +5,14 @@ const config = require('../config.json');
 export default class SelectedArrivals extends Component {
 
   state = {
-    
-      "StationName": "", 
-      "id": "",
+       message:"",
+      StationName: "", 
+      id: "",
       newTrainId: "",
-    
-        arrivals: []
+      currentTime:"",
+        arrivals: [],
+        arrivalsTimes: [],
+        arrivalToRemove: []
   }
 
  
@@ -64,15 +66,13 @@ export default class SelectedArrivals extends Component {
       console.log(error);
     });
     
-this.fetchSelectedArrivals();
-
-    
+this.fetchSelectedArrivals();  
   }    
 
 
 
   fetchSelectedArrivals = async () => {
-    // add call to AWS API Gateway to fetch Stations here
+    // add call to AWS API Gateway to fetch Arrivals here
     // then set them in state
     try {
       await axios.get(`${config.api.invokeUrl}/arrivals`)
@@ -80,7 +80,7 @@ this.fetchSelectedArrivals();
       this.setState({arrivals : response.data.Items}));
       
       console.log(this.state.arrivals);
-    
+      this.checkArrivalsPassed();
      
 
 
@@ -91,14 +91,62 @@ this.fetchSelectedArrivals();
 
   
     
+ 
+     addZero(i) {
+      if (i < 10) {
+        i = "0" + i;
+      }
+      return i;
+    }
     
+     getTimeNow() {
+      var d = new Date();
+      var h = this.addZero(d.getHours());
+      var m = this.addZero(d.getMinutes());
+      const currentTime = h + ":" + m;
+      this.setState({currentTime: currentTime})
+    }
+  
      
   
+  checkArrivalsPassed(){
+    this.addZero();
+    this.getTimeNow();
+    
+    let removeArrival = this.state.arrivals.map(time => {
+      if(this.state.currentTime > time.Expected_Arrival_Time){
+
+      console.log("train id of arrival to be removed " + time.Expected_Arrival_Time + time.Train_id);
+        this.setState({newTrainId: time.Train_id});
+        console.log(this.newTrainId);
+        this.deleteArrival();
+
+    }else{
+        console.log("no expired arrivals");
+// to do sort time.arrival in order!
+        return time.Expected_Arrival_Time;
+      }
+    }
+  
+    )
+    let passed = JSON.stringify(removeArrival)
+    this.setState({arrivalToRemove: removeArrival})
+    console.log("this is a stingyfied of the map function on arrivals " + passed);
+    
+
+  }
+   
+
+
+
+
+
 
   onAddStationNameChange = event => this.setState({ newArrival: { ...this.state.newArrival, "StationName": event.target.value } });
   onAddStationsIdChange = event => this.setState({ newArrival: { ...this.state.newArrival, "id": event.target.value } });
 
   componentDidMount = async () =>{
+    
   this.fetchSelectedArrivals();
 }
 
@@ -110,7 +158,7 @@ this.fetchSelectedArrivals();
       <Fragment>
         <h1>Arrivals Currently Saved </h1>
         {this.state.arrivals.map(arrival => (
-         <li key={arrival.train_id}>
+         <li key={arrival.train_id} id={arrival.platform}>
          Expected time: {arrival.Expected_Arrival_Time}   From: {arrival.Starting_From}
          </li>))}<br/>
         <h2>You will be notified of an arrival 10 mins before its due.</h2>
