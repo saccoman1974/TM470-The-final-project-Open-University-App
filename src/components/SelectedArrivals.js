@@ -1,5 +1,8 @@
 import React, { Component, Fragment } from 'react';
 import axios from "axios";
+import _ from 'lodash';
+import Moment from 'react-moment';
+
 const config = require('../config.json');
 
 export default class SelectedArrivals extends Component {
@@ -66,7 +69,8 @@ export default class SelectedArrivals extends Component {
       console.log(error);
     });
     
-this.fetchSelectedArrivals();  
+ this.fetchSelectedArrivals();  
+
   }    
 
 
@@ -81,7 +85,15 @@ this.fetchSelectedArrivals();
       
       console.log(this.state.arrivals);
       this.checkArrivalsPassed();
-     
+      let obj = {};
+      obj = this.state.arrivals;
+      let sorted = _.sortBy(obj, [function(o) {return o.Expected_Arrival_Time;}]);
+      this.setState({arrivals: sorted})
+      
+
+    
+
+
 
 
     } catch (err) {
@@ -120,11 +132,12 @@ this.fetchSelectedArrivals();
         this.setState({newTrainId: time.Train_id});
         console.log(this.newTrainId);
         this.deleteArrival();
-
+        
     }else{
         console.log("no expired arrivals");
 // to do sort time.arrival in order!
-        return time.Expected_Arrival_Time;
+
+        return this.state.arrivals.Expected_Arrival_Time;
       }
     }
   
@@ -132,23 +145,73 @@ this.fetchSelectedArrivals();
     let passed = JSON.stringify(removeArrival)
     this.setState({arrivalToRemove: removeArrival})
     console.log("this is a stingyfied of the map function on arrivals " + passed);
-    
+    this.arrivalAlert();
 
   }
    
 
+  arrivalAlert(){
+    /* let arriveTime = new Date(this.state.currentTime);
+    let alertTime = Moment(arriveTime).add(10, 'm').toDate();
+    let theAlertTime = alertTime.toString(); */
+    this.addZero();
+    this.getTimeNow();
 
+    this.state.arrivals.map(time => {
+      if(this.state.currentTime <= time.Expected_Arrival_Time){
+        alert(time.Expected_Arrival_Time + " from " + time.Starting_From +"  is arriving within 10 mins!");
+      }else{
+        alert("No arrivals due.")
+        return time.Starting_From;
+      }
+    
+    }
+    )
 
-
+  }
 
 
   onAddStationNameChange = event => this.setState({ newArrival: { ...this.state.newArrival, "StationName": event.target.value } });
   onAddStationsIdChange = event => this.setState({ newArrival: { ...this.state.newArrival, "id": event.target.value } });
 
-  componentDidMount = async () =>{
+  componentDidMount= async () => {
+    // add call to AWS API Gateway to fetch Arrivals here
+    // then set them in state
+    try {
+      await axios.get(`${config.api.invokeUrl}/arrivals`)
+      .then((response) => 
+      this.setState({arrivals : response.data.Items}));
+      
+      console.log(this.state.arrivals);
+      this.checkArrivalsPassed();
+      let obj = {};
+      obj = this.state.arrivals;
+      let sorted = _.sortBy(obj, [function(o) {return o.Expected_Arrival_Time;}]);
+      this.setState({arrivals: sorted})
     
-  this.fetchSelectedArrivals();
-}
+
+      let arriveTime = new Date(this.state.currentTime);
+      let alertTime = Moment(arriveTime).add(10, 'm').toDate();
+      let theAlertTime = alertTime.toString();
+  
+  
+      this.state.arrivals.map(time => {
+        if(theAlertTime >= time.Expected_Arrival_Time){
+          alert(time.Expected_Arrival_Time + " from " + time.Starting_From +"  is arriving within 10 mins!");
+        }else{
+          alert("No arrivals due.")
+          return time.Starting_From;
+        }
+      
+      }
+      )
+
+
+    } catch (err) {
+      console.log(`An error has occurred: ${err}`);
+    }
+  }
+
 
 
 
