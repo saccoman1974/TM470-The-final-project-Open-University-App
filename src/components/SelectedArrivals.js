@@ -89,11 +89,6 @@ export default class SelectedArrivals extends Component {
       obj = this.state.arrivals;
       let sorted = _.sortBy(obj, [function(o) {return o.Expected_Arrival_Time;}]);
       this.setState({arrivals: sorted})
-      
-
-    
-
-
 
 
     } catch (err) {
@@ -135,7 +130,6 @@ export default class SelectedArrivals extends Component {
         
     }else{
         console.log("no expired arrivals");
-// to do sort time.arrival in order!
 
         return this.state.arrivals.Expected_Arrival_Time;
       }
@@ -145,7 +139,7 @@ export default class SelectedArrivals extends Component {
     let passed = JSON.stringify(removeArrival)
     this.setState({arrivalToRemove: removeArrival})
     console.log("this is a stingyfied of the map function on arrivals " + passed);
-    this.arrivalAlert();
+    
 
   }
    
@@ -202,7 +196,7 @@ export default class SelectedArrivals extends Component {
           alert("No arrivals due.")
           return time.Starting_From;
         }
-      
+        this.arrivalAlert();
       }
       )
 
