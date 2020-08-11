@@ -13,6 +13,7 @@ export default class SelectedArrivals extends Component {
       id: "",
       newTrainId: "",
       currentTime:"",
+      futureTime: "",
         arrivals: [],
         arrivalsTimes: [],
         arrivalToRemove: []
@@ -151,17 +152,26 @@ export default class SelectedArrivals extends Component {
     this.addZero();
     this.getTimeNow();
 
+
+    var m = new Date();
+    //var z = m.setHours(m.getHours(),m.getMinutes()+10);
+    var n = this.addZero(m.getHours());
+    var o = this.addZero(m.getMinutes()+10);
+    const futureTime = n + ":" + o;
+    this.setState({futureTime: futureTime})
+
+    console.log("future time is " + futureTime)
     this.state.arrivals.map(time => {
-      if(this.state.currentTime <= time.Expected_Arrival_Time){
+      if(this.state.futureTime >= time.Expected_Arrival_Time){
         alert(time.Expected_Arrival_Time + " from " + time.Starting_From +"  is arriving within 10 mins!");
-      }else{
-        alert("No arrivals due.")
-        return time.Starting_From;
       }
+       
+      
     
     }
     )
-
+    alert("No other arrivals due.")
+    return futureTime;
   }
 
 
@@ -192,11 +202,11 @@ export default class SelectedArrivals extends Component {
       this.state.arrivals.map(time => {
         if(theAlertTime >= time.Expected_Arrival_Time){
           alert(time.Expected_Arrival_Time + " from " + time.Starting_From +"  is arriving within 10 mins!");
-        }else{
-          alert("No arrivals due.")
-          return time.Starting_From;
         }
-        this.arrivalAlert();
+          
+          return time.Starting_From;
+        
+        
       }
       )
 
@@ -204,6 +214,8 @@ export default class SelectedArrivals extends Component {
     } catch (err) {
       console.log(`An error has occurred: ${err}`);
     }
+
+    this.arrivalAlert();
   }
 
 
