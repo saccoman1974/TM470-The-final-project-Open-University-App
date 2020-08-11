@@ -17,7 +17,7 @@ handleLogOut = async event => {
       <nav className="navbar" role="navigation" aria-label="main navigation">
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
-            <img src="TM470logo.png" width="112" height="28" alt="hexal logo" />
+            <img src="TM470logo.PNG" width="112" height="28" alt="Taxi for for hire light" />
           </a>
         </div>
 
