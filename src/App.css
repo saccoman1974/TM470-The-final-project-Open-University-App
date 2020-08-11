@@ -61,3 +61,17 @@ body {
 .buttons {
   margin-left: 1em;
 }
+
+@media only screen and (max-width: 600px){
+
+
+  body { height:100%;
+         width: 100%;
+
+  }
+
+  .navbar,.navbar-end, .navbar-menu, .navbar-start {
+    size: 50%;
+  }
+
+}
