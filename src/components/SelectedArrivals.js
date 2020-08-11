@@ -129,6 +129,7 @@ export default class SelectedArrivals extends Component {
         console.log(this.newTrainId);
         this.deleteArrival();
         
+        
     }else{
         console.log("no expired arrivals");
 
@@ -179,9 +180,10 @@ export default class SelectedArrivals extends Component {
   onAddStationsIdChange = event => this.setState({ newArrival: { ...this.state.newArrival, "id": event.target.value } });
 
   componentDidMount= async () => {
+    
     // add call to AWS API Gateway to fetch Arrivals here
     // then set them in state
-    try {
+     try {
       await axios.get(`${config.api.invokeUrl}/arrivals`)
       .then((response) => 
       this.setState({arrivals : response.data.Items}));
@@ -192,7 +194,7 @@ export default class SelectedArrivals extends Component {
       obj = this.state.arrivals;
       let sorted = _.sortBy(obj, [function(o) {return o.Expected_Arrival_Time;}]);
       this.setState({arrivals: sorted})
-    
+      this.arrivalAlert();
 
       let arriveTime = new Date(this.state.currentTime);
       let alertTime = Moment(arriveTime).add(10, 'm').toDate();
@@ -214,8 +216,8 @@ export default class SelectedArrivals extends Component {
     } catch (err) {
       console.log(`An error has occurred: ${err}`);
     }
-
-    this.arrivalAlert();
+ 
+    
   }
 
 
